@@ -1,0 +1,602 @@
+[
+    {
+        "Name": "Beyd_Eff_Cs_GH_ProgrammedMapping_03_BdOnly",
+        "PathID": 7011573377648238204
+    },
+    {
+        "Name": "Beyd_Eff_UI_Distort_01",
+        "PathID": 4201113690986627716
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Aura_04",
+        "PathID": -469946635592338387
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Aura_05",
+        "PathID": 2886159765528060469
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Aura_06",
+        "PathID": -202767989970953437
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Aura_07",
+        "PathID": -1064645779703607551
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Aura_08",
+        "PathID": -3218571422381469129
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Aura_09",
+        "PathID": 6291083577738923612
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Aura_10",
+        "PathID": -2526577902507205058
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_GlowBig01",
+        "PathID": -8057372524474110714
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Line_05",
+        "PathID": -3436869603490589951
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Star_01",
+        "PathID": -3742382964270501464
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Star_02",
+        "PathID": -7460173072437461064
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Star_03",
+        "PathID": 2193706033169714763
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Star_04",
+        "PathID": 3020586716045384337
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Star_05",
+        "PathID": 3945698856187056501
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_Star_06",
+        "PathID": -7681973479957315104
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade1_Glow_00",
+        "PathID": 4140811724961585172
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade1_Glow_01",
+        "PathID": 5641353765802783299
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade1_Glow_02",
+        "PathID": -7203711996678913669
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade1_Glow_03",
+        "PathID": 5158180707966405099
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade1_Glow_04",
+        "PathID": -8380141013454756206
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade2_Glow_00",
+        "PathID": 1155974044209157309
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade2_Glow_01",
+        "PathID": -6914180179239378327
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade2_Glow_02",
+        "PathID": 4127212487054951000
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade2_Glow_03",
+        "PathID": 2495365689591154769
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade2_Glow_04",
+        "PathID": -2965744258719783941
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade2_Glow_05",
+        "PathID": 3152053129801791273
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade2_Glow_06",
+        "PathID": -818530294334130718
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade2_Glow_07",
+        "PathID": 6323724926118741914
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade3_Glow_00",
+        "PathID": -1398117198853390731
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade3_Glow_01",
+        "PathID": 7557859460869194681
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade3_Glow_02",
+        "PathID": -8952550562010780382
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade3_Glow_03",
+        "PathID": 2935569661754587848
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade3_Glow_04",
+        "PathID": 2605994613015218468
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade3_Glow_05",
+        "PathID": 7704157560979778535
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade3_Glow_06",
+        "PathID": 4376104210709789891
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade3_Glow_07",
+        "PathID": 945528347804165400
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade4_Glow_00",
+        "PathID": -8332482880689193417
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade4_Glow_01",
+        "PathID": -1937366264283949806
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade4_Glow_02",
+        "PathID": 7208389402351269385
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade4_Glow_03",
+        "PathID": 8303510811044235707
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade4_Glow_04",
+        "PathID": -6569117789015893082
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade4_Glow_05",
+        "PathID": -350201954482306726
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade4_Glow_06",
+        "PathID": -9126820530260489084
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade4_Glow_07",
+        "PathID": 145063318014350859
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade5_Glow_00",
+        "PathID": 4860228238193554671
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade5_Glow_01",
+        "PathID": 8171455342337529215
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade5_Glow_02",
+        "PathID": 7161259135561698875
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade5_Glow_03",
+        "PathID": -5910112089861385046
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade5_Glow_04",
+        "PathID": 4528553594253980492
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade5_Glow_05",
+        "PathID": -2126461150786675081
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade5_Glow_06",
+        "PathID": -524124433577905369
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade5_Glow_07",
+        "PathID": -7865924968220314529
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade6_Glow_00",
+        "PathID": -2247259792631144904
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade6_Glow_01",
+        "PathID": 6057477014249852473
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade6_Glow_02",
+        "PathID": -2459909361933266654
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade6_Glow_03",
+        "PathID": 1076837980209453718
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade6_Glow_04",
+        "PathID": 5966826841258680479
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade6_Glow_05",
+        "PathID": -187280879559600536
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade6_Glow_06",
+        "PathID": -322675533440333246
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade6_Glow_07",
+        "PathID": 7067628495703815574
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade7_Glow_00",
+        "PathID": -75946078606174004
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade7_Glow_01",
+        "PathID": 3984177391818658818
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade7_Glow_02",
+        "PathID": 8639450450511880669
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade7_Glow_03",
+        "PathID": 818713262044645838
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade7_Glow_04",
+        "PathID": -2720941230332117151
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade7_Glow_05",
+        "PathID": 2402438752457706879
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade7_Glow_06",
+        "PathID": -1645702485275095202
+    },
+    {
+        "Name": "Beyd_Eff_UI_EndPage_UPgrade7_Glow_07",
+        "PathID": -6656295400257825054
+    },
+    {
+        "Name": "Beyd_Eff_UI_Star_02",
+        "PathID": 8979691681656805420
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCBP_RewardSlot_Aura01",
+        "PathID": -1158649914956990329
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCBP_RewardSlot_Aura02",
+        "PathID": 6434367582158163105
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCBP_RewardSlot_Aura03",
+        "PathID": 364631709440975061
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCBP_RewardSlot_Scan01",
+        "PathID": 4071634262503061658
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCBattlePassPage_BG01_Aura01",
+        "PathID": -2117133091216216383
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCBattlePassPage_BG01_Distort01",
+        "PathID": -3203558404957262428
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCBattlePassPage_ImageDot05",
+        "PathID": -4853229251735574873
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCCostumeCurtainCanvas_Trail_03",
+        "PathID": 7105554912708508635
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCCultivatePage_Flare_01",
+        "PathID": 5432942617686131861
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCCultivatePage_Glow_02",
+        "PathID": -4888321260501412321
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCCultivatePage_Glow_03",
+        "PathID": 5951319610246264502
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCCultivatePage_Glow_04",
+        "PathID": 2510731683350731422
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCCultivatePage_Tier1_Ring_03",
+        "PathID": -6189483100132873363
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCGachaSettlement_BG02_Spine_Material",
+        "PathID": -1590851722376982007
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCGachaSettlement_BG_Spine_Material",
+        "PathID": -449805006545583092
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCInLevelDetailDialog_Progress_RanksBG_Light7",
+        "PathID": 6968044357459204640
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCScreenTransitionDialog_Dissolve_06",
+        "PathID": -6443986000092945947
+    },
+    {
+        "Name": "Beyd_Eff_UI_UgcItemSolt_Settlement_Quality03_Light01",
+        "PathID": 6263427346103989770
+    },
+    {
+        "Name": "Beyd_Eff_UI_UgcItemSolt_Settlement_Quality03_Light02",
+        "PathID": 1199095621441442603
+    },
+    {
+        "Name": "Eff_Aura_001_U_T_A_34",
+        "PathID": 2701215893776151275
+    },
+    {
+        "Name": "Eff_Aura_306_U_T_A_75",
+        "PathID": -2358218412259992883
+    },
+    {
+        "Name": "Eff_Aura_364_UM_T_A_24",
+        "PathID": -8479639955625907618
+    },
+    {
+        "Name": "Eff_BeyondUI_BPShowCostume_GroundLine_02",
+        "PathID": -4537731544643527218
+    },
+    {
+        "Name": "Eff_BeyondUI_BPShowCostume_SkyLine_04",
+        "PathID": -3719947202623527901
+    },
+    {
+        "Name": "Eff_BeyondUI_ChooseChar_SkyLine_04",
+        "PathID": -628961776401986110
+    },
+    {
+        "Name": "Eff_Glow_104_O_T_43",
+        "PathID": -6312906713400494136
+    },
+    {
+        "Name": "Eff_Monster_Rerir_CombatReturn_1",
+        "PathID": 2825607055978430024
+    },
+    {
+        "Name": "Eff_Monster_Rerir_CombatReturn_2",
+        "PathID": 1442057758117703317
+    },
+    {
+        "Name": "Eff_Monster_Rerir_CombatReturn_3",
+        "PathID": -8471386849569011963
+    },
+    {
+        "Name": "Eff_Monster_Rerir_CombatReturn_4",
+        "PathID": -7646196070617234684
+    },
+    {
+        "Name": "Eff_Other_492_N_SP_34",
+        "PathID": -189244524434136473
+    },
+    {
+        "Name": "Eff_Other_492_N_SP_35",
+        "PathID": 3305690439360350509
+    },
+    {
+        "Name": "Eff_Sc_EnergyCaster_Screen_CustomUV_01_Always_1",
+        "PathID": 2785521707914164085
+    },
+    {
+        "Name": "Eff_Sc_EnergyCaster_Screen_Ring_Burst_01_Always_1",
+        "PathID": -6891522043518986043
+    },
+    {
+        "Name": "Eff_Sc_EnergyCaster_Screen_Ring_Burst_02_Always_1",
+        "PathID": 2922492712363809943
+    },
+    {
+        "Name": "Eff_Sc_SolinaisSpace_DefenseTower_041",
+        "PathID": -1120029504828452645
+    },
+    {
+        "Name": "Eff_Stages_Dgo_Level_Du61_NK_Rerir_Godray_04",
+        "PathID": 8676126537260385855
+    },
+    {
+        "Name": "Eff_Stages_Dgo_Level_Du61_NK_Rerir_Godray_05",
+        "PathID": -79281564019815845
+    },
+    {
+        "Name": "Eff_Stages_Dgo_Level_NK_Rerir_GlowPro_09",
+        "PathID": 6729041319699885202
+    },
+    {
+        "Name": "Eff_Stages_Dgo_Level_NK_Rerir_GlowPro_11",
+        "PathID": -2233300556375293848
+    },
+    {
+        "Name": "Eff_Stages_Dgo_Level_NK_Rerir_GlowPro_12",
+        "PathID": 7863580001026901480
+    },
+    {
+        "Name": "Eff_Stages_Dgo_Level_NK_Rerir_GlowPro_13",
+        "PathID": 5981087180632607001
+    },
+    {
+        "Name": "Eff_Stages_Lighting_SolnarisSpace_Light_GlowPro_01",
+        "PathID": 420136401353127937
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Chuxian_01",
+        "PathID": -4958798814245843928
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Chuxian_02",
+        "PathID": 3262069221409283076
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Chuxian_03",
+        "PathID": 3687437138913840017
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_01",
+        "PathID": 2570754209589930695
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_02",
+        "PathID": 5866228961491411000
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_04",
+        "PathID": -3300231987547351994
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_06",
+        "PathID": 57013878554638449
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_11",
+        "PathID": 2513297813486202997
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_12",
+        "PathID": 1640204970039646372
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_13",
+        "PathID": -4840058666088169353
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_14",
+        "PathID": -906632906942317647
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Fire_15",
+        "PathID": 6333936551451398142
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Glow_01",
+        "PathID": 8481210375821694430
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Glow_02",
+        "PathID": 2071082926784604075
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Line_03",
+        "PathID": -8361893038089117323
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Line_04",
+        "PathID": -5327891534362065273
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Line_05",
+        "PathID": 3774184332552621353
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Line_06",
+        "PathID": -371604169111045304
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Moon_01",
+        "PathID": 7275527125598009861
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Moon_02",
+        "PathID": 6729901944661789506
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Moon_03",
+        "PathID": 1940583432174831547
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Quan_01",
+        "PathID": 379103223272456108
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Ceremony_Quan_02",
+        "PathID": -4928136159654776073
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_Door_CY_Fire_04",
+        "PathID": 280539776743841757
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_Door_CY_Fire_05",
+        "PathID": 7559961254599913091
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_Door_CY_Fire_06",
+        "PathID": -4779299923564570173
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_Door_CY_Glow_03",
+        "PathID": -1102361430362707521
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_Door_CY_Glow_06",
+        "PathID": 8915208151513344246
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Rerir_Rerirer_BG_05",
+        "PathID": -1790137028307683933
+    },
+    {
+        "Name": "Eff_Trail_408_UNMD_T_SP_02",
+        "PathID": -2811842839705328074
+    },
+    {
+        "Name": "Eff_UI_LaylaOverthinking_Text_Smoke",
+        "PathID": 2494685587584228413
+    },
+    {
+        "Name": "Eff_UI_LaylaOverthinking_Text_Smoke_Add",
+        "PathID": 2169351327639628789
+    },
+    {
+        "Name": "Eff_UI_MusicParty_Note_OuterRing",
+        "PathID": 7299038295857572086
+    },
+    {
+        "Name": "Eff_UI_MusicParty_Note_Prefect_01",
+        "PathID": 7919363223492643657
+    },
+    {
+        "Name": "Eff_UI_UGC_UGCGachaPage_BtnGiftDetails_Dot02",
+        "PathID": 2056249717682226074
+    },
+    {
+        "Name": "Eff_UI_Ugc_Common_ColorNoise_05",
+        "PathID": -8163830442538174935
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "Name": "Attack_A",
+        "PathID": 619899968901823616
+    },
+    {
+        "Name": "Attack_B",
+        "PathID": -6614128363724514204
+    },
+    {
+        "Name": "Attack_B",
+        "PathID": 345955211755178145
+    },
+    {
+        "Name": "Attack_B",
+        "PathID": 3977688057198582443
+    },
+    {
+        "Name": "Attack_C",
+        "PathID": 2876685251186190262
+    },
+    {
+        "Name": "Beyd_Eff_Model_UI_UGCBP_RewardSlot_Mesh01",
+        "PathID": 8954832603955688557
+    },
+    {
+        "Name": "Beyd_Eff_Model_UI_UGCBP_RewardSlot_Mesh02",
+        "PathID": 8631935197567431518
+    },
+    {
+        "Name": "Beyd_Eff_Model_UI_UGCBP_RewardSlot_Mesh03",
+        "PathID": -4342440386387304231
+    },
+    {
+        "Name": "Beyd_Object_Grass_Flower_01_Lod1",
+        "PathID": 8659956528440704855
+    },
+    {
+        "Name": "Beyd_Object_Grass_Flower_02_Lod1",
+        "PathID": -6357665427975572599
+    },
+    {
+        "Name": "Beyd_Object_Grass_Fulu_01_Lod1",
+        "PathID": -5419115983132026203
+    },
+    {
+        "Name": "Beyd_Object_Grass_Maple_01_Lod1",
+        "PathID": 609622868534519472
+    },
+    {
+        "Name": "Beyd_Object_Grass_Maple_01_Lod2",
+        "PathID": -2168073691948201785
+    },
+    {
+        "Name": "Beyd_Object_Grass_Rose_01_Lod1",
+        "PathID": 1997223508997874311
+    },
+    {
+        "Name": "Beyd_Object_Grass_SGrass_01_Lod1",
+        "PathID": -3239815525707982395
+    },
+    {
+        "Name": "Beyd_Object_Prop_TanWei_01_Lod2",
+        "PathID": -1869577987905717638
+    },
+    {
+        "Name": "Beyd_Object_Tree_Bamboo_01_02_Lod1",
+        "PathID": 3708639752670006278
+    },
+    {
+        "Name": "Beyd_Object_Tree_Bamboo_02_02_Lod1",
+        "PathID": -4021469702848117157
+    },
+    {
+        "Name": "Beyd_Object_Tree_Fs_01_01_Lod1",
+        "PathID": -6537390841290657531
+    },
+    {
+        "Name": "Beyd_Object_Tree_Lxs_01_01_Lod1",
+        "PathID": -9204280317873497228
+    },
+    {
+        "Name": "Beyd_Object_Tree_SongShu_01_01_Lod1",
+        "PathID": 6184662855160573138
+    },
+    {
+        "Name": "Beyd_Object_Tree_SongShu_01_01_Lod2",
+        "PathID": 2067839017567487104
+    },
+    {
+        "Name": "Beyd_Object_Tree_SongShu_02_01_Lod1",
+        "PathID": 2558182206731667827
+    },
+    {
+        "Name": "Beyd_Object_Tree_SongShu_03_01_Lod1",
+        "PathID": 6537723865765990184
+    },
+    {
+        "Name": "Beyd_Object_Tree_SongShu_03_01_Lod2",
+        "PathID": -313071684853781849
+    },
+    {
+        "Name": "Beyd_Object_Tree_SongShu_04_01_Lod1",
+        "PathID": -7892495288254529631
+    },
+    {
+        "Name": "Beyd_Object_Tree_YingHuaShu_01_01_Lod1",
+        "PathID": -9086006176609419583
+    },
+    {
+        "Name": "Beyd_Object_Tree_YingHuaShu_02_01_Lod1",
+        "PathID": -8827739523044051751
+    },
+    {
+        "Name": "Beyd_Object_Tree_YingHuaShu_02_01_Lod2",
+        "PathID": -376870428748148963
+    },
+    {
+        "Name": "Core_A",
+        "PathID": -7277676638547881997
+    },
+    {
+        "Name": "Core_A",
+        "PathID": -4795030426522945085
+    },
+    {
+        "Name": "Core_B",
+        "PathID": 2777547147726747431
+    },
+    {
+        "Name": "Core_B",
+        "PathID": 8742951342818062135
+    },
+    {
+        "Name": "Core_B",
+        "PathID": 730743160095865169
+    },
+    {
+        "Name": "Eff_Model_BendPlane_01_05",
+        "PathID": -2116007288720733908
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Ceremony_01_Col",
+        "PathID": 2052986643153832468
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Ceremony_Plan_01_Vo",
+        "PathID": 3226278783213028191
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Ceremony_Plan_05_Vo",
+        "PathID": 202568165674676515
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Fd_TSKJ_08_Vo",
+        "PathID": 2021227357125639619
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Cylinder_01_Vo",
+        "PathID": -6260574007790281208
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Cylinder_06_Vo",
+        "PathID": -5730928884992313818
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Cylinder_07_Vo",
+        "PathID": 3198219029483885276
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Cylinder_08_Vo",
+        "PathID": 9151138859273260126
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Plan_01_Vo",
+        "PathID": -5897631650540774055
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_CY_Plan_02_Vo",
+        "PathID": 7476315392764026809
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Rerir_RerirerBG_01_Vo",
+        "PathID": 2853658854391847963
+    },
+    {
+        "Name": "KuuvahkiCoil",
+        "PathID": 7108263308093670468
+    },
+    {
+        "Name": "KuuvahkiCoil",
+        "PathID": 4117137296211068872
+    },
+    {
+        "Name": "KuuvahkiCoil",
+        "PathID": 5098730077184153776
+    },
+    {
+        "Name": "KuuvahkiCoil",
+        "PathID": 4853131748601800958
+    },
+    {
+        "Name": "KuuvahkiCoil",
+        "PathID": 3338818992709994754
+    },
+    {
+        "Name": "Level_UgcII_Unique_Filling_06_Vo",
+        "PathID": 1427787794225536442
+    },
+    {
+        "Name": "Move_A",
+        "PathID": -5155927918161488170
+    },
+    {
+        "Name": "Move_A",
+        "PathID": -1898708640905148089
+    },
+    {
+        "Name": "Move_B",
+        "PathID": -516467814352642224
+    },
+    {
+        "Name": "Move_B",
+        "PathID": 1890243263386777710
+    },
+    {
+        "Name": "Move_E",
+        "PathID": 2686438511330189997
+    },
+    {
+        "Name": "Property_Ani_Prop_AirWall_ChessDungeon_01_Col",
+        "PathID": -1120105074052319693
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_001",
+        "PathID": -8175395877380947409
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_002",
+        "PathID": -5814062759669350667
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_003",
+        "PathID": -2827301649891114722
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_004",
+        "PathID": 20959876330109888
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_005",
+        "PathID": 5826998763237586661
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_006",
+        "PathID": 3488450298238031435
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_007",
+        "PathID": -8399302137013302990
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_008",
+        "PathID": -2540390996355775479
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_009",
+        "PathID": -6945879244927992847
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_010",
+        "PathID": -538128079613905135
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_011",
+        "PathID": 3455593287294624483
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_012",
+        "PathID": -2372361016451141295
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_013",
+        "PathID": -1764520859169629684
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_014",
+        "PathID": -3479554443494206261
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_015",
+        "PathID": -5723521125648768555
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_016",
+        "PathID": -5137293927070410224
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_017",
+        "PathID": 5726459245143526217
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_018",
+        "PathID": -5137042606965751494
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_019",
+        "PathID": -983335727571440822
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_020",
+        "PathID": 5046855363892111604
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_021",
+        "PathID": 3681320311643144057
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_022",
+        "PathID": 5660955406788783350
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_023",
+        "PathID": 3959894716569927852
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_024",
+        "PathID": -1964544041919718844
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_025",
+        "PathID": 8610429339397238090
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_026",
+        "PathID": 5851428027885462533
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_027",
+        "PathID": -5477783192952363167
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_028",
+        "PathID": -208218560019433149
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_029",
+        "PathID": 519796077965431005
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_030",
+        "PathID": 2209505818477498527
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0_v_031",
+        "PathID": -1011664449080070549
+    },
+    {
+        "Name": "Stages_BigWorld_2_10_Combine_4_0_20_WaterPlane_CY_QD_Festival_1_Col",
+        "PathID": -2273603313000582466
+    },
+    {
+        "Name": "Stages_BigWorld_2_10_Combine_4_0_20_WaterPlane_CY_QD_Festival_1_Vo",
+        "PathID": -2598789022959758151
+    },
+    {
+        "Name": "Stages_BigWorld_2_10_Combine_4_0_20_WaterPlane_Combine_CY_QD_Festival_1_Col",
+        "PathID": -7644855079382313807
+    },
+    {
+        "Name": "Stages_BigWorld_2_10_Combine_4_0_20_WaterPlane_Combine_CY_QD_Festival_1_Vo",
+        "PathID": 6284830484070538963
+    },
+    {
+        "Name": "Stages_BigWorld_2_10_Combine_4_0_21_WaterPlane_CY_QD_Festival_1_Col",
+        "PathID": -7164706943906964681
+    },
+    {
+        "Name": "Stages_BigWorld_2_10_Combine_4_0_21_WaterPlane_CY_QD_Festival_1_Vo",
+        "PathID": 1704899411433600091
+    },
+    {
+        "Name": "Stages_BigWorld_2_10_Combine_4_0_21_WaterPlane_Combine_CY_QD_Festival_1_Col",
+        "PathID": -39121415097907027
+    },
+    {
+        "Name": "Stages_BigWorld_2_10_Combine_4_0_21_WaterPlane_Combine_CY_QD_Festival_1_Vo",
+        "PathID": 6302206851732062452
+    },
+    {
+        "Name": "SteamCoil",
+        "PathID": -8059720592055112696
+    },
+    {
+        "Name": "SteamCoil",
+        "PathID": -7869625293263326045
+    }
+]

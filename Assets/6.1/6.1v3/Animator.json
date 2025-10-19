@@ -1,0 +1,362 @@
+[
+    {
+        "Name": "0",
+        "PathID": 7919476304433922739
+    },
+    {
+        "Name": "1",
+        "PathID": 4949710938204206350
+    },
+    {
+        "Name": "Animal_Fox_Model",
+        "PathID": 7214980974365376951
+    },
+    {
+        "Name": "Beyd_Eff_Model_Cs_GH_S_Box_BdOnly",
+        "PathID": 2132647270814215011
+    },
+    {
+        "Name": "Beyd_Eff_Model_Cs_GH_S_Box_BdOnly",
+        "PathID": 3218433723523209628
+    },
+    {
+        "Name": "Beyd_Eff_Model_Cs_GH_S_Box_BdOnly",
+        "PathID": 3485848527937389874
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCBattlePassPage_Spine_A3",
+        "PathID": -7470456683454263804
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCRecommendPage_BG601_Spine",
+        "PathID": 6081519377748554847
+    },
+    {
+        "Name": "Beyd_Object_Prop_BounceBall_01_Vo",
+        "PathID": 6552882014164546875
+    },
+    {
+        "Name": "BtnClose",
+        "PathID": 4022824291332041456
+    },
+    {
+        "Name": "Btn_InputKey2_PS4_GroupKey_Slash",
+        "PathID": -7795118640826677316
+    },
+    {
+        "Name": "CM vcam1",
+        "PathID": 6911232957052610264
+    },
+    {
+        "Name": "CM vcam1",
+        "PathID": 8427717509672518900
+    },
+    {
+        "Name": "CM vcam1",
+        "PathID": -5988289044538937594
+    },
+    {
+        "Name": "CM vcam2",
+        "PathID": 9131384646436705662
+    },
+    {
+        "Name": "CM vcam2",
+        "PathID": 2041255661397034815
+    },
+    {
+        "Name": "CM vcam2",
+        "PathID": -3373887802373852294
+    },
+    {
+        "Name": "CM vcam3",
+        "PathID": 1172241360752120282
+    },
+    {
+        "Name": "CM vcam3",
+        "PathID": -7909318355134457852
+    },
+    {
+        "Name": "CM vcam3",
+        "PathID": 6296824982704912372
+    },
+    {
+        "Name": "CM vcam3",
+        "PathID": 169447027149126974
+    },
+    {
+        "Name": "Eff_HelixLine_C07",
+        "PathID": -6136254212667002794
+    },
+    {
+        "Name": "Eff_HelixLine_C07",
+        "PathID": -5108985436839684079
+    },
+    {
+        "Name": "Eff_Model_C02",
+        "PathID": 3702563605335750786
+    },
+    {
+        "Name": "Eff_Model_C02",
+        "PathID": 4356983796640162703
+    },
+    {
+        "Name": "Eff_Monster_Rerir_CombatReturn",
+        "PathID": 2633849858827358781
+    },
+    {
+        "Name": "Eff_Pipple_Ground_C06",
+        "PathID": 6343378928205488715
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Abyssal_Smoke_01",
+        "PathID": 2944169239856266297
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Abyssal_Track_01",
+        "PathID": -2412647957575932147
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_All_01_PC",
+        "PathID": 8215393992747405440
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_All_01_PS4Base",
+        "PathID": -6211457490237758197
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Ceremony_01_Mobile",
+        "PathID": 3334778465636819897
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Ceremony_01_PC",
+        "PathID": 9154979620569567707
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Ceremony_01_PS4Base",
+        "PathID": -56782540332844209
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Stairs_01_PC",
+        "PathID": -1207092102070520166
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Stairs_01_PS4Base",
+        "PathID": -1512290002333463384
+    },
+    {
+        "Name": "Eff_SpeedLine_UI_C02",
+        "PathID": -2021916467564012483
+    },
+    {
+        "Name": "Eff_Trail_C03",
+        "PathID": 1665030624696773780
+    },
+    {
+        "Name": "Eff_UI_UGC_GachaSettlement_BG00_Spine",
+        "PathID": -8125619108243627750
+    },
+    {
+        "Name": "Eff_UI_UGC_GachaSettlement_BG01_Dot_Spine",
+        "PathID": -3533215476954820800
+    },
+    {
+        "Name": "Eff_UI_UGC_GachaSettlement_BG01_Spine",
+        "PathID": 8734176234842839167
+    },
+    {
+        "Name": "Eff_UI_UGC_GachaSettlement_BG02_Spine",
+        "PathID": -8769258934018512883
+    },
+    {
+        "Name": "Eff_Water_Ripple_Starry_UI_C01",
+        "PathID": 4189762471977670786
+    },
+    {
+        "Name": "Eff_Water_Ripple_Starry_UI_C01",
+        "PathID": 8223569270454336789
+    },
+    {
+        "Name": "GrpGameStatistics",
+        "PathID": -3082426065260431967
+    },
+    {
+        "Name": "GrpLock",
+        "PathID": -3520367936061321762
+    },
+    {
+        "Name": "GrpMyData",
+        "PathID": 2977632840408049222
+    },
+    {
+        "Name": "GrpStars",
+        "PathID": 69805452766827247
+    },
+    {
+        "Name": "Hit",
+        "PathID": 278075352862836739
+    },
+    {
+        "Name": "Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_Zhuti_01",
+        "PathID": 3296307299003958369
+    },
+    {
+        "Name": "Item",
+        "PathID": 8962973793823390583
+    },
+    {
+        "Name": "ListRow_Template",
+        "PathID": -6702600221307778244
+    },
+    {
+        "Name": "MPInvitationV2Btn",
+        "PathID": 6078170755023049761
+    },
+    {
+        "Name": "Model",
+        "PathID": 3728440781475778098
+    },
+    {
+        "Name": "Pic",
+        "PathID": 3419204882333774445
+    },
+    {
+        "Name": "Pic_Big",
+        "PathID": -6197355165091461822
+    },
+    {
+        "Name": "Point light",
+        "PathID": -5565621165052970229
+    },
+    {
+        "Name": "Point light",
+        "PathID": -2115377889978311119
+    },
+    {
+        "Name": "Point light (10)",
+        "PathID": -8200951653461961695
+    },
+    {
+        "Name": "Point light (11)",
+        "PathID": -4885580455200437883
+    },
+    {
+        "Name": "Point light (12)",
+        "PathID": -5509932676163014074
+    },
+    {
+        "Name": "Point light (7)",
+        "PathID": 7717693177159106991
+    },
+    {
+        "Name": "Point light (9)",
+        "PathID": 2100421222034504959
+    },
+    {
+        "Name": "Property_Ani_Prop_NDKLJukebox_01",
+        "PathID": -8309189453115614423
+    },
+    {
+        "Name": "SkillObj_Lauma_ElementalArt_Deer_Model",
+        "PathID": -4738755629980919229
+    },
+    {
+        "Name": "SkillTintLight_Lauma",
+        "PathID": 8666448379979357232
+    },
+    {
+        "Name": "SkillTintLight_Nefer",
+        "PathID": 3951031818696929702
+    },
+    {
+        "Name": "Spine2_Cloulda",
+        "PathID": -7227545534122498837
+    },
+    {
+        "Name": "Spine2_Plane",
+        "PathID": -7991172392159562217
+    },
+    {
+        "Name": "Spine3_Plane",
+        "PathID": 2712323652308490795
+    },
+    {
+        "Name": "Spine3_StarLine1",
+        "PathID": 1642251170608953029
+    },
+    {
+        "Name": "Spine3_StarLine2",
+        "PathID": -393650644790404766
+    },
+    {
+        "Name": "Spine3_StarLine3",
+        "PathID": 3657574100381741504
+    },
+    {
+        "Name": "Spine4_Rainbow1",
+        "PathID": 1920510023982956605
+    },
+    {
+        "Name": "Spine4_Rainbow2",
+        "PathID": -2871038635854231440
+    },
+    {
+        "Name": "Spine4_Rainbow3",
+        "PathID": -2056375551921415738
+    },
+    {
+        "Name": "Spine5_Star",
+        "PathID": -4843087063014736327
+    },
+    {
+        "Name": "Spine5_StarTrails",
+        "PathID": -9003128414435802520
+    },
+    {
+        "Name": "SumeruAdvTrnFightInLevel_BtnSkip",
+        "PathID": -4391081652600136652
+    },
+    {
+        "Name": "UGCCultivatePage_TabActivity",
+        "PathID": 4236050532457965752
+    },
+    {
+        "Name": "UGCInLevelShowTips",
+        "PathID": 1597255861316274281
+    },
+    {
+        "Name": "UGCRankBadge_1s_Star",
+        "PathID": -2433026570849754847
+    },
+    {
+        "Name": "UGCRankBadge_2s_Star",
+        "PathID": -4061333619296002878
+    },
+    {
+        "Name": "UGCRankBadge_3s_Star",
+        "PathID": 4531626458806111731
+    },
+    {
+        "Name": "UGCRankBadge_4s_Star",
+        "PathID": -6263510925531084960
+    },
+    {
+        "Name": "UGCRankBadge_5s_Star",
+        "PathID": 8707807924310813828
+    },
+    {
+        "Name": "UGCRankBadge_6s_Star",
+        "PathID": -6253288195037604066
+    },
+    {
+        "Name": "UGCRankBadge_7s",
+        "PathID": -7027775307346616487
+    },
+    {
+        "Name": "UGC_ItemSlotCard_Settlemen_Conversion",
+        "PathID": 3128784625186384306
+    },
+    {
+        "Name": "UI_UGC_Dropdown_40_W_Icon_NoKey",
+        "PathID": 2378838889817595162
+    }
+]

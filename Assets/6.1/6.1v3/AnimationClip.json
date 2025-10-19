@@ -1,0 +1,346 @@
+[
+    {
+        "Name": "Ani_Avatar_NPC_Lady_Catalyst_Nefer_PersonalRead01AS",
+        "PathID": 438761443048891661
+    },
+    {
+        "Name": "Ani_Avatar_NPC_Lady_Catalyst_Nefer_PersonalRead01BS",
+        "PathID": -315973640355695131
+    },
+    {
+        "Name": "Ani_Avatar_NPC_Lady_Catalyst_Nefer_PersonalRead01Loop",
+        "PathID": -6255879733311338069
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Activate_01_AS_SuitAdd_0",
+        "PathID": -9005711434784034196
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Activate_01_SuitAdd_0",
+        "PathID": -2011068520261105464
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_JumpUpstairsHighL",
+        "PathID": 5001282657631351618
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_JumpUpstairsHighL+Mirror",
+        "PathID": 4228116326499404362
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_JumpUpstairsLowL",
+        "PathID": -7255487391959013564
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_JumpUpstairsLowL+Mirror",
+        "PathID": -6942680011171707125
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_SwimDash",
+        "PathID": 8337469954438437254
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_SwimDashL",
+        "PathID": 2699639250356457412
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_SwimDashR",
+        "PathID": -3376931179684235919
+    },
+    {
+        "Name": "Ani_Canvas3D_Move_BeyondHall",
+        "PathID": -7620808374391079647
+    },
+    {
+        "Name": "Ani_Eff_SceneObj_Stages_Abyssal_Smoke_01_Loop",
+        "PathID": 9095102157611804638
+    },
+    {
+        "Name": "Ani_Eff_SceneObj_Stages_Arlecchino_Door_Ceremony_01_FadeIn",
+        "PathID": 3893043494060013419
+    },
+    {
+        "Name": "Ani_Eff_SceneObj_Stages_Arlecchino_Door_Ceremony_01_Loop",
+        "PathID": -8524235909250935372
+    },
+    {
+        "Name": "Ani_MPInvitationListDialogV2_FadeIn",
+        "PathID": -1872260879422937489
+    },
+    {
+        "Name": "Ani_MPInvitationListDialogV2_FadeOut",
+        "PathID": -8338936160612793502
+    },
+    {
+        "Name": "Ani_UGCBPGradePurchaseDialog_FadeIn",
+        "PathID": 3061317531446441379
+    },
+    {
+        "Name": "Ani_UGCBPGradePurchaseDialog_FadeOut",
+        "PathID": -4649490090378369091
+    },
+    {
+        "Name": "Ani_UGCCheckVideoDialog_FadeIn",
+        "PathID": 6581627077546502948
+    },
+    {
+        "Name": "Ani_UGCCheckVideoDialog_FadeOut",
+        "PathID": -4754803933028366501
+    },
+    {
+        "Name": "Ani_UGCCostumeInfoSideDialog_FadeIn",
+        "PathID": -7237028105582310514
+    },
+    {
+        "Name": "Ani_UGCCostumeInfoSideDialog_FadeOut",
+        "PathID": -1175477000940777890
+    },
+    {
+        "Name": "Ani_UGCInLevelShowTips_FadeIn",
+        "PathID": 3580486452948132860
+    },
+    {
+        "Name": "Ani_UGC_ItemSlotCard_Settlemen_Conversion_FadeIn",
+        "PathID": 8157003451538518299
+    },
+    {
+        "Name": "Ani_UGC_ItemSlotCard_Settlemen_Conversion_Template_FadeIn",
+        "PathID": 8073545100999522636
+    },
+    {
+        "Name": "Ani_UGC_UGCCultivatePage_PlayerLevelRewardDialog_FadeIn",
+        "PathID": 35328518295701499
+    },
+    {
+        "Name": "Ani_UGC_UGCCultivatePage_PlayerLevelRewardDialog_FadeOut",
+        "PathID": -6861408548444726061
+    },
+    {
+        "Name": "Ani_UI_UGC_Btn_Toggle_W_Off",
+        "PathID": -4818999557773800901
+    },
+    {
+        "Name": "Ani_UI_UGC_Btn_Toggle_W_On",
+        "PathID": -6745424802707806983
+    },
+    {
+        "Name": "Ani_UI_UGC_Toggle_Wish_LightNormal",
+        "PathID": 4295312636803719933
+    },
+    {
+        "Name": "Ani_UI_UGC_Toggle_Wish_LightUp",
+        "PathID": 2523445446327562934
+    },
+    {
+        "Name": "Disabled",
+        "PathID": 2492490277194454277
+    },
+    {
+        "Name": "Disabled",
+        "PathID": 2923838809409474070
+    },
+    {
+        "Name": "Disabled",
+        "PathID": -3113075889031729479
+    },
+    {
+        "Name": "Disabled",
+        "PathID": -1931474396538338217
+    },
+    {
+        "Name": "Disabled",
+        "PathID": -2263218390790812378
+    },
+    {
+        "Name": "Disabled",
+        "PathID": 1942062119373745276
+    },
+    {
+        "Name": "Eff_Ani_Monster_Rerir_CombatReturn_FadeIn",
+        "PathID": -8639775882592855636
+    },
+    {
+        "Name": "Eff_Ani_Monster_Rerir_CombatReturn_FadeOut",
+        "PathID": 6195231684762662675
+    },
+    {
+        "Name": "Eff_Ani_Monster_Rerir_CombatReturn_Loop",
+        "PathID": 6812543036263092487
+    },
+    {
+        "Name": "FadeIn",
+        "PathID": 4990122001557649266
+    },
+    {
+        "Name": "FadeIn",
+        "PathID": 5292371636590943651
+    },
+    {
+        "Name": "FadeIn",
+        "PathID": 8123133083152967353
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": -790602891119179377
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": -2944234833417259670
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": -6158083244355214196
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": -5068638835030711332
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": -587402550346878079
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": -23261723915123752
+    },
+    {
+        "Name": "Loop",
+        "PathID": -2185235980955009827
+    },
+    {
+        "Name": "Loop",
+        "PathID": 7358321033198725445
+    },
+    {
+        "Name": "Loop",
+        "PathID": 5113674842450382331
+    },
+    {
+        "Name": "Loop",
+        "PathID": 2914197075964671223
+    },
+    {
+        "Name": "Normal",
+        "PathID": 3234129332104295182
+    },
+    {
+        "Name": "Normal",
+        "PathID": -7459275375093822546
+    },
+    {
+        "Name": "Normal",
+        "PathID": 6241858813540091850
+    },
+    {
+        "Name": "Normal",
+        "PathID": -4625342466844791992
+    },
+    {
+        "Name": "Normal",
+        "PathID": -8157964834963656141
+    },
+    {
+        "Name": "Normal",
+        "PathID": -1171520838796037984
+    },
+    {
+        "Name": "Pressed",
+        "PathID": -2019106621740474211
+    },
+    {
+        "Name": "Pressed",
+        "PathID": 8102836583018767633
+    },
+    {
+        "Name": "Pressed",
+        "PathID": 3830045656538539220
+    },
+    {
+        "Name": "Pressed",
+        "PathID": -6880894390082938709
+    },
+    {
+        "Name": "Pressed",
+        "PathID": 753285318128313357
+    },
+    {
+        "Name": "Pressed",
+        "PathID": -5932779942491486032
+    },
+    {
+        "Name": "Recorded",
+        "PathID": -2780618387817015634
+    },
+    {
+        "Name": "Recorded",
+        "PathID": 6514143280745948300
+    },
+    {
+        "Name": "Recorded",
+        "PathID": -517875350912601431
+    },
+    {
+        "Name": "Recorded",
+        "PathID": 1064420860082609046
+    },
+    {
+        "Name": "Recorded",
+        "PathID": 1251063105607698034
+    },
+    {
+        "Name": "Recorded (1)",
+        "PathID": 3114854056789280393
+    },
+    {
+        "Name": "Recorded (1)",
+        "PathID": 7463917314148877552
+    },
+    {
+        "Name": "Recorded (1)",
+        "PathID": 2222228139803825123
+    },
+    {
+        "Name": "Recorded (1)",
+        "PathID": -2120263154738685854
+    },
+    {
+        "Name": "Recorded (1)",
+        "PathID": 6854971975201679984
+    },
+    {
+        "Name": "Recorded (2)",
+        "PathID": -7584134953501634629
+    },
+    {
+        "Name": "Recorded (2)",
+        "PathID": 4768561638001699136
+    },
+    {
+        "Name": "Recorded (2)",
+        "PathID": 1397373674705566657
+    },
+    {
+        "Name": "Recorded (2)",
+        "PathID": -4040888648965749552
+    },
+    {
+        "Name": "Recorded (2)",
+        "PathID": -4261659147933033049
+    },
+    {
+        "Name": "Recorded (3)",
+        "PathID": -8674939152345172225
+    },
+    {
+        "Name": "Recorded (4)",
+        "PathID": -8831083063884461196
+    },
+    {
+        "Name": "Recorded (5)",
+        "PathID": 2432158210631377765
+    },
+    {
+        "Name": "Recorded (6)",
+        "PathID": 5779632440567856367
+    }
+]
