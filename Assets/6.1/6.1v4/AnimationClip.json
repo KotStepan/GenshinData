@@ -1,0 +1,602 @@
+[
+    {
+        "Name": "Ani_Avatar_Lady_Catalyst_Nefer_ClimbR_Adjust",
+        "PathID": 3010808011703744766
+    },
+    {
+        "Name": "Ani_Avatar_Lady_Catalyst_Nefer_ClimbR_Adjust+Mirror",
+        "PathID": 1502933490369482855
+    },
+    {
+        "Name": "Ani_Avatar_Sword_Hit_H_SuitAdd_0",
+        "PathID": 7876006933093245848
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayDrum01AS",
+        "PathID": -1469475401511206229
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayDrum01BS",
+        "PathID": -2542930551774201001
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayDrum01Loop",
+        "PathID": -6983179670141215781
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayFrenchHorn01AS",
+        "PathID": 5208835618922677404
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayFrenchHorn01BS",
+        "PathID": -4939595150679467449
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayFrenchHorn01Loop",
+        "PathID": 7621919296403095144
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayLyre01AS",
+        "PathID": 6211232443509831353
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayLyre01BS",
+        "PathID": -1946881310152327221
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayLyre01Loop",
+        "PathID": 6309726579653579930
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayNatlanKeyBoard01AS",
+        "PathID": -6344500111458450965
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayNatlanKeyBoard01BS",
+        "PathID": 3493352766629483750
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayNatlanKeyBoard01Loop",
+        "PathID": 6917343201798937899
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayQin01AS",
+        "PathID": -7063017524103170333
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayQin01BS",
+        "PathID": 3487867076362450219
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_PlayQin01Loop",
+        "PathID": 1217649821083350493
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_RelicShowAS",
+        "PathID": 5734873620735972596
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_RelicShowBS",
+        "PathID": -7193610728661026408
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Boy_Normal_RelicShowLoop",
+        "PathID": -5491277167313194340
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayDrum01AS",
+        "PathID": -3556686220267184157
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayDrum01BS",
+        "PathID": 2001004121372477696
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayDrum01Loop",
+        "PathID": -8802652318450054958
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayFrenchHorn01AS",
+        "PathID": 1119320715051792943
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayFrenchHorn01BS",
+        "PathID": -2560506541167862133
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayFrenchHorn01Loop",
+        "PathID": -5595078372160915836
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayLyre01AS",
+        "PathID": 3379648044849814881
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayLyre01BS",
+        "PathID": -7342720833149364699
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayLyre01Loop",
+        "PathID": -2184508010376948706
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayNatlanKeyBoard01AS",
+        "PathID": -2013546437738014414
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayNatlanKeyBoard01BS",
+        "PathID": 9190648684385044403
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayNatlanKeyBoard01Loop",
+        "PathID": -4547693838389576443
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayQin01AS",
+        "PathID": 6714705173185684881
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayQin01BS",
+        "PathID": 3122093691860483133
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_PlayQin01Loop",
+        "PathID": 7742163411047852123
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_RelicShowAS",
+        "PathID": -8124358838218669089
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_RelicShowBS",
+        "PathID": 5074386972830244542
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Girl_Normal_RelicShowLoop",
+        "PathID": -382823643195454675
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_HitFallToGround_SuitAdd_0",
+        "PathID": 4838677223605563111
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayDrum01AS_0",
+        "PathID": 1602660273019984605
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayDrum01BS_0",
+        "PathID": -5305323345944173363
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayDrum01Loop_0",
+        "PathID": -8039561940358597694
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayFrenchHorn01AS_0",
+        "PathID": -4101915915952550550
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayFrenchHorn01BS_0",
+        "PathID": 5133522080281882610
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayFrenchHorn01Loop_0",
+        "PathID": 4325981656302081882
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayLyre01AS_0",
+        "PathID": -5954018941806415035
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayLyre01BS_0",
+        "PathID": -3423600402321620350
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayLyre01Loop_0",
+        "PathID": 4879114935664333237
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayNatlanKeyBoard01AS_0",
+        "PathID": 598932156094928000
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayNatlanKeyBoard01BS_0",
+        "PathID": -4030774262627555639
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayNatlanKeyBoard01Loop_0",
+        "PathID": -4681458897722068315
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayQin01AS_0",
+        "PathID": -1734050806499556707
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayQin01BS_0",
+        "PathID": -3526366639552632229
+    },
+    {
+        "Name": "Ani_Beyd_Avatar_Normal_PlayQin01Loop_0",
+        "PathID": -3859851675241071913
+    },
+    {
+        "Name": "Ani_Eff_SceneObj_Stages_Arlecchino_Cyys_Stairs_01",
+        "PathID": -1307018118014026789
+    },
+    {
+        "Name": "Ani_Eff_SceneObj_Stages_Arlecchino_Door_Ceremony_01",
+        "PathID": -8408068684264218853
+    },
+    {
+        "Name": "Ani_Eff_SceneObj_Stages_Arlecchino_Door_Cyys_01",
+        "PathID": -215263528959370137
+    },
+    {
+        "Name": "Ani_SumeruAdvTrnMainPage_None",
+        "PathID": -2676097965572587000
+    },
+    {
+        "Name": "Ani_UGCBP_CurtainCanvas_FadeIn",
+        "PathID": -3548226992589880443
+    },
+    {
+        "Name": "Ani_UGCBP_CurtainCanvas_FadeOut",
+        "PathID": 9173239655396564670
+    },
+    {
+        "Name": "Ani_UGCCostumeItemTipsDialog_FadeIn",
+        "PathID": 3895690299500278521
+    },
+    {
+        "Name": "Ani_UGCCostumeItemTipsDialog_FadeOut",
+        "PathID": -2647895268298380996
+    },
+    {
+        "Name": "Ani_UGCCultivatePage_PlayerLevelRewardDialog_BtnHallInfo_FadeIn",
+        "PathID": 2704753677803952010
+    },
+    {
+        "Name": "Ani_UGCGachaSettlementPage_GrpGachaConversion_FadeIn",
+        "PathID": 4024343374111986262
+    },
+    {
+        "Name": "Ani_UGCGachaSettlementPage_GrpGachaObtain_FadeIn",
+        "PathID": -3319370357170407845
+    },
+    {
+        "Name": "Ani_UGCInLevelDetailDialog_DelayFadeIn",
+        "PathID": 2130687474019953823
+    },
+    {
+        "Name": "Ani_UGCInLevelDetailDialog_Loop",
+        "PathID": 752945820642157979
+    },
+    {
+        "Name": "Ani_UGCInLevelEndPage_Bg_FadeIn",
+        "PathID": 5865748748444615642
+    },
+    {
+        "Name": "Ani_UGCItemTipsDialog_FadeIn",
+        "PathID": -4828022942027331078
+    },
+    {
+        "Name": "Ani_UGCItemTipsDialog_FadeOut",
+        "PathID": -3715436983209166409
+    },
+    {
+        "Name": "Ani_UGCPhotoCompleteDialog_Excessive_F",
+        "PathID": 4472821532822178148
+    },
+    {
+        "Name": "Ani_UGCPhotoCompleteDialog_Excessive_T",
+        "PathID": 277899007300682969
+    },
+    {
+        "Name": "Ani_UGCRecommendPage_Selected_Legacy",
+        "PathID": 2112180127061611797
+    },
+    {
+        "Name": "Ani_UGCScreenTransitionDialog_Outline2",
+        "PathID": -4845532291966033626
+    },
+    {
+        "Name": "Ani_UGC_Common_Audio_UI_FadeIn",
+        "PathID": 6272672033950967267
+    },
+    {
+        "Name": "Ani_UGC_Common_Audio_UI_FadeOut",
+        "PathID": 5635827389220353796
+    },
+    {
+        "Name": "Beyd_Eff_Ani_Avatar_Sword_FallAnthem_Self_02_BdOnly",
+        "PathID": 9102881093623855411
+    },
+    {
+        "Name": "Disabled",
+        "PathID": -6605865279826105139
+    },
+    {
+        "Name": "Disabled",
+        "PathID": -6324883219811074379
+    },
+    {
+        "Name": "Disabled",
+        "PathID": -882674465274975395
+    },
+    {
+        "Name": "Disabled",
+        "PathID": -2071529121158792384
+    },
+    {
+        "Name": "Disabled",
+        "PathID": 1456062820911810648
+    },
+    {
+        "Name": "Eff_Ani_Avatar_Lady_Catalyst_Nefer_Normal_Skin",
+        "PathID": -4085208955740351556
+    },
+    {
+        "Name": "Eff_Ani_SceneObj_MoonFairyCose_01",
+        "PathID": 4030286474778020987
+    },
+    {
+        "Name": "Eff_Ani_SceneObj_MoonFairyCose_02",
+        "PathID": 4930908435558928394
+    },
+    {
+        "Name": "Eff_Ani_SceneObj_SolnarisSpace_DefenseTower_ChargingToSleep",
+        "PathID": 2946445632786891628
+    },
+    {
+        "Name": "Eff_Ani_SceneObj_SolnarisSpace_DefenseTower_SleepToDefault",
+        "PathID": -3579848035574910009
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": 8909638986003113529
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": 6628185517462765235
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": -3124347701047276236
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": 391020832827023440
+    },
+    {
+        "Name": "Highlighted",
+        "PathID": -4858433805299368991
+    },
+    {
+        "Name": "In",
+        "PathID": 4344477077306334847
+    },
+    {
+        "Name": "In",
+        "PathID": -3248493999793354563
+    },
+    {
+        "Name": "In",
+        "PathID": 4811715583642299218
+    },
+    {
+        "Name": "In",
+        "PathID": -2599510429700551878
+    },
+    {
+        "Name": "In",
+        "PathID": 4994745121741504449
+    },
+    {
+        "Name": "In",
+        "PathID": -298780812726376760
+    },
+    {
+        "Name": "Loop",
+        "PathID": 4799126040519303441
+    },
+    {
+        "Name": "Loop",
+        "PathID": -2371319954290075644
+    },
+    {
+        "Name": "Loop",
+        "PathID": -7291187013439221399
+    },
+    {
+        "Name": "Loop",
+        "PathID": -1949440057417598887
+    },
+    {
+        "Name": "Loop",
+        "PathID": -2228195447058200892
+    },
+    {
+        "Name": "Loop",
+        "PathID": -2117740013694543364
+    },
+    {
+        "Name": "Normal",
+        "PathID": 611557843095953834
+    },
+    {
+        "Name": "Normal",
+        "PathID": 7009764034491641038
+    },
+    {
+        "Name": "Normal",
+        "PathID": 667547922047893043
+    },
+    {
+        "Name": "Normal",
+        "PathID": -2505655736410979156
+    },
+    {
+        "Name": "Normal",
+        "PathID": 3006932429683942232
+    },
+    {
+        "Name": "Parameters",
+        "PathID": -4435815459675738004
+    },
+    {
+        "Name": "Pressed",
+        "PathID": 3818924774802652121
+    },
+    {
+        "Name": "Pressed",
+        "PathID": 1107280419143620097
+    },
+    {
+        "Name": "Pressed",
+        "PathID": 1116387700179888058
+    },
+    {
+        "Name": "Pressed",
+        "PathID": -8819051157169258303
+    },
+    {
+        "Name": "Pressed",
+        "PathID": 783504464895055844
+    },
+    {
+        "Name": "Recorded",
+        "PathID": 459168548677330623
+    },
+    {
+        "Name": "Recorded",
+        "PathID": -8332164201840745148
+    },
+    {
+        "Name": "Recorded",
+        "PathID": 5755919918782774844
+    },
+    {
+        "Name": "Recorded",
+        "PathID": 1939297726518277280
+    },
+    {
+        "Name": "Recorded (1)",
+        "PathID": -1788336625037074087
+    },
+    {
+        "Name": "Recorded (1)",
+        "PathID": 3550608866142767156
+    },
+    {
+        "Name": "Recorded (10)",
+        "PathID": 6469124304232097836
+    },
+    {
+        "Name": "Recorded (10)",
+        "PathID": 3196917793894733648
+    },
+    {
+        "Name": "Recorded (11)",
+        "PathID": 3197585053504335407
+    },
+    {
+        "Name": "Recorded (11)",
+        "PathID": -9114614039135624556
+    },
+    {
+        "Name": "Recorded (12)",
+        "PathID": 968868954542213240
+    },
+    {
+        "Name": "Recorded (13)",
+        "PathID": -3828142561186913056
+    },
+    {
+        "Name": "Recorded (14)",
+        "PathID": -5512081954875653843
+    },
+    {
+        "Name": "Recorded (15)",
+        "PathID": -494247174172258144
+    },
+    {
+        "Name": "Recorded (16)",
+        "PathID": -5827216856505749662
+    },
+    {
+        "Name": "Recorded (17)",
+        "PathID": -1781040962793910461
+    },
+    {
+        "Name": "Recorded (19)",
+        "PathID": 347819505177534524
+    },
+    {
+        "Name": "Recorded (2)",
+        "PathID": 946571089615890346
+    },
+    {
+        "Name": "Recorded (2)",
+        "PathID": -6135775751766029374
+    },
+    {
+        "Name": "Recorded (20)",
+        "PathID": 3958646315117162874
+    },
+    {
+        "Name": "Recorded (3)",
+        "PathID": 2150280530143474209
+    },
+    {
+        "Name": "Recorded (3)",
+        "PathID": 4226589411657405135
+    },
+    {
+        "Name": "Recorded (4)",
+        "PathID": 3854051173083979663
+    },
+    {
+        "Name": "Recorded (4)",
+        "PathID": 1138758506053978597
+    },
+    {
+        "Name": "Recorded (5)",
+        "PathID": -7876507566498676730
+    },
+    {
+        "Name": "Recorded (5)",
+        "PathID": 4448666925279973620
+    },
+    {
+        "Name": "Recorded (6)",
+        "PathID": -8934139144082508633
+    },
+    {
+        "Name": "Recorded (6)",
+        "PathID": 4941263742420890105
+    },
+    {
+        "Name": "Recorded (7)",
+        "PathID": -517395289180127691
+    },
+    {
+        "Name": "Recorded (7)",
+        "PathID": -6018421273059954817
+    },
+    {
+        "Name": "Recorded (8)",
+        "PathID": -6629530568973362940
+    },
+    {
+        "Name": "Recorded (8)",
+        "PathID": 5455773481400428685
+    },
+    {
+        "Name": "Recorded (9)",
+        "PathID": 419820260639115995
+    },
+    {
+        "Name": "Recorded (9)",
+        "PathID": 8095756178772591204
+    }
+]

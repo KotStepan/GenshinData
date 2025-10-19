@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Beyd_Eff_Model_UI_BtnLevelLibrary_Mesh01",
+        "PathID": -6474664394117446674
+    },
+    {
+        "Name": "Beyd_InterfaceUI_Tube_01",
+        "PathID": -4709178424561362186
+    },
+    {
+        "Name": "Beyd_Object_Effect_Plane_02",
+        "PathID": -6624782297112822653
+    },
+    {
+        "Name": "Beyd_Object_Prop_Codemachine_01_01_Col",
+        "PathID": -6090125094403910664
+    },
+    {
+        "Name": "Beyd_Object_Prop_Codemachine_01_02_Col",
+        "PathID": -4477525816964870620
+    },
+    {
+        "Name": "Beyd_Object_Prop_Codemachine_01_03_Col",
+        "PathID": -5199565750025980164
+    },
+    {
+        "Name": "Beyd_Object_Prop_QiuQian_02_Col",
+        "PathID": 8660683085025454414
+    },
+    {
+        "Name": "Beyd_Tile_Stone_LouTi_01_Col",
+        "PathID": 8317585583812346279
+    },
+    {
+        "Name": "Beyd_Tile_Stone_LouTi_02_Col",
+        "PathID": 8157424548107829518
+    },
+    {
+        "Name": "Beyd_Tile_Stone_LouTi_03_Col",
+        "PathID": 5166016017336308117
+    },
+    {
+        "Name": "Level_Cyjy_Stone_UP_Full_M_06_Lod1",
+        "PathID": -2105923982605389721
+    },
+    {
+        "Name": "Property_Ani_Prop_Marionette_Computer_01_Col",
+        "PathID": -8635921843126710513
+    },
+    {
+        "Name": "Property_Ani_Prop_Marionette_Computer_01_Lod0",
+        "PathID": -1347214061874126385
+    },
+    {
+        "Name": "Property_Ani_Prop_Marionette_Computer_01_Lod1",
+        "PathID": 5903854394385596877
+    },
+    {
+        "Name": "Property_Ani_Prop_Marionette_Computer_01_Lod2",
+        "PathID": 8619026553929299235
+    }
+]

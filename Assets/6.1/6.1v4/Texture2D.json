@@ -1,0 +1,314 @@
+[
+    {
+        "Name": "Beyd_Avatar_Boy_Hair_Default001_01_Tex_Diffuse",
+        "PathID": 7747595848484398356
+    },
+    {
+        "Name": "Beyd_Avatar_Girl_Panties_P0361_01_Tex_PantiesDiffuse",
+        "PathID": -8985868741653804128
+    },
+    {
+        "Name": "Beyd_Avatar_Girl_Panties_P0362_01_Tex_PantiesDiffuse",
+        "PathID": 2925855963625907457
+    },
+    {
+        "Name": "Beyd_Avatar_Girl_Panties_P0363_01_Tex_PantiesDiffuse",
+        "PathID": -1735330589061464207
+    },
+    {
+        "Name": "Beyd_Object_Prop_Barrage_01_02_Diffuse",
+        "PathID": -4524469577865789543
+    },
+    {
+        "Name": "Beyd_Object_Prop_BombBarrel_02_01_SMBE",
+        "PathID": -731074847102264191
+    },
+    {
+        "Name": "Beyd_Object_Prop_BombBarrel_03_01_SMBE",
+        "PathID": 2220239458930069293
+    },
+    {
+        "Name": "Beyd_Object_Prop_BombBarrel_04_01_SMBE",
+        "PathID": -3242474051788967594
+    },
+    {
+        "Name": "Beyd_Object_Prop_BombBarrel_05_01_SMBE",
+        "PathID": -8930432815011986764
+    },
+    {
+        "Name": "Eff_Mask_126_NoStream",
+        "PathID": -544688598844123685
+    },
+    {
+        "Name": "Eff_UI_NyxStateBar_Varesa_Color_03",
+        "PathID": -6894312324660802223
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_inlevel_ui-1024x1024-fmt25",
+        "PathID": -3093102479751416878
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_inlevel_ui-512x512-fmt25",
+        "PathID": -2970321441331784999
+    },
+    {
+        "Name": "UI_Activity_AdventurePathwayPlanning_11",
+        "PathID": -8261094451353847385
+    },
+    {
+        "Name": "UI_Activity_AdventurePathwayPlanning_12",
+        "PathID": 6237396482917932329
+    },
+    {
+        "Name": "UI_Activity_AdventurePathwayPlanning_13",
+        "PathID": 5007134651399850234
+    },
+    {
+        "Name": "UI_Activity_AdventurePathwayPlanning_14",
+        "PathID": 8819886232079142867
+    },
+    {
+        "Name": "UI_Activity_BydAdjCostume_01",
+        "PathID": -5499567874407358604
+    },
+    {
+        "Name": "UI_Activity_BydAdjCostume_02",
+        "PathID": -6037131534430695294
+    },
+    {
+        "Name": "UI_Activity_BydAdjCostume_03",
+        "PathID": 6078256316243337659
+    },
+    {
+        "Name": "UI_Activity_BydAdjCostume_04",
+        "PathID": 589053572491240220
+    },
+    {
+        "Name": "UI_Activity_BydAdjCostume_05",
+        "PathID": -7104670458808346033
+    },
+    {
+        "Name": "UI_Activity_BydAdjCostume_06",
+        "PathID": -2402003778097518107
+    },
+    {
+        "Name": "UI_Bg_UGCDataMgtPage_02_Fill",
+        "PathID": -3619660222030135235
+    },
+    {
+        "Name": "UI_Frame_TalkBubble_Emotion_Mask",
+        "PathID": 7666737701285873380
+    },
+    {
+        "Name": "UI_Frame_TalkBubble_Emotion_Mask",
+        "PathID": 7666737701285873380
+    },
+    {
+        "Name": "UI_Frame_TalkBubble_Emotion_Mask",
+        "PathID": 7666737701285873380
+    },
+    {
+        "Name": "UI_Frame_TalkBubble_Emotion_Mask",
+        "PathID": 7666737701285873380
+    },
+    {
+        "Name": "UI_Frm_Tab_B_L_72",
+        "PathID": 6914252877025571809
+    },
+    {
+        "Name": "UI_Frm_UGC_IDD_BrochurePlate_Repeat",
+        "PathID": -1660975948714886325
+    },
+    {
+        "Name": "UI_Frm_UGC_IDD_WarRecord_Gradient_06",
+        "PathID": 1063956103089257354
+    },
+    {
+        "Name": "UI_Frm_UGC_RankScore_DetailsDialog_Bg",
+        "PathID": -7698900757400009813
+    },
+    {
+        "Name": "UI_Gacha_A256_Up2",
+        "PathID": -7095940044572800159
+    },
+    {
+        "Name": "UI_Gacha_A257_Up2",
+        "PathID": 6902036115848438088
+    },
+    {
+        "Name": "UI_Icon_Intee_Beyond_Hall",
+        "PathID": 3170342128055314607
+    },
+    {
+        "Name": "UI_Img_AnecdoteReward_Mask",
+        "PathID": 5898577732626490634
+    },
+    {
+        "Name": "UI_Img_BP_RewardPreview",
+        "PathID": -6046673411355475351
+    },
+    {
+        "Name": "UI_Img_BP_RewardSlot_Background_Special3",
+        "PathID": 8495421568509568145
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Card01",
+        "PathID": 6748451143648131806
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Card02",
+        "PathID": 5941343959561448686
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Card03",
+        "PathID": 4855246093415613413
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Card04",
+        "PathID": 8545170122002961209
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Clip01",
+        "PathID": 5800062161976891384
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Clip02",
+        "PathID": 7234776982922189557
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Ribbon_Left01",
+        "PathID": -3687555164106984900
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Ribbon_Left02",
+        "PathID": 4526551207194121166
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Ribbon_Right",
+        "PathID": -7684791378572256951
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_SmallHole",
+        "PathID": 4996524501250562001
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_StarRing",
+        "PathID": 1600339775167699988
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Sticker01",
+        "PathID": 3236279475069398644
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Sticker02",
+        "PathID": 1398424312250642585
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Stipple01",
+        "PathID": -1389650191460111072
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Stipple02",
+        "PathID": -4732669599547880427
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_TabBg",
+        "PathID": -4216990610433988536
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_WarRecord_L",
+        "PathID": -5196583070254382792
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_WarRecord_Noise",
+        "PathID": -7650182335112793228
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_WarRecord_R",
+        "PathID": -493809319588184487
+    },
+    {
+        "Name": "UI_Img_UGC_LevelInformation_Empty02",
+        "PathID": 1860633644456893429
+    },
+    {
+        "Name": "UI_Img_UGC_LevelLibraryPage_Achievement_Bg",
+        "PathID": 7978735936798313251
+    },
+    {
+        "Name": "UI_Img_UGC_RankDialog_Bg0",
+        "PathID": 7114258099962213173
+    },
+    {
+        "Name": "UI_Img_UGC_RankDialog_Bg1",
+        "PathID": 8971042124643462864
+    },
+    {
+        "Name": "UI_Img_UGC_RankDialog_Bg2",
+        "PathID": 5390036857387871405
+    },
+    {
+        "Name": "UI_Img_UGC_RankDialog_Bg3",
+        "PathID": -1208353040904166888
+    },
+    {
+        "Name": "UI_ItemIcon_238",
+        "PathID": -7490066751635904163
+    },
+    {
+        "Name": "UI_ItemIcon_238",
+        "PathID": 3108792083207119766
+    },
+    {
+        "Name": "UI_Tab_GachaShowPanel_A256",
+        "PathID": 7409500994114507546
+    },
+    {
+        "Name": "UI_Tab_GachaShowPanel_A257",
+        "PathID": -2522095720888226926
+    },
+    {
+        "Name": "UI_Tab_GachaShowPanel_A258",
+        "PathID": -2932200651079015018
+    },
+    {
+        "Name": "UI_UGCInLevel_RecommendIcon_Middle",
+        "PathID": -8163066203112628260
+    },
+    {
+        "Name": "UI_UGC_Recommend_BtnLevelLibrary_Frm02",
+        "PathID": -1983453770219848071
+    },
+    {
+        "Name": "UI_UGC_Recommend_PostDetail_Img_Pin",
+        "PathID": 5109124972111718515
+    },
+    {
+        "Name": "UI_UGC_Recommend_PostDetail_Img_RowHole_Repeat",
+        "PathID": -2846762022818300348
+    },
+    {
+        "Name": "UI_UGC_Recommend_PostDetail_Img_Signature",
+        "PathID": -3820347828917854460
+    },
+    {
+        "Name": "UI_UGC_Recommend_PostDetail_Img_SignatureLine",
+        "PathID": 7582112143902144809
+    },
+    {
+        "Name": "UI_UGC_Recommend_PostDetail_Img_Star",
+        "PathID": -2856678601944432097
+    },
+    {
+        "Name": "UI_UGC_Recommend_PostDetail_Img_StarsBL",
+        "PathID": 1761359281634949159
+    },
+    {
+        "Name": "UI_UGC_Recommend_PostDetail_Img_StarsTR",
+        "PathID": 3948455780224071571
+    },
+    {
+        "Name": "UI_UGC_Recommend_PostDetail_Img_TopColorBar",
+        "PathID": 89326284359211354
+    }
+]
