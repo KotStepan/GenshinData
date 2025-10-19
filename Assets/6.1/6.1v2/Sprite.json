@@ -1,0 +1,458 @@
+[
+    {
+        "Name": "UI_Anim_Telescope3",
+        "PathID": 9191085302054038141
+    },
+    {
+        "Name": "UI_BeyondActivityBanner_InitialActive",
+        "PathID": 1004827254849163929
+    },
+    {
+        "Name": "UI_Beyond_Hall_Private_Park_Polygon_Light",
+        "PathID": -1331873354141126090
+    },
+    {
+        "Name": "UI_Beyond_Hall_Private_Park_Polygon_Mask",
+        "PathID": 8201102171339342925
+    },
+    {
+        "Name": "UI_Beyond_Hall_Private_Witch_Polygon_Light",
+        "PathID": -4334125943266603649
+    },
+    {
+        "Name": "UI_Beyond_Hall_Private_Witch_Polygon_Mask",
+        "PathID": -746753472645805603
+    },
+    {
+        "Name": "UI_Beyond_Hall_Private_Wsqh_Polygon_Light",
+        "PathID": -1976971272224435784
+    },
+    {
+        "Name": "UI_Beyond_Hall_Private_Wsqh_Polygon_Mask",
+        "PathID": 4714491104714087305
+    },
+    {
+        "Name": "UI_BtnIcon_Beyond_GH",
+        "PathID": -3405019154631655582
+    },
+    {
+        "Name": "UI_ChatTag_Faction",
+        "PathID": 6451863515562201990
+    },
+    {
+        "Name": "UI_ChatTag_Gameplay",
+        "PathID": 3584631633726322046
+    },
+    {
+        "Name": "UI_ChatTag_Room",
+        "PathID": -8014612449471646620
+    },
+    {
+        "Name": "UI_Frm_MusicPartyMatchPage_Line03",
+        "PathID": 107963408794015166
+    },
+    {
+        "Name": "UI_Frm_UGC_CostumeTeam_Bg",
+        "PathID": 3510301360375902710
+    },
+    {
+        "Name": "UI_Frm_UGC_ItemTips_Ps_Bg1",
+        "PathID": 8486555039102604700
+    },
+    {
+        "Name": "UI_Frm_UGC_ItemTips_Ps_Bg105",
+        "PathID": 3820284530575230828
+    },
+    {
+        "Name": "UI_Frm_UGC_ItemTips_Ps_Bg2",
+        "PathID": -5741925898525002671
+    },
+    {
+        "Name": "UI_Frm_UGC_ItemTips_Ps_Bg3",
+        "PathID": -3894482973906131658
+    },
+    {
+        "Name": "UI_Frm_UGC_ItemTips_Ps_Bg4",
+        "PathID": -1550393021983935042
+    },
+    {
+        "Name": "UI_Frm_UGC_ItemTips_Ps_Bg5",
+        "PathID": -8947418757943393733
+    },
+    {
+        "Name": "UI_Frm_UGC_RecommendPage_MainLevel_Strap",
+        "PathID": 1346327514397842028
+    },
+    {
+        "Name": "UI_IconTag_UGC_UnderReview",
+        "PathID": 6237474742648846872
+    },
+    {
+        "Name": "UI_Icon_UGC_Btn_Like_F",
+        "PathID": -5952957263237153723
+    },
+    {
+        "Name": "UI_Icon_UGC_Btn_Like_T",
+        "PathID": 609327470573708574
+    },
+    {
+        "Name": "UI_Icon_UGC_Btn_Toggle_Wish_F",
+        "PathID": -4928641212436499988
+    },
+    {
+        "Name": "UI_Icon_UGC_Btn_Toggle_Wish_T",
+        "PathID": 8339732420176961052
+    },
+    {
+        "Name": "UI_Icon_UGC_Btn_Warning_0",
+        "PathID": -9207688546514300719
+    },
+    {
+        "Name": "UI_Icon_UGC_Btn_Warning_1",
+        "PathID": 1102342982691268874
+    },
+    {
+        "Name": "UI_Icon_UGC_Collect_F",
+        "PathID": -4103890551822041516
+    },
+    {
+        "Name": "UI_Icon_UGC_Collect_T",
+        "PathID": 8320652525816198968
+    },
+    {
+        "Name": "UI_Icon_UGC_Comment",
+        "PathID": -8152649992585859212
+    },
+    {
+        "Name": "UI_Icon_UGC_Gender_Switch",
+        "PathID": 8533758748336115950
+    },
+    {
+        "Name": "UI_Icon_UGC_LevelTemplate",
+        "PathID": -5418336996825834888
+    },
+    {
+        "Name": "UI_Icon_UGC_Reset",
+        "PathID": -4365622196327910467
+    },
+    {
+        "Name": "UI_Icon_UGC_Restore",
+        "PathID": 5107601909894004720
+    },
+    {
+        "Name": "UI_Img_BP_Circle01",
+        "PathID": -5370510971908343266
+    },
+    {
+        "Name": "UI_Img_BP_Circle02",
+        "PathID": -7475189054357390869
+    },
+    {
+        "Name": "UI_Img_BP_Circle03",
+        "PathID": 2370918601401202686
+    },
+    {
+        "Name": "UI_Img_BP_Discount",
+        "PathID": 1273732804695825920
+    },
+    {
+        "Name": "UI_Img_BP_Done",
+        "PathID": -5264808006786793915
+    },
+    {
+        "Name": "UI_Img_BP_Lock",
+        "PathID": -2145772290446710750
+    },
+    {
+        "Name": "UI_Img_BP_Normal",
+        "PathID": 6431965862220244842
+    },
+    {
+        "Name": "UI_Img_BP_RewardSlot_Background_Mask",
+        "PathID": 7257988171229026026
+    },
+    {
+        "Name": "UI_Img_BP_RewardSlot_Background_Normal2",
+        "PathID": 1748431262178176385
+    },
+    {
+        "Name": "UI_Img_BP_RewardSlot_Background_Normal3",
+        "PathID": 6209993640389359695
+    },
+    {
+        "Name": "UI_Img_BP_RewardSlot_Background_Special2",
+        "PathID": -3018588784557647234
+    },
+    {
+        "Name": "UI_Img_BP_Special",
+        "PathID": -8667319178997538001
+    },
+    {
+        "Name": "UI_Img_BP_Star01_Mirror",
+        "PathID": 6251871577913871800
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_Bg",
+        "PathID": -2424265840610040685
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_Bg2",
+        "PathID": -5622371983699529274
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_Bg4",
+        "PathID": 6632214998246881543
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_Bg5",
+        "PathID": 6587570435057184207
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_BgStar1",
+        "PathID": 8550376199109542260
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_BgStar2",
+        "PathID": 5667854642191984722
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_BgStar3",
+        "PathID": 127753733034134653
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_BgStar4",
+        "PathID": -8251120901675390349
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_BgStar5",
+        "PathID": -8951549776194317504
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_Deco1",
+        "PathID": -7895790120028736712
+    },
+    {
+        "Name": "UI_Img_BP_TopBar_Deco2",
+        "PathID": -1963240669900105216
+    },
+    {
+        "Name": "UI_Img_BeyondActivityBanner_InitialActive",
+        "PathID": -1090869029490740422
+    },
+    {
+        "Name": "UI_Img_BeyondActivityBanner_InitialActive_C01",
+        "PathID": -6279526476154456995
+    },
+    {
+        "Name": "UI_Img_BeyondActivityBanner_InitialActive_Glow01_Mirror",
+        "PathID": 2208547208530287310
+    },
+    {
+        "Name": "UI_Img_BeyondActivityBanner_InitialActive_Star01",
+        "PathID": 6161725636856517674
+    },
+    {
+        "Name": "UI_Img_BeyondActivityBanner_InitialActive_Star02",
+        "PathID": 2471880652144713541
+    },
+    {
+        "Name": "UI_Img_BeyondActivityBanner_InitialActive_Star03",
+        "PathID": -6371113254122189484
+    },
+    {
+        "Name": "UI_Img_Close_Edge",
+        "PathID": 1966295819697152866
+    },
+    {
+        "Name": "UI_Img_Cultivate_GrpBg0_Icon05",
+        "PathID": -3336498302708436612
+    },
+    {
+        "Name": "UI_Img_CuratoriumStaffBoardPage_Bg_Screw",
+        "PathID": 1964261646521879886
+    },
+    {
+        "Name": "UI_Img_LargePattern_Load_Failed",
+        "PathID": -8905254583023738534
+    },
+    {
+        "Name": "UI_Img_Pattern_DLC_Empty",
+        "PathID": -9124400761210022755
+    },
+    {
+        "Name": "UI_Img_PlayerReady_Playing",
+        "PathID": -7452224032368870014
+    },
+    {
+        "Name": "UI_Img_RankBadge_2_Star_0",
+        "PathID": 1236056478760907281
+    },
+    {
+        "Name": "UI_Img_RankBadge_2_Star_1",
+        "PathID": -8786201859328360650
+    },
+    {
+        "Name": "UI_Img_RankBadge_3_Star_0",
+        "PathID": 4780812007699799266
+    },
+    {
+        "Name": "UI_Img_RankBadge_3_Star_1",
+        "PathID": -1136739229089133538
+    },
+    {
+        "Name": "UI_Img_RankBadge_4_Star_0",
+        "PathID": -682083303798858474
+    },
+    {
+        "Name": "UI_Img_RankBadge_4_Star_1",
+        "PathID": -3621373728841985505
+    },
+    {
+        "Name": "UI_Img_Score_NotStarted",
+        "PathID": -1812699479230867964
+    },
+    {
+        "Name": "UI_Img_SumeruAdvTrnSubPage_FirstFadein_01",
+        "PathID": 4781458068825691677
+    },
+    {
+        "Name": "UI_Img_SumeruAdvTrnSubPage_FirstFadein_02",
+        "PathID": 9096866884724843516
+    },
+    {
+        "Name": "UI_Img_SumeruAdvTrnSubPage_Rectangle_BG",
+        "PathID": 2462335152695064674
+    },
+    {
+        "Name": "UI_Img_SumeruAdvTrn_PushDialog_Board_Distort",
+        "PathID": -7996238044778123488
+    },
+    {
+        "Name": "UI_Img_SumeruAdvTrn_PushDialog_SandBg_Distort",
+        "PathID": 3625872186977242855
+    },
+    {
+        "Name": "UI_Img_UGCCultivatePage_PlayerLevel_GrpInfo_1",
+        "PathID": -5594523643655026155
+    },
+    {
+        "Name": "UI_Img_UGCCultivatePage_PlayerLevel_GrpInfo_2",
+        "PathID": -7057400409014057227
+    },
+    {
+        "Name": "UI_Img_UGCCultivatePage_PlayerLevel_GrpInfo_3",
+        "PathID": -1645443119225305816
+    },
+    {
+        "Name": "UI_Img_UGCCultivatePage_PlayerLevel_GrpInfo_4",
+        "PathID": 691729492513550334
+    },
+    {
+        "Name": "UI_Img_UGCCultivatePage_PlayerLevel_GrpInfo_Outline_2",
+        "PathID": -3894197299387866923
+    },
+    {
+        "Name": "UI_Img_UGC_IDD_Ranking00",
+        "PathID": -5702723995894689961
+    },
+    {
+        "Name": "UI_Img_UGC_ItemTips_Pattern",
+        "PathID": -156143024289147276
+    },
+    {
+        "Name": "UI_Img_UGC_LevelInformation_Empty",
+        "PathID": 5556145679274501493
+    },
+    {
+        "Name": "UI_Img_UGC_MonthlyHotPage_Bg0",
+        "PathID": -5710709338939297434
+    },
+    {
+        "Name": "UI_Img_UGC_MonthlyHotPage_Bg1",
+        "PathID": 2169349971251604825
+    },
+    {
+        "Name": "UI_Img_UGC_MonthlyHotPage_Bg2",
+        "PathID": -3017935057156765303
+    },
+    {
+        "Name": "UI_Img_UGC_MonthlyHotPage_Bg3",
+        "PathID": -6860801552300859593
+    },
+    {
+        "Name": "UI_Img_UGC_RecommendPage_MainLevel_Planet",
+        "PathID": -7111077724679361778
+    },
+    {
+        "Name": "UI_MarkPoint_HumanDragonPuzzle",
+        "PathID": -5613566893860789909
+    },
+    {
+        "Name": "UI_QualityBg_UGC_0",
+        "PathID": -8133155495063706901
+    },
+    {
+        "Name": "UI_QualityBg_UGC_1",
+        "PathID": -7202871264444330912
+    },
+    {
+        "Name": "UI_QualityBg_UGC_1s",
+        "PathID": -2417571378980026938
+    },
+    {
+        "Name": "UI_QualityBg_UGC_2",
+        "PathID": -666214391639743219
+    },
+    {
+        "Name": "UI_QualityBg_UGC_2s",
+        "PathID": -7758964170230946928
+    },
+    {
+        "Name": "UI_QualityBg_UGC_3",
+        "PathID": 7145369752374755409
+    },
+    {
+        "Name": "UI_QualityBg_UGC_3s",
+        "PathID": -3585862532541530129
+    },
+    {
+        "Name": "UI_QualityBg_UGC_4",
+        "PathID": -5445133571882073234
+    },
+    {
+        "Name": "UI_QualityBg_UGC_4s",
+        "PathID": -8217190710630843768
+    },
+    {
+        "Name": "UI_QualityBg_UGC_5",
+        "PathID": -8311688333130895371
+    },
+    {
+        "Name": "UI_QualityBg_UGC_5s",
+        "PathID": 5136993027109504231
+    },
+    {
+        "Name": "UI_QualityBg_UGC_Shadow",
+        "PathID": -908217871974504110
+    },
+    {
+        "Name": "UI_Tutorial_BydCostume_05",
+        "PathID": 5352981901784888625
+    },
+    {
+        "Name": "UI_Tutorial_BydEmoji_01",
+        "PathID": -6227799360126864035
+    },
+    {
+        "Name": "UI_Tutorial_BydEmoji_02",
+        "PathID": -4988018904952442758
+    },
+    {
+        "Name": "UI_Tutorial_BydEmoji_03",
+        "PathID": -3146911510541111723
+    },
+    {
+        "Name": "UI_UGC_Recommend_DetailTitleBg_L2",
+        "PathID": 1466644823053479075
+    }
+]

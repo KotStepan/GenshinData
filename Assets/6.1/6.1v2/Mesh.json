@@ -1,0 +1,302 @@
+[
+    {
+        "Name": "Bang",
+        "PathID": 1986705726489653358
+    },
+    {
+        "Name": "Bang_LOD1",
+        "PathID": -4785229481273959399
+    },
+    {
+        "Name": "Bang_LOD2",
+        "PathID": 7021065710873490723
+    },
+    {
+        "Name": "Bang_LOD3",
+        "PathID": 4381702737377719903
+    },
+    {
+        "Name": "Beyd_Eff_Model_Cone_01_BdOnly",
+        "PathID": 665127381301680595
+    },
+    {
+        "Name": "Beyd_Object_Prop_WuJian_05_Col",
+        "PathID": -8833533029711411553
+    },
+    {
+        "Name": "Body",
+        "PathID": 5490813427126589874
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -9163115553565639937
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 4188165241703719174
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 5097076456553333943
+    },
+    {
+        "Name": "Brow",
+        "PathID": 7354422790108337692
+    },
+    {
+        "Name": "Brow_LOD2",
+        "PathID": 4407271044633919367
+    },
+    {
+        "Name": "Brow_LOD3",
+        "PathID": -5095032138828331221
+    },
+    {
+        "Name": "Cloak01",
+        "PathID": 3922392586624786066
+    },
+    {
+        "Name": "Cloak01_Eff",
+        "PathID": 6097802669686811419
+    },
+    {
+        "Name": "Cloak01_LOD1",
+        "PathID": -1606519576966520400
+    },
+    {
+        "Name": "Cloak01_LOD2",
+        "PathID": 1461793041330897552
+    },
+    {
+        "Name": "Cloak01_LOD3",
+        "PathID": -6610991154631642226
+    },
+    {
+        "Name": "Cloak02",
+        "PathID": -7549588067400365286
+    },
+    {
+        "Name": "Cloak02_Eff",
+        "PathID": 8018787358179324465
+    },
+    {
+        "Name": "Cloak02_LOD1",
+        "PathID": 6580405974305183553
+    },
+    {
+        "Name": "Cloak02_LOD2",
+        "PathID": 1204490049445493908
+    },
+    {
+        "Name": "Cloak02_LOD3",
+        "PathID": 3850684778779548762
+    },
+    {
+        "Name": "Cloak03",
+        "PathID": 7209392908651680768
+    },
+    {
+        "Name": "Cloak03_Eff",
+        "PathID": -5834061770304358586
+    },
+    {
+        "Name": "Cloak03_LOD1",
+        "PathID": 8782726763356567744
+    },
+    {
+        "Name": "Cloak03_LOD2",
+        "PathID": -109335849043139858
+    },
+    {
+        "Name": "Cloak03_LOD3",
+        "PathID": -8034455038022990105
+    },
+    {
+        "Name": "Dot01",
+        "PathID": -5045753890349212946
+    },
+    {
+        "Name": "Dot02",
+        "PathID": -4772659308715906450
+    },
+    {
+        "Name": "Dot03",
+        "PathID": -7209594793196957453
+    },
+    {
+        "Name": "Dot04",
+        "PathID": 4336611077191712012
+    },
+    {
+        "Name": "Eff_Model_UI_BeyondActivityBanner_InitialActive_Mesh01",
+        "PathID": -5418784191795026813
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Ceremony_Plan_06_Vo",
+        "PathID": 7312462101842727587
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Stairs_01_Col",
+        "PathID": -4942843165739923023
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Stairs_02_Col",
+        "PathID": 7420508888365195669
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Arlecchino_Door_Cyys_Stairs_Wq_01_Vo",
+        "PathID": 6329105685692502885
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_SolnarisSpace_AbyssMoon_08",
+        "PathID": 9222485213401787609
+    },
+    {
+        "Name": "Eff_Stages_POI_Level_Ndkl_Arlecchino_Door_CY_Line_01_Vo",
+        "PathID": 5907423114967467956
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 2345370211150892229
+    },
+    {
+        "Name": "EyeStar",
+        "PathID": -4179011940378131729
+    },
+    {
+        "Name": "Face",
+        "PathID": 5646934416884688768
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -3968565755730467458
+    },
+    {
+        "Name": "Face_Eye_LOD2",
+        "PathID": -5560678490773922272
+    },
+    {
+        "Name": "Face_Eye_LOD3",
+        "PathID": -5565638284537565063
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -9216173136430530128
+    },
+    {
+        "Name": "Face_LOD3",
+        "PathID": 948252731668944924
+    },
+    {
+        "Name": "Homeworld_Ani_General_Ndkl_Thing_Prop_Maomaoji_01_Button_01_Vo",
+        "PathID": -2055163518023574804
+    },
+    {
+        "Name": "Homeworld_Ani_General_Ndkl_Thing_Prop_Maomaoji_01_Button_02_Vo",
+        "PathID": -3639771085052793268
+    },
+    {
+        "Name": "Homeworld_Ani_General_Ndkl_Thing_Prop_Maomaoji_01_Button_03_Vo",
+        "PathID": -1684085311123761859
+    },
+    {
+        "Name": "Homeworld_Ani_General_Ndkl_Thing_Prop_Maomaoji_01_Button_04_Vo",
+        "PathID": 7396515107279285689
+    },
+    {
+        "Name": "Homeworld_Ani_General_Ndkl_Thing_Prop_Maomaoji_01_Button_05_Vo",
+        "PathID": 6448987105596985245
+    },
+    {
+        "Name": "Homeworld_Ani_General_Ndkl_Thing_Prop_Maomaoji_01_Button_06_Vo",
+        "PathID": -7907367501779289398
+    },
+    {
+        "Name": "Homeworld_Ani_General_Ndkl_Thing_Prop_Maomaoji_01_Button_07_Vo",
+        "PathID": -6153421607513263361
+    },
+    {
+        "Name": "Homeworld_Ani_General_Ndkl_Thing_Prop_Maomaoji_01_Button_08_Vo",
+        "PathID": 3049076888880241831
+    },
+    {
+        "Name": "Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01_Lod0",
+        "PathID": -921110089475998574
+    },
+    {
+        "Name": "Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01_Lod1",
+        "PathID": 2635787890516987051
+    },
+    {
+        "Name": "Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01_Lod2",
+        "PathID": 8327849157226485620
+    },
+    {
+        "Name": "Level_Ndkl_Unique_Filling_01_Vo",
+        "PathID": 2870831421890450600
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessAbyss_01_Lod0",
+        "PathID": -5498030632256228529
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessDainslaif_01_Lod0",
+        "PathID": 9062856799054259864
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessHroptatyr_01_Lod0",
+        "PathID": 202787883781748652
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRerir_01_Lod0",
+        "PathID": -5976428028772495898
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessRhinedottir_01_Lod0",
+        "PathID": -1486558367162640251
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessSurtalogi_01_Lod0",
+        "PathID": -1891758076942452111
+    },
+    {
+        "Name": "Property_Ani_Prop_ChessVedrfolnir_01_Lod0",
+        "PathID": 844935246646074095
+    },
+    {
+        "Name": "Property_Ani_Prop_GiftBox_01_Col",
+        "PathID": 3006623305227466787
+    },
+    {
+        "Name": "Property_Ani_Prop_GiftBox_01_Vo",
+        "PathID": -1475611239082993820
+    },
+    {
+        "Name": "Pupil",
+        "PathID": -3554302491823022722
+    },
+    {
+        "Name": "Pupil_LOD1",
+        "PathID": 1995720123227089517
+    },
+    {
+        "Name": "Pupil_LOD2",
+        "PathID": -3118644457101263499
+    },
+    {
+        "Name": "Pupil_LOD3",
+        "PathID": 1968042549508455806
+    },
+    {
+        "Name": "uv01",
+        "PathID": 1641934817564397510
+    },
+    {
+        "Name": "uv02",
+        "PathID": 3670178537648763635
+    },
+    {
+        "Name": "uv03",
+        "PathID": 2307655620915682415
+    }
+]
