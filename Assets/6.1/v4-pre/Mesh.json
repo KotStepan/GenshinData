@@ -1,0 +1,7098 @@
+[
+    {
+        "Name": "Area_Fd_Grass_Common_MGrass06_Lod1",
+        "PathID": 8304836393767040755
+    },
+    {
+        "Name": "ArmAcc_S0019",
+        "PathID": 1660980595895648916
+    },
+    {
+        "Name": "ArmAcc_S0019",
+        "PathID": -7152301555254939718
+    },
+    {
+        "Name": "ArmAcc_S0019_High",
+        "PathID": 2160652114613615792
+    },
+    {
+        "Name": "ArmAcc_S0019_High",
+        "PathID": -7473308807884039420
+    },
+    {
+        "Name": "ArmAcc_S0019_LOD1",
+        "PathID": -4956009956424283328
+    },
+    {
+        "Name": "ArmAcc_S0019_LOD1",
+        "PathID": 1602304648845807319
+    },
+    {
+        "Name": "ArmAcc_S0019_LOD2",
+        "PathID": -2963343794965583809
+    },
+    {
+        "Name": "ArmAcc_S0019_LOD2",
+        "PathID": 60824739715213283
+    },
+    {
+        "Name": "ArmAcc_S0019_Nude",
+        "PathID": 6434913029771418256
+    },
+    {
+        "Name": "ArmAcc_S0019_Nude_LOD1",
+        "PathID": -1629784472790453317
+    },
+    {
+        "Name": "ArmAcc_S0019_Nude_LOD2",
+        "PathID": -7432812501404476046
+    },
+    {
+        "Name": "ArmAcc_S0021",
+        "PathID": 2463006440713729581
+    },
+    {
+        "Name": "ArmAcc_S0021_High",
+        "PathID": 264292355398308836
+    },
+    {
+        "Name": "ArmAcc_S0021_LOD1",
+        "PathID": 6010018224654077185
+    },
+    {
+        "Name": "ArmAcc_S0021_LOD2",
+        "PathID": -5307749842001541425
+    },
+    {
+        "Name": "ArmAcc_S0024",
+        "PathID": 1546155261852096005
+    },
+    {
+        "Name": "ArmAcc_S0024",
+        "PathID": -2521249335813064657
+    },
+    {
+        "Name": "ArmAcc_S0024_High",
+        "PathID": -6515094758911413992
+    },
+    {
+        "Name": "ArmAcc_S0024_High",
+        "PathID": 8141615313825731089
+    },
+    {
+        "Name": "ArmAcc_S0024_LOD1",
+        "PathID": 3191361336962428408
+    },
+    {
+        "Name": "ArmAcc_S0024_LOD1",
+        "PathID": 5080964800564642609
+    },
+    {
+        "Name": "ArmAcc_S0024_LOD2",
+        "PathID": 7927976904289728164
+    },
+    {
+        "Name": "ArmAcc_S0024_LOD2",
+        "PathID": -8857280134240315307
+    },
+    {
+        "Name": "ArmAcc_S0024_Nude",
+        "PathID": -5260863431833787491
+    },
+    {
+        "Name": "ArmAcc_S0024_Nude_LOD1",
+        "PathID": -1814692602015390500
+    },
+    {
+        "Name": "ArmAcc_S0024_Nude_LOD2",
+        "PathID": 894630940985459354
+    },
+    {
+        "Name": "ArmAcc_S0027",
+        "PathID": 7375276684869264141
+    },
+    {
+        "Name": "ArmAcc_S0027",
+        "PathID": 1750781941259901576
+    },
+    {
+        "Name": "ArmAcc_S0027_High",
+        "PathID": -501473892958267720
+    },
+    {
+        "Name": "ArmAcc_S0027_High",
+        "PathID": 5479972784225974343
+    },
+    {
+        "Name": "ArmAcc_S0027_LOD1",
+        "PathID": 2837343541920912307
+    },
+    {
+        "Name": "ArmAcc_S0027_LOD1",
+        "PathID": -2603933995380114698
+    },
+    {
+        "Name": "ArmAcc_S0027_LOD2",
+        "PathID": 1445915922087508939
+    },
+    {
+        "Name": "ArmAcc_S0027_LOD2",
+        "PathID": 5280910370481759313
+    },
+    {
+        "Name": "ArmAcc_S0027_Nude",
+        "PathID": 8903886307245051732
+    },
+    {
+        "Name": "ArmAcc_S0027_Nude",
+        "PathID": 359288819105315899
+    },
+    {
+        "Name": "ArmAcc_S0027_Nude_LOD1",
+        "PathID": -7103065238166944209
+    },
+    {
+        "Name": "ArmAcc_S0027_Nude_LOD1",
+        "PathID": -5695016120911923606
+    },
+    {
+        "Name": "ArmAcc_S0027_Nude_LOD2",
+        "PathID": -7737747102760272975
+    },
+    {
+        "Name": "ArmAcc_S0027_Nude_LOD2",
+        "PathID": -2969199504688052799
+    },
+    {
+        "Name": "ArmAcc_S0030",
+        "PathID": -6573105815907592479
+    },
+    {
+        "Name": "ArmAcc_S0030",
+        "PathID": 8712891634265569953
+    },
+    {
+        "Name": "ArmAcc_S0030_High",
+        "PathID": 7803982084057377521
+    },
+    {
+        "Name": "ArmAcc_S0030_High",
+        "PathID": -633334221279463844
+    },
+    {
+        "Name": "ArmAcc_S0030_LOD1",
+        "PathID": -7157851277461611719
+    },
+    {
+        "Name": "ArmAcc_S0030_LOD1",
+        "PathID": 492753009025286418
+    },
+    {
+        "Name": "ArmAcc_S0030_LOD2",
+        "PathID": -8213983321295494335
+    },
+    {
+        "Name": "ArmAcc_S0030_LOD2",
+        "PathID": -6747650606816713365
+    },
+    {
+        "Name": "ArmAcc_S0030_Nude",
+        "PathID": -433938391387480324
+    },
+    {
+        "Name": "ArmAcc_S0030_Nude",
+        "PathID": 2949355582135235275
+    },
+    {
+        "Name": "ArmAcc_S0030_Nude_LOD1",
+        "PathID": 5392148149116554751
+    },
+    {
+        "Name": "ArmAcc_S0030_Nude_LOD1",
+        "PathID": -5854445372163937699
+    },
+    {
+        "Name": "ArmAcc_S0030_Nude_LOD2",
+        "PathID": 9090608775773741776
+    },
+    {
+        "Name": "ArmAcc_S0030_Nude_LOD2",
+        "PathID": -6272160105556023649
+    },
+    {
+        "Name": "ArmAcc_S0033",
+        "PathID": -7575679911326890965
+    },
+    {
+        "Name": "ArmAcc_S0033",
+        "PathID": 2576109850522913238
+    },
+    {
+        "Name": "ArmAcc_S0033_High",
+        "PathID": 4150761408402376392
+    },
+    {
+        "Name": "ArmAcc_S0033_High",
+        "PathID": -6532865345360321923
+    },
+    {
+        "Name": "ArmAcc_S0033_LOD1",
+        "PathID": -7811803321174810377
+    },
+    {
+        "Name": "ArmAcc_S0033_LOD1",
+        "PathID": 7002447892937579642
+    },
+    {
+        "Name": "ArmAcc_S0033_LOD2",
+        "PathID": -5750590073221754672
+    },
+    {
+        "Name": "ArmAcc_S0033_LOD2",
+        "PathID": -3937693444221882242
+    },
+    {
+        "Name": "ArmAcc_S0033_Nude",
+        "PathID": -3303056452846732814
+    },
+    {
+        "Name": "ArmAcc_S0033_Nude",
+        "PathID": 8060276645487769823
+    },
+    {
+        "Name": "ArmAcc_S0033_Nude_LOD1",
+        "PathID": -6990877820865227718
+    },
+    {
+        "Name": "ArmAcc_S0033_Nude_LOD1",
+        "PathID": -4975478998832814100
+    },
+    {
+        "Name": "ArmAcc_S0033_Nude_LOD2",
+        "PathID": -7034718012527386957
+    },
+    {
+        "Name": "ArmAcc_S0033_Nude_LOD2",
+        "PathID": -7511147901312363861
+    },
+    {
+        "Name": "ArmAcc_S0034",
+        "PathID": -4556424748912474432
+    },
+    {
+        "Name": "ArmAcc_S0034",
+        "PathID": 3727409172662318351
+    },
+    {
+        "Name": "ArmAcc_S0034_High",
+        "PathID": -2799549527525462107
+    },
+    {
+        "Name": "ArmAcc_S0034_High",
+        "PathID": -1985144519237856679
+    },
+    {
+        "Name": "ArmAcc_S0034_LOD1",
+        "PathID": -5886918726641194431
+    },
+    {
+        "Name": "ArmAcc_S0034_LOD1",
+        "PathID": 6348274561193136903
+    },
+    {
+        "Name": "ArmAcc_S0034_LOD2",
+        "PathID": -3416882929401441140
+    },
+    {
+        "Name": "ArmAcc_S0034_LOD2",
+        "PathID": -5953473900159056247
+    },
+    {
+        "Name": "ArmAcc_S0046",
+        "PathID": -164490273090266509
+    },
+    {
+        "Name": "ArmAcc_S0046",
+        "PathID": -2967683164188181503
+    },
+    {
+        "Name": "ArmAcc_S0046_High",
+        "PathID": -1728080130316285024
+    },
+    {
+        "Name": "ArmAcc_S0046_High",
+        "PathID": 6184280046744148784
+    },
+    {
+        "Name": "ArmAcc_S0046_LOD1",
+        "PathID": -780501354174639558
+    },
+    {
+        "Name": "ArmAcc_S0046_LOD1",
+        "PathID": 2846877023212642505
+    },
+    {
+        "Name": "ArmAcc_S0046_LOD2",
+        "PathID": 7437458152012773251
+    },
+    {
+        "Name": "ArmAcc_S0046_LOD2",
+        "PathID": 6259383726339075155
+    },
+    {
+        "Name": "ArmAcc_S0046_Nude",
+        "PathID": -1566876200663794567
+    },
+    {
+        "Name": "ArmAcc_S0046_Nude",
+        "PathID": -7797311290953380859
+    },
+    {
+        "Name": "ArmAcc_S0046_Nude_LOD1",
+        "PathID": 1142580715672298563
+    },
+    {
+        "Name": "ArmAcc_S0046_Nude_LOD1",
+        "PathID": -7950075586822057932
+    },
+    {
+        "Name": "ArmAcc_S0046_Nude_LOD2",
+        "PathID": 1099337680414290030
+    },
+    {
+        "Name": "ArmAcc_S0046_Nude_LOD2",
+        "PathID": -7335277501965495581
+    },
+    {
+        "Name": "ArmAcc_S0048",
+        "PathID": 1511960583163162775
+    },
+    {
+        "Name": "ArmAcc_S0048",
+        "PathID": -3521366905617001413
+    },
+    {
+        "Name": "ArmAcc_S0048_High",
+        "PathID": -5011257988529189260
+    },
+    {
+        "Name": "ArmAcc_S0048_High",
+        "PathID": 8759599346495061145
+    },
+    {
+        "Name": "ArmAcc_S0048_LOD1",
+        "PathID": 224554949888626654
+    },
+    {
+        "Name": "ArmAcc_S0048_LOD1",
+        "PathID": 1560455134378338966
+    },
+    {
+        "Name": "ArmAcc_S0048_LOD2",
+        "PathID": -7240796565018249830
+    },
+    {
+        "Name": "ArmAcc_S0048_LOD2",
+        "PathID": -8618877288859587632
+    },
+    {
+        "Name": "ArmAcc_S0051",
+        "PathID": -4240767537454258109
+    },
+    {
+        "Name": "ArmAcc_S0051_High",
+        "PathID": -2606577075363782599
+    },
+    {
+        "Name": "ArmAcc_S0051_LOD1",
+        "PathID": -344057491361554861
+    },
+    {
+        "Name": "ArmAcc_S0051_LOD2",
+        "PathID": -713919389681785126
+    },
+    {
+        "Name": "ArmAcc_S0058",
+        "PathID": -2399604488021745578
+    },
+    {
+        "Name": "ArmAcc_S0058",
+        "PathID": 586925163613808486
+    },
+    {
+        "Name": "ArmAcc_S0058_High",
+        "PathID": -9148912272288472556
+    },
+    {
+        "Name": "ArmAcc_S0058_High",
+        "PathID": -2220520291892273569
+    },
+    {
+        "Name": "ArmAcc_S0058_LOD1",
+        "PathID": -572329280428105769
+    },
+    {
+        "Name": "ArmAcc_S0058_LOD1",
+        "PathID": -5591108138400768771
+    },
+    {
+        "Name": "ArmAcc_S0058_LOD2",
+        "PathID": -7244526600730340444
+    },
+    {
+        "Name": "ArmAcc_S0058_LOD2",
+        "PathID": -2451204595652811113
+    },
+    {
+        "Name": "ArmAcc_S0058_Nude",
+        "PathID": 2219643551333378468
+    },
+    {
+        "Name": "ArmAcc_S0058_Nude",
+        "PathID": -4297166385109075519
+    },
+    {
+        "Name": "ArmAcc_S0058_Nude_LOD1",
+        "PathID": 6109514249427873807
+    },
+    {
+        "Name": "ArmAcc_S0058_Nude_LOD1",
+        "PathID": 6925495301341733865
+    },
+    {
+        "Name": "ArmAcc_S0058_Nude_LOD2",
+        "PathID": -8158665378089257811
+    },
+    {
+        "Name": "ArmAcc_S0058_Nude_LOD2",
+        "PathID": 662503250665564049
+    },
+    {
+        "Name": "ArmAcc_S0059",
+        "PathID": -5426277831938950406
+    },
+    {
+        "Name": "ArmAcc_S0059",
+        "PathID": 4508398988679087885
+    },
+    {
+        "Name": "ArmAcc_S0059_High",
+        "PathID": -1211436151228000332
+    },
+    {
+        "Name": "ArmAcc_S0059_High",
+        "PathID": -1294336879644329074
+    },
+    {
+        "Name": "ArmAcc_S0059_LOD1",
+        "PathID": 7358790603804684423
+    },
+    {
+        "Name": "ArmAcc_S0059_LOD1",
+        "PathID": -934653246865774407
+    },
+    {
+        "Name": "ArmAcc_S0059_LOD2",
+        "PathID": -7289698022741058216
+    },
+    {
+        "Name": "ArmAcc_S0059_LOD2",
+        "PathID": 1411130768103281140
+    },
+    {
+        "Name": "ArmAcc_S0059_Nude",
+        "PathID": -3056944675778273021
+    },
+    {
+        "Name": "ArmAcc_S0059_Nude_LOD1",
+        "PathID": -2692561910022091571
+    },
+    {
+        "Name": "ArmAcc_S0059_Nude_LOD2",
+        "PathID": -8677898748559262660
+    },
+    {
+        "Name": "ArmAcc_S0062",
+        "PathID": -342997298069566964
+    },
+    {
+        "Name": "ArmAcc_S0062",
+        "PathID": -6258997181974788020
+    },
+    {
+        "Name": "ArmAcc_S0062_High",
+        "PathID": -2939785018491559756
+    },
+    {
+        "Name": "ArmAcc_S0062_High",
+        "PathID": -6079577248388415000
+    },
+    {
+        "Name": "ArmAcc_S0062_LOD1",
+        "PathID": -7430069255962892453
+    },
+    {
+        "Name": "ArmAcc_S0062_LOD1",
+        "PathID": -9144972091320817235
+    },
+    {
+        "Name": "ArmAcc_S0062_LOD2",
+        "PathID": -632034978591547748
+    },
+    {
+        "Name": "ArmAcc_S0062_LOD2",
+        "PathID": -5111417125227755720
+    },
+    {
+        "Name": "ArmAcc_S0062_Nude",
+        "PathID": -2872132305164620300
+    },
+    {
+        "Name": "ArmAcc_S0062_Nude",
+        "PathID": -5633054539458323331
+    },
+    {
+        "Name": "ArmAcc_S0062_Nude_LOD1",
+        "PathID": 2708382230392229429
+    },
+    {
+        "Name": "ArmAcc_S0062_Nude_LOD1",
+        "PathID": 5401311854956641802
+    },
+    {
+        "Name": "ArmAcc_S0062_Nude_LOD2",
+        "PathID": -3906214967344636203
+    },
+    {
+        "Name": "ArmAcc_S0062_Nude_LOD2",
+        "PathID": 2834771192696177404
+    },
+    {
+        "Name": "AvatarItem_Nefer_Pendant_Model",
+        "PathID": -2257807640538969498
+    },
+    {
+        "Name": "Backwear_P0296",
+        "PathID": -3483112807975574674
+    },
+    {
+        "Name": "Backwear_P0296",
+        "PathID": 323423276276262677
+    },
+    {
+        "Name": "Backwear_P0296_High",
+        "PathID": 6378724226785956580
+    },
+    {
+        "Name": "Backwear_P0296_High",
+        "PathID": -269414544410371487
+    },
+    {
+        "Name": "Backwear_P0296_LOD1",
+        "PathID": 7302390531189818774
+    },
+    {
+        "Name": "Backwear_P0296_LOD1",
+        "PathID": 8955162299642328718
+    },
+    {
+        "Name": "Backwear_P0296_LOD2",
+        "PathID": -4226311816511755316
+    },
+    {
+        "Name": "Backwear_P0296_LOD2",
+        "PathID": 1131404416801309213
+    },
+    {
+        "Name": "Backwear_S0027",
+        "PathID": -8568769508562419711
+    },
+    {
+        "Name": "Backwear_S0027",
+        "PathID": -3407654717129833954
+    },
+    {
+        "Name": "Backwear_S0027_High",
+        "PathID": 1829985299017513880
+    },
+    {
+        "Name": "Backwear_S0027_High",
+        "PathID": 7635025247748829318
+    },
+    {
+        "Name": "Backwear_S0027_LOD1",
+        "PathID": 5368836310127580697
+    },
+    {
+        "Name": "Backwear_S0027_LOD1",
+        "PathID": 6305031023048671879
+    },
+    {
+        "Name": "Backwear_S0027_LOD2",
+        "PathID": 3939347984908926020
+    },
+    {
+        "Name": "Backwear_S0027_LOD2",
+        "PathID": -1640616431166952387
+    },
+    {
+        "Name": "Bang",
+        "PathID": 1121126503100178351
+    },
+    {
+        "Name": "Bang",
+        "PathID": -7573729339052745336
+    },
+    {
+        "Name": "Bang",
+        "PathID": 5010983375468527707
+    },
+    {
+        "Name": "Bang_LOD1",
+        "PathID": -5449391214788903039
+    },
+    {
+        "Name": "Bang_LOD1",
+        "PathID": -6882628248038454561
+    },
+    {
+        "Name": "Bang_LOD2",
+        "PathID": -6267286892396584898
+    },
+    {
+        "Name": "Bang_LOD2",
+        "PathID": 5279491817606770089
+    },
+    {
+        "Name": "Bang_LOD3",
+        "PathID": -2439320266393919031
+    },
+    {
+        "Name": "Bang_LOD3",
+        "PathID": -5305685097377957722
+    },
+    {
+        "Name": "Beyd_Eff_Model_Cs_Smoke_01_BdOnly",
+        "PathID": -8874977145336214992
+    },
+    {
+        "Name": "Beyd_Eff_Model_Cs_Smoke_02_BdOnly",
+        "PathID": -3414740921094266829
+    },
+    {
+        "Name": "Beyd_Eff_Model_Ring_02_1_BdOnly",
+        "PathID": -3614715668321941358
+    },
+    {
+        "Name": "Beyd_Eff_Model_Ring_02_2_BdOnly",
+        "PathID": 2892900191886665691
+    },
+    {
+        "Name": "Beyd_Eff_Model_Suit_S0059_Plane_001",
+        "PathID": -851160542024169451
+    },
+    {
+        "Name": "Beyd_Eff_Model_Suit_S0059_Special_Soul_01_BdOnly",
+        "PathID": 1771890465952944228
+    },
+    {
+        "Name": "Beyd_Object_Build_DianPu_02_01_Lod1",
+        "PathID": 2283791523103953530
+    },
+    {
+        "Name": "Beyd_Object_Build_DianPu_02_01_Lod2",
+        "PathID": -5366337535214001476
+    },
+    {
+        "Name": "Beyd_Object_Build_DianPu_04_01_Lod1",
+        "PathID": -3122267306457050260
+    },
+    {
+        "Name": "Beyd_Object_Build_DianPu_04_01_Lod2",
+        "PathID": -6360693546174708903
+    },
+    {
+        "Name": "Beyd_Object_Effect_FakeSky_01",
+        "PathID": -4172797944775445339
+    },
+    {
+        "Name": "Body",
+        "PathID": -7051660619839119867
+    },
+    {
+        "Name": "Body",
+        "PathID": -8158750306296705989
+    },
+    {
+        "Name": "Body",
+        "PathID": 9036794384764477338
+    },
+    {
+        "Name": "Body016_Standard",
+        "PathID": 7304677562702396031
+    },
+    {
+        "Name": "Body016_Standard_LOD1",
+        "PathID": 5765910313619267310
+    },
+    {
+        "Name": "Body016_Standard_LOD2",
+        "PathID": 5012242283465320157
+    },
+    {
+        "Name": "Body016_Standard_Tholindis",
+        "PathID": 1242240299008272382
+    },
+    {
+        "Name": "Body016_Standard_Tholindis_LOD1",
+        "PathID": -622734874347081282
+    },
+    {
+        "Name": "Body016_Standard_Tholindis_LOD2",
+        "PathID": -8968091731291632233
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -669386602690482945
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 5670408852040330850
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 7858464792014256390
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 5821499124829414874
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 8851385014510788495
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": -7273519145286149308
+    },
+    {
+        "Name": "Bottom_S0014",
+        "PathID": 7850393466753637549
+    },
+    {
+        "Name": "Bottom_S0014_High",
+        "PathID": 1643334062977998416
+    },
+    {
+        "Name": "Bottom_S0014_LOD1",
+        "PathID": 982578517689823713
+    },
+    {
+        "Name": "Bottom_S0014_LOD2",
+        "PathID": -692568535991993075
+    },
+    {
+        "Name": "Bottom_S0014_Nude",
+        "PathID": -7019287716379256263
+    },
+    {
+        "Name": "Bottom_S0014_Nude_LOD1",
+        "PathID": 2531326280152338065
+    },
+    {
+        "Name": "Bottom_S0014_Nude_LOD2",
+        "PathID": -2636655937541313737
+    },
+    {
+        "Name": "Bottom_S0019",
+        "PathID": 1238394289088975017
+    },
+    {
+        "Name": "Bottom_S0019_High",
+        "PathID": -1800261978387003999
+    },
+    {
+        "Name": "Bottom_S0019_LOD1",
+        "PathID": 9130636959096022309
+    },
+    {
+        "Name": "Bottom_S0019_LOD2",
+        "PathID": -6005810099143414806
+    },
+    {
+        "Name": "Bottom_S0019_Nude",
+        "PathID": 4712750770623715412
+    },
+    {
+        "Name": "Bottom_S0019_Nude_LOD1",
+        "PathID": -3046787828047371390
+    },
+    {
+        "Name": "Bottom_S0019_Nude_LOD2",
+        "PathID": -751312776392522883
+    },
+    {
+        "Name": "Bottom_S0020",
+        "PathID": 4433158826794230809
+    },
+    {
+        "Name": "Bottom_S0020",
+        "PathID": 4453788259568619742
+    },
+    {
+        "Name": "Bottom_S0020_High",
+        "PathID": -845692727056176563
+    },
+    {
+        "Name": "Bottom_S0020_High",
+        "PathID": 9118771847855366621
+    },
+    {
+        "Name": "Bottom_S0020_LOD1",
+        "PathID": -6187964526452072841
+    },
+    {
+        "Name": "Bottom_S0020_LOD1",
+        "PathID": -502752581475013431
+    },
+    {
+        "Name": "Bottom_S0020_LOD2",
+        "PathID": 7684439119621184610
+    },
+    {
+        "Name": "Bottom_S0020_LOD2",
+        "PathID": 5139609327736730911
+    },
+    {
+        "Name": "Bottom_S0020_Nude",
+        "PathID": -1994962718398842238
+    },
+    {
+        "Name": "Bottom_S0020_Nude_LOD1",
+        "PathID": -5290920593261787948
+    },
+    {
+        "Name": "Bottom_S0020_Nude_LOD2",
+        "PathID": 6401733165084495176
+    },
+    {
+        "Name": "Bottom_S0021",
+        "PathID": 1458440901416191402
+    },
+    {
+        "Name": "Bottom_S0021",
+        "PathID": -7934528900124283315
+    },
+    {
+        "Name": "Bottom_S0021_High",
+        "PathID": 9124247281789474922
+    },
+    {
+        "Name": "Bottom_S0021_High",
+        "PathID": -989480942929639019
+    },
+    {
+        "Name": "Bottom_S0021_LOD1",
+        "PathID": -1499276642614790427
+    },
+    {
+        "Name": "Bottom_S0021_LOD1",
+        "PathID": 7213116236137693831
+    },
+    {
+        "Name": "Bottom_S0021_LOD2",
+        "PathID": -8074065428027520744
+    },
+    {
+        "Name": "Bottom_S0021_LOD2",
+        "PathID": 3099235807598730311
+    },
+    {
+        "Name": "Bottom_S0021_Nude",
+        "PathID": -1021559985208025105
+    },
+    {
+        "Name": "Bottom_S0021_Nude_LOD1",
+        "PathID": -1118828733926408206
+    },
+    {
+        "Name": "Bottom_S0021_Nude_LOD2",
+        "PathID": -478181230510851159
+    },
+    {
+        "Name": "Bottom_S0024",
+        "PathID": 5237773551888304868
+    },
+    {
+        "Name": "Bottom_S0024",
+        "PathID": -1327888636328587790
+    },
+    {
+        "Name": "Bottom_S0024_High",
+        "PathID": 1874437836477442549
+    },
+    {
+        "Name": "Bottom_S0024_High",
+        "PathID": 432709502060333344
+    },
+    {
+        "Name": "Bottom_S0024_LOD1",
+        "PathID": -2911617707954449585
+    },
+    {
+        "Name": "Bottom_S0024_LOD1",
+        "PathID": -9006862998696486451
+    },
+    {
+        "Name": "Bottom_S0024_LOD2",
+        "PathID": 1749477024194999889
+    },
+    {
+        "Name": "Bottom_S0024_LOD2",
+        "PathID": -7463227176004475858
+    },
+    {
+        "Name": "Bottom_S0024_Nude",
+        "PathID": -9138881171235891225
+    },
+    {
+        "Name": "Bottom_S0024_Nude_LOD1",
+        "PathID": 5824398409260020994
+    },
+    {
+        "Name": "Bottom_S0024_Nude_LOD2",
+        "PathID": 8903460606308421918
+    },
+    {
+        "Name": "Bottom_S0027",
+        "PathID": -1861409658380275247
+    },
+    {
+        "Name": "Bottom_S0027_High",
+        "PathID": -5192478386837241070
+    },
+    {
+        "Name": "Bottom_S0027_LOD1",
+        "PathID": 4165882834581911285
+    },
+    {
+        "Name": "Bottom_S0027_LOD2",
+        "PathID": 6547197815045300193
+    },
+    {
+        "Name": "Bottom_S0030",
+        "PathID": -1333400576230773901
+    },
+    {
+        "Name": "Bottom_S0030",
+        "PathID": 982423587913277109
+    },
+    {
+        "Name": "Bottom_S0030_High",
+        "PathID": -2015999651102429690
+    },
+    {
+        "Name": "Bottom_S0030_High",
+        "PathID": -5906682777683659235
+    },
+    {
+        "Name": "Bottom_S0030_LOD1",
+        "PathID": 6350067719718234477
+    },
+    {
+        "Name": "Bottom_S0030_LOD1",
+        "PathID": -366291316497021852
+    },
+    {
+        "Name": "Bottom_S0030_LOD2",
+        "PathID": 5643818676863493705
+    },
+    {
+        "Name": "Bottom_S0030_LOD2",
+        "PathID": 1863709230220451721
+    },
+    {
+        "Name": "Bottom_S0030_Nude",
+        "PathID": 887329637185774319
+    },
+    {
+        "Name": "Bottom_S0030_Nude",
+        "PathID": -2161962229392083623
+    },
+    {
+        "Name": "Bottom_S0030_Nude_LOD1",
+        "PathID": 1087761368323627067
+    },
+    {
+        "Name": "Bottom_S0030_Nude_LOD1",
+        "PathID": 3032466348533404201
+    },
+    {
+        "Name": "Bottom_S0030_Nude_LOD2",
+        "PathID": -5081383137660509749
+    },
+    {
+        "Name": "Bottom_S0030_Nude_LOD2",
+        "PathID": -4646032976116181680
+    },
+    {
+        "Name": "Bottom_S0033",
+        "PathID": 14001159881500531
+    },
+    {
+        "Name": "Bottom_S0033_High",
+        "PathID": 2640620738710326405
+    },
+    {
+        "Name": "Bottom_S0033_LOD1",
+        "PathID": 6450022609665418668
+    },
+    {
+        "Name": "Bottom_S0033_LOD2",
+        "PathID": 7802054860505853161
+    },
+    {
+        "Name": "Bottom_S0033_Nude",
+        "PathID": 6122241107636340561
+    },
+    {
+        "Name": "Bottom_S0033_Nude_LOD1",
+        "PathID": -5007375666780050440
+    },
+    {
+        "Name": "Bottom_S0033_Nude_LOD2",
+        "PathID": -4054639651624276710
+    },
+    {
+        "Name": "Bottom_S0034",
+        "PathID": 1517049746368208956
+    },
+    {
+        "Name": "Bottom_S0034_High",
+        "PathID": -758913509995961047
+    },
+    {
+        "Name": "Bottom_S0034_LOD1",
+        "PathID": -3204433022042958432
+    },
+    {
+        "Name": "Bottom_S0034_LOD2",
+        "PathID": -8302027076571094244
+    },
+    {
+        "Name": "Bottom_S0034_Nude",
+        "PathID": 6638876463710808759
+    },
+    {
+        "Name": "Bottom_S0034_Nude_LOD1",
+        "PathID": 9138192705725987361
+    },
+    {
+        "Name": "Bottom_S0034_Nude_LOD2",
+        "PathID": 1518394033290651815
+    },
+    {
+        "Name": "Bottom_S0046",
+        "PathID": -794212925481589712
+    },
+    {
+        "Name": "Bottom_S0046",
+        "PathID": -1813827545370318646
+    },
+    {
+        "Name": "Bottom_S0046_High",
+        "PathID": 5831903302230660835
+    },
+    {
+        "Name": "Bottom_S0046_High",
+        "PathID": 2693753740809443885
+    },
+    {
+        "Name": "Bottom_S0046_LOD1",
+        "PathID": 5375187250344885828
+    },
+    {
+        "Name": "Bottom_S0046_LOD1",
+        "PathID": 660090847893807959
+    },
+    {
+        "Name": "Bottom_S0046_LOD2",
+        "PathID": -4284104672635580196
+    },
+    {
+        "Name": "Bottom_S0046_LOD2",
+        "PathID": 7260019405170501516
+    },
+    {
+        "Name": "Bottom_S0046_Nude",
+        "PathID": -6750523922095266808
+    },
+    {
+        "Name": "Bottom_S0046_Nude",
+        "PathID": 7369031025564915688
+    },
+    {
+        "Name": "Bottom_S0046_Nude_LOD1",
+        "PathID": 8947359445029688644
+    },
+    {
+        "Name": "Bottom_S0046_Nude_LOD1",
+        "PathID": 5556156378526811667
+    },
+    {
+        "Name": "Bottom_S0046_Nude_LOD2",
+        "PathID": 3541238791831845307
+    },
+    {
+        "Name": "Bottom_S0046_Nude_LOD2",
+        "PathID": 8669091098549911193
+    },
+    {
+        "Name": "Bottom_S0047",
+        "PathID": -6802882577741102546
+    },
+    {
+        "Name": "Bottom_S0047",
+        "PathID": 2018532766375166498
+    },
+    {
+        "Name": "Bottom_S0047_High",
+        "PathID": 7144283331368346509
+    },
+    {
+        "Name": "Bottom_S0047_High",
+        "PathID": 5651293304794882842
+    },
+    {
+        "Name": "Bottom_S0047_LOD1",
+        "PathID": -3249617533332863340
+    },
+    {
+        "Name": "Bottom_S0047_LOD1",
+        "PathID": -6594866144641792374
+    },
+    {
+        "Name": "Bottom_S0047_LOD2",
+        "PathID": 3410211241110599047
+    },
+    {
+        "Name": "Bottom_S0047_LOD2",
+        "PathID": 4847007804255207401
+    },
+    {
+        "Name": "Bottom_S0047_Nude",
+        "PathID": 1130989601926454940
+    },
+    {
+        "Name": "Bottom_S0047_Nude",
+        "PathID": 885600268711488848
+    },
+    {
+        "Name": "Bottom_S0047_Nude_LOD1",
+        "PathID": -365005771746122773
+    },
+    {
+        "Name": "Bottom_S0047_Nude_LOD1",
+        "PathID": 9068640023038187014
+    },
+    {
+        "Name": "Bottom_S0047_Nude_LOD2",
+        "PathID": 3832628898074182520
+    },
+    {
+        "Name": "Bottom_S0047_Nude_LOD2",
+        "PathID": 4016495848278607477
+    },
+    {
+        "Name": "Bottom_S0048",
+        "PathID": -5474563213830936625
+    },
+    {
+        "Name": "Bottom_S0048",
+        "PathID": 7165259974396348013
+    },
+    {
+        "Name": "Bottom_S0048_High",
+        "PathID": -5867466759910002113
+    },
+    {
+        "Name": "Bottom_S0048_High",
+        "PathID": -128439268180900968
+    },
+    {
+        "Name": "Bottom_S0048_LOD1",
+        "PathID": -2019642534231536258
+    },
+    {
+        "Name": "Bottom_S0048_LOD1",
+        "PathID": -8154798227990141678
+    },
+    {
+        "Name": "Bottom_S0048_LOD2",
+        "PathID": 6277501947863971731
+    },
+    {
+        "Name": "Bottom_S0048_LOD2",
+        "PathID": -1041104297609829965
+    },
+    {
+        "Name": "Bottom_S0048_Nude",
+        "PathID": -110812482926502515
+    },
+    {
+        "Name": "Bottom_S0048_Nude",
+        "PathID": -341376886642006025
+    },
+    {
+        "Name": "Bottom_S0048_Nude_LOD1",
+        "PathID": -2811964089872828720
+    },
+    {
+        "Name": "Bottom_S0048_Nude_LOD1",
+        "PathID": 6195531778169035953
+    },
+    {
+        "Name": "Bottom_S0048_Nude_LOD2",
+        "PathID": -4542671773903141069
+    },
+    {
+        "Name": "Bottom_S0048_Nude_LOD2",
+        "PathID": -8646764131317283519
+    },
+    {
+        "Name": "Bottom_S0049",
+        "PathID": -404894768183639367
+    },
+    {
+        "Name": "Bottom_S0049",
+        "PathID": -6082328795900326576
+    },
+    {
+        "Name": "Bottom_S0049_High",
+        "PathID": 5968679781650040881
+    },
+    {
+        "Name": "Bottom_S0049_High",
+        "PathID": 1590143682173759783
+    },
+    {
+        "Name": "Bottom_S0049_LOD1",
+        "PathID": 2920528320999935134
+    },
+    {
+        "Name": "Bottom_S0049_LOD1",
+        "PathID": 6670013890658803107
+    },
+    {
+        "Name": "Bottom_S0049_LOD2",
+        "PathID": -644428153954624721
+    },
+    {
+        "Name": "Bottom_S0049_LOD2",
+        "PathID": 422656563931761940
+    },
+    {
+        "Name": "Bottom_S0049_Nude",
+        "PathID": 4098397423670369393
+    },
+    {
+        "Name": "Bottom_S0049_Nude",
+        "PathID": 5375032966679797554
+    },
+    {
+        "Name": "Bottom_S0049_Nude_LOD1",
+        "PathID": -8569937165606541000
+    },
+    {
+        "Name": "Bottom_S0049_Nude_LOD1",
+        "PathID": -4528503088264485270
+    },
+    {
+        "Name": "Bottom_S0049_Nude_LOD2",
+        "PathID": 2629069859560125218
+    },
+    {
+        "Name": "Bottom_S0049_Nude_LOD2",
+        "PathID": 8719679099388930438
+    },
+    {
+        "Name": "Bottom_S0051",
+        "PathID": 1188811097338949230
+    },
+    {
+        "Name": "Bottom_S0051",
+        "PathID": 558508951280429517
+    },
+    {
+        "Name": "Bottom_S0051_High",
+        "PathID": -8890775811700079010
+    },
+    {
+        "Name": "Bottom_S0051_High",
+        "PathID": -2223440915119043954
+    },
+    {
+        "Name": "Bottom_S0051_LOD1",
+        "PathID": 7813222988274068298
+    },
+    {
+        "Name": "Bottom_S0051_LOD1",
+        "PathID": 8024569370640728350
+    },
+    {
+        "Name": "Bottom_S0051_LOD2",
+        "PathID": -3944665141257214094
+    },
+    {
+        "Name": "Bottom_S0051_LOD2",
+        "PathID": -7628234837043697655
+    },
+    {
+        "Name": "Bottom_S0051_Nude",
+        "PathID": 1508901121818910080
+    },
+    {
+        "Name": "Bottom_S0051_Nude",
+        "PathID": -3142254461880768702
+    },
+    {
+        "Name": "Bottom_S0051_Nude_LOD1",
+        "PathID": 2839976192569693913
+    },
+    {
+        "Name": "Bottom_S0051_Nude_LOD1",
+        "PathID": 5418295411473933712
+    },
+    {
+        "Name": "Bottom_S0051_Nude_LOD2",
+        "PathID": -5338929132506224999
+    },
+    {
+        "Name": "Bottom_S0051_Nude_LOD2",
+        "PathID": -3156393576994593334
+    },
+    {
+        "Name": "Bottom_S0055",
+        "PathID": -4993291914448679832
+    },
+    {
+        "Name": "Bottom_S0055",
+        "PathID": 7137372396633580813
+    },
+    {
+        "Name": "Bottom_S0055_High",
+        "PathID": 2978276840824405899
+    },
+    {
+        "Name": "Bottom_S0055_High",
+        "PathID": -2732756897618043206
+    },
+    {
+        "Name": "Bottom_S0055_LOD1",
+        "PathID": 1344853858603829863
+    },
+    {
+        "Name": "Bottom_S0055_LOD1",
+        "PathID": -8656667734573059311
+    },
+    {
+        "Name": "Bottom_S0055_LOD2",
+        "PathID": -8269751440625337205
+    },
+    {
+        "Name": "Bottom_S0055_LOD2",
+        "PathID": 2757223857715405539
+    },
+    {
+        "Name": "Bottom_S0055_Nude",
+        "PathID": -5159087005522780905
+    },
+    {
+        "Name": "Bottom_S0055_Nude_LOD1",
+        "PathID": -99784770152880858
+    },
+    {
+        "Name": "Bottom_S0055_Nude_LOD2",
+        "PathID": -5679574994760889800
+    },
+    {
+        "Name": "Bottom_S0058",
+        "PathID": 4246042674337658994
+    },
+    {
+        "Name": "Bottom_S0058_High",
+        "PathID": 2355303648730119424
+    },
+    {
+        "Name": "Bottom_S0058_LOD1",
+        "PathID": -2902444286023012437
+    },
+    {
+        "Name": "Bottom_S0058_LOD2",
+        "PathID": -2810946694218276338
+    },
+    {
+        "Name": "Bottom_S0058_Nude",
+        "PathID": -4897050952837098295
+    },
+    {
+        "Name": "Bottom_S0058_Nude_LOD1",
+        "PathID": -8797802430827004814
+    },
+    {
+        "Name": "Bottom_S0058_Nude_LOD2",
+        "PathID": -6234699021755711613
+    },
+    {
+        "Name": "Bottom_S0059",
+        "PathID": -2326054654084153484
+    },
+    {
+        "Name": "Bottom_S0059_High",
+        "PathID": -6742307937904252606
+    },
+    {
+        "Name": "Bottom_S0059_LOD1",
+        "PathID": 3250234269992637983
+    },
+    {
+        "Name": "Bottom_S0059_LOD2",
+        "PathID": 5029419768244459829
+    },
+    {
+        "Name": "Bottom_S0059_Nude",
+        "PathID": -668529404892356029
+    },
+    {
+        "Name": "Bottom_S0059_Nude_LOD1",
+        "PathID": 1801505695480002532
+    },
+    {
+        "Name": "Bottom_S0059_Nude_LOD2",
+        "PathID": -5561633668720586413
+    },
+    {
+        "Name": "Bottom_S0060",
+        "PathID": 7856017213426659942
+    },
+    {
+        "Name": "Bottom_S0060",
+        "PathID": 3338596814503135681
+    },
+    {
+        "Name": "Bottom_S0060_High",
+        "PathID": 5134551270912179791
+    },
+    {
+        "Name": "Bottom_S0060_High",
+        "PathID": 2926504182390370492
+    },
+    {
+        "Name": "Bottom_S0060_LOD1",
+        "PathID": 1228565078586478337
+    },
+    {
+        "Name": "Bottom_S0060_LOD1",
+        "PathID": 3212361022274221844
+    },
+    {
+        "Name": "Bottom_S0060_LOD2",
+        "PathID": 154550197340342854
+    },
+    {
+        "Name": "Bottom_S0060_LOD2",
+        "PathID": -591890417024844332
+    },
+    {
+        "Name": "Bottom_S0060_Nude",
+        "PathID": -1735188385209166421
+    },
+    {
+        "Name": "Bottom_S0060_Nude_LOD1",
+        "PathID": 630166316679440140
+    },
+    {
+        "Name": "Bottom_S0060_Nude_LOD2",
+        "PathID": 743501881123898873
+    },
+    {
+        "Name": "Brow",
+        "PathID": -995574265260107095
+    },
+    {
+        "Name": "Brow",
+        "PathID": -3770095153102405903
+    },
+    {
+        "Name": "Brow",
+        "PathID": 8572094527319085230
+    },
+    {
+        "Name": "Brow",
+        "PathID": -1640098748346485785
+    },
+    {
+        "Name": "Brow",
+        "PathID": -3531404751306955909
+    },
+    {
+        "Name": "Brow",
+        "PathID": 3354731164998102013
+    },
+    {
+        "Name": "Brow",
+        "PathID": 6533108514582103848
+    },
+    {
+        "Name": "Brow",
+        "PathID": -7105540367521112715
+    },
+    {
+        "Name": "Brow",
+        "PathID": 5502622026545377859
+    },
+    {
+        "Name": "Brow_LOD1",
+        "PathID": -1292456956876273084
+    },
+    {
+        "Name": "Brow_LOD2",
+        "PathID": 3478745137342710285
+    },
+    {
+        "Name": "Brow_LOD2",
+        "PathID": 5202541918893075896
+    },
+    {
+        "Name": "Brow_LOD3",
+        "PathID": -1915308982421925947
+    },
+    {
+        "Name": "Brow_LOD3",
+        "PathID": 594210362306737165
+    },
+    {
+        "Name": "Earwear_S0014_Sub01",
+        "PathID": -5694264143010535289
+    },
+    {
+        "Name": "Earwear_S0014_Sub01",
+        "PathID": 5152441252552336755
+    },
+    {
+        "Name": "Earwear_S0014_Sub01_High",
+        "PathID": -4834915314154831606
+    },
+    {
+        "Name": "Earwear_S0014_Sub01_High",
+        "PathID": 7654918059646543648
+    },
+    {
+        "Name": "Earwear_S0014_Sub01_LOD1",
+        "PathID": 7222532600312337959
+    },
+    {
+        "Name": "Earwear_S0014_Sub01_LOD1",
+        "PathID": -1510475342308108196
+    },
+    {
+        "Name": "Earwear_S0014_Sub01_LOD2",
+        "PathID": -8473951131547232769
+    },
+    {
+        "Name": "Earwear_S0014_Sub01_LOD2",
+        "PathID": -5759935002765886168
+    },
+    {
+        "Name": "Earwear_S0014_Sub02",
+        "PathID": -7432148961509016644
+    },
+    {
+        "Name": "Earwear_S0014_Sub02",
+        "PathID": 3735277878845090585
+    },
+    {
+        "Name": "Earwear_S0014_Sub02_High",
+        "PathID": -1829967585739886474
+    },
+    {
+        "Name": "Earwear_S0014_Sub02_High",
+        "PathID": -3155826018163923042
+    },
+    {
+        "Name": "Earwear_S0014_Sub02_LOD1",
+        "PathID": 7654005088005697622
+    },
+    {
+        "Name": "Earwear_S0014_Sub02_LOD1",
+        "PathID": -4121459253532795044
+    },
+    {
+        "Name": "Earwear_S0014_Sub02_LOD2",
+        "PathID": 4223756483385444826
+    },
+    {
+        "Name": "Earwear_S0014_Sub02_LOD2",
+        "PathID": 6538468372495666946
+    },
+    {
+        "Name": "Earwear_S0027_Sub01",
+        "PathID": -1097323731225845318
+    },
+    {
+        "Name": "Earwear_S0027_Sub01",
+        "PathID": 3834030217066440525
+    },
+    {
+        "Name": "Earwear_S0027_Sub01_High",
+        "PathID": -9168059186403404164
+    },
+    {
+        "Name": "Earwear_S0027_Sub01_High",
+        "PathID": -1076388219234332841
+    },
+    {
+        "Name": "Earwear_S0027_Sub01_LOD1",
+        "PathID": -110769019154319471
+    },
+    {
+        "Name": "Earwear_S0027_Sub01_LOD1",
+        "PathID": -312376353193581755
+    },
+    {
+        "Name": "Earwear_S0027_Sub01_LOD2",
+        "PathID": 5181931026494459418
+    },
+    {
+        "Name": "Earwear_S0027_Sub01_LOD2",
+        "PathID": 4232494252869895390
+    },
+    {
+        "Name": "Earwear_S0027_Sub02",
+        "PathID": 1428964478050959818
+    },
+    {
+        "Name": "Earwear_S0027_Sub02",
+        "PathID": -431906948457054816
+    },
+    {
+        "Name": "Earwear_S0027_Sub02_High",
+        "PathID": 3582745800404861992
+    },
+    {
+        "Name": "Earwear_S0027_Sub02_High",
+        "PathID": 7057686399086946485
+    },
+    {
+        "Name": "Earwear_S0027_Sub02_LOD1",
+        "PathID": 7462902064508118321
+    },
+    {
+        "Name": "Earwear_S0027_Sub02_LOD1",
+        "PathID": 1197309313004419236
+    },
+    {
+        "Name": "Earwear_S0027_Sub02_LOD2",
+        "PathID": 9148975958475084920
+    },
+    {
+        "Name": "Earwear_S0027_Sub02_LOD2",
+        "PathID": -5529478187917299537
+    },
+    {
+        "Name": "Earwear_S0030_Sub01",
+        "PathID": -7165037785731844196
+    },
+    {
+        "Name": "Earwear_S0030_Sub01",
+        "PathID": 5881818732820167312
+    },
+    {
+        "Name": "Earwear_S0030_Sub01_High",
+        "PathID": -5820079674578971427
+    },
+    {
+        "Name": "Earwear_S0030_Sub01_High",
+        "PathID": -3894271529802286873
+    },
+    {
+        "Name": "Earwear_S0030_Sub01_LOD1",
+        "PathID": -1334768194168984347
+    },
+    {
+        "Name": "Earwear_S0030_Sub01_LOD1",
+        "PathID": -2196367949343703150
+    },
+    {
+        "Name": "Earwear_S0030_Sub01_LOD2",
+        "PathID": 7592674677712280016
+    },
+    {
+        "Name": "Earwear_S0030_Sub01_LOD2",
+        "PathID": 3811826192173556336
+    },
+    {
+        "Name": "Earwear_S0030_Sub02",
+        "PathID": -2757802785692401255
+    },
+    {
+        "Name": "Earwear_S0030_Sub02",
+        "PathID": 8422059534991708981
+    },
+    {
+        "Name": "Earwear_S0030_Sub02_High",
+        "PathID": 1069746334433005108
+    },
+    {
+        "Name": "Earwear_S0030_Sub02_High",
+        "PathID": 8737252620043199735
+    },
+    {
+        "Name": "Earwear_S0030_Sub02_LOD1",
+        "PathID": 818717448639852827
+    },
+    {
+        "Name": "Earwear_S0030_Sub02_LOD1",
+        "PathID": -7580890755950615065
+    },
+    {
+        "Name": "Earwear_S0030_Sub02_LOD2",
+        "PathID": -7499879673425906463
+    },
+    {
+        "Name": "Earwear_S0030_Sub02_LOD2",
+        "PathID": 3030443275753279827
+    },
+    {
+        "Name": "Earwear_S0034_Sub01",
+        "PathID": 1407260630913083226
+    },
+    {
+        "Name": "Earwear_S0034_Sub01_High",
+        "PathID": -5026811930120093478
+    },
+    {
+        "Name": "Earwear_S0034_Sub01_LOD1",
+        "PathID": 7406460443097360254
+    },
+    {
+        "Name": "Earwear_S0034_Sub01_LOD2",
+        "PathID": 1698044537415786937
+    },
+    {
+        "Name": "Earwear_S0034_Sub02",
+        "PathID": 8308661829283081943
+    },
+    {
+        "Name": "Earwear_S0034_Sub02_High",
+        "PathID": 5665592535120579526
+    },
+    {
+        "Name": "Earwear_S0034_Sub02_LOD1",
+        "PathID": 7839977094326894999
+    },
+    {
+        "Name": "Earwear_S0034_Sub02_LOD2",
+        "PathID": 5012850044521606509
+    },
+    {
+        "Name": "Earwear_S0048_Sub01",
+        "PathID": 4273679375258685135
+    },
+    {
+        "Name": "Earwear_S0048_Sub01_High",
+        "PathID": -6037733290347658521
+    },
+    {
+        "Name": "Earwear_S0048_Sub01_LOD1",
+        "PathID": 8960596348142167807
+    },
+    {
+        "Name": "Earwear_S0048_Sub01_LOD2",
+        "PathID": -737461772862725511
+    },
+    {
+        "Name": "Earwear_S0048_Sub02",
+        "PathID": 4914166559458215072
+    },
+    {
+        "Name": "Earwear_S0048_Sub02_High",
+        "PathID": 8526965125402979330
+    },
+    {
+        "Name": "Earwear_S0048_Sub02_LOD1",
+        "PathID": -5910820644298926271
+    },
+    {
+        "Name": "Earwear_S0048_Sub02_LOD2",
+        "PathID": 1717481932641064622
+    },
+    {
+        "Name": "Earwear_S0051_Sub01",
+        "PathID": -8011545795455869710
+    },
+    {
+        "Name": "Earwear_S0051_Sub01",
+        "PathID": -6368092347819863735
+    },
+    {
+        "Name": "Earwear_S0051_Sub01_High",
+        "PathID": 8627265606700775541
+    },
+    {
+        "Name": "Earwear_S0051_Sub01_High",
+        "PathID": 346884319536093726
+    },
+    {
+        "Name": "Earwear_S0051_Sub01_LOD1",
+        "PathID": -8824847416506768312
+    },
+    {
+        "Name": "Earwear_S0051_Sub01_LOD1",
+        "PathID": 1126631133741853154
+    },
+    {
+        "Name": "Earwear_S0051_Sub01_LOD2",
+        "PathID": -4320281492800544649
+    },
+    {
+        "Name": "Earwear_S0051_Sub01_LOD2",
+        "PathID": 3330847718512735286
+    },
+    {
+        "Name": "Earwear_S0051_Sub02",
+        "PathID": 702899430478031195
+    },
+    {
+        "Name": "Earwear_S0051_Sub02",
+        "PathID": -1761122324489182626
+    },
+    {
+        "Name": "Earwear_S0051_Sub02_High",
+        "PathID": 2496766381238506004
+    },
+    {
+        "Name": "Earwear_S0051_Sub02_High",
+        "PathID": -7537740231445737649
+    },
+    {
+        "Name": "Earwear_S0051_Sub02_LOD1",
+        "PathID": 1717463482871847206
+    },
+    {
+        "Name": "Earwear_S0051_Sub02_LOD1",
+        "PathID": 4411068824444706018
+    },
+    {
+        "Name": "Earwear_S0051_Sub02_LOD2",
+        "PathID": -1178674449622602464
+    },
+    {
+        "Name": "Earwear_S0051_Sub02_LOD2",
+        "PathID": -309408016909520292
+    },
+    {
+        "Name": "Eff_Cs_Model_Avatar_Nefer_06",
+        "PathID": -1931486351355790818
+    },
+    {
+        "Name": "Eff_Cs_Model_Nefer_Sanjiao11_01",
+        "PathID": 8627662561054725094
+    },
+    {
+        "Name": "Eff_Cs_Model_Nefer_Sanjiao11_01_2",
+        "PathID": -7228192756594145575
+    },
+    {
+        "Name": "Eff_Cs_Model_Nefer_Sanjiao11_01_3",
+        "PathID": 6891864592460154796
+    },
+    {
+        "Name": "Eff_Model_Cs_RerirNefer_LEye",
+        "PathID": 3378863835976267989
+    },
+    {
+        "Name": "Eff_Model_Cs_RerirNefer_REye",
+        "PathID": 8744875967830589483
+    },
+    {
+        "Name": "Eff_Model_Cs_Trail_06",
+        "PathID": -7947860348955202969
+    },
+    {
+        "Name": "Eff_Model_Cs_Trail_07",
+        "PathID": 5549559197504002978
+    },
+    {
+        "Name": "Eff_Model_Cs_Trail_08",
+        "PathID": -9044013938883516284
+    },
+    {
+        "Name": "Eff_Model_Cs_Trail_09",
+        "PathID": 213818543172437822
+    },
+    {
+        "Name": "Eff_Model_Cs_Trail_10",
+        "PathID": 3726811512913737241
+    },
+    {
+        "Name": "Eff_Model_Nefer_SD_01",
+        "PathID": 3024249893091292171
+    },
+    {
+        "Name": "Eff_Model_Nefer_SD_03",
+        "PathID": -3797506316617894798
+    },
+    {
+        "Name": "Eff_Model_Nefer_Sanjiao05_03",
+        "PathID": 1843405064707378652
+    },
+    {
+        "Name": "Eff_Model_Nefer_Sanjiao11_04",
+        "PathID": 562773020555363321
+    },
+    {
+        "Name": "Eff_Model_Nefer_Sanjiao11_05",
+        "PathID": 1169563521486469193
+    },
+    {
+        "Name": "Eff_Model_Nefer_Sanjiao11_06",
+        "PathID": 7824183651064545437
+    },
+    {
+        "Name": "Eff_Model_Sc_Flower_01_Homeworld",
+        "PathID": 1979139015359460587
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 8471369297289682481
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 3802690137528671772
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 6730002585794521798
+    },
+    {
+        "Name": "EyeStar",
+        "PathID": 6788403936114342581
+    },
+    {
+        "Name": "EyeStar",
+        "PathID": -112811825183891282
+    },
+    {
+        "Name": "EyeStar",
+        "PathID": -6012873625277276529
+    },
+    {
+        "Name": "Eyebrow_P0043",
+        "PathID": 902874406792757928
+    },
+    {
+        "Name": "Eyebrow_P0043",
+        "PathID": -1482813589215197466
+    },
+    {
+        "Name": "Eyebrow_P0043_LOD1",
+        "PathID": -4454814129502283699
+    },
+    {
+        "Name": "Eyebrow_P0043_LOD1",
+        "PathID": -1695168362557046891
+    },
+    {
+        "Name": "Eyebrow_P0043_LOD2",
+        "PathID": -4618011196075820596
+    },
+    {
+        "Name": "Eyebrow_P0043_LOD2",
+        "PathID": 6392067607356827905
+    },
+    {
+        "Name": "Eyebrow_P0044",
+        "PathID": -6895940247378821147
+    },
+    {
+        "Name": "Eyebrow_P0044",
+        "PathID": 338846045174534004
+    },
+    {
+        "Name": "Eyebrow_P0044_LOD1",
+        "PathID": -3760460536836417257
+    },
+    {
+        "Name": "Eyebrow_P0044_LOD1",
+        "PathID": 9155969051665121749
+    },
+    {
+        "Name": "Eyebrow_P0044_LOD2",
+        "PathID": -730056874772841671
+    },
+    {
+        "Name": "Eyebrow_P0044_LOD2",
+        "PathID": -7556591681578494041
+    },
+    {
+        "Name": "Eyebrow_P0267",
+        "PathID": -4262717338703988403
+    },
+    {
+        "Name": "Eyebrow_P0267",
+        "PathID": -6607542968756842111
+    },
+    {
+        "Name": "Eyebrow_P0267_LOD1",
+        "PathID": -1105592328899230911
+    },
+    {
+        "Name": "Eyebrow_P0267_LOD1",
+        "PathID": 4522563242777115384
+    },
+    {
+        "Name": "Eyebrow_P0267_LOD2",
+        "PathID": -2351172366423355654
+    },
+    {
+        "Name": "Eyebrow_P0267_LOD2",
+        "PathID": 8496164501908335484
+    },
+    {
+        "Name": "Eyebrow_P0272",
+        "PathID": -5839999630168280825
+    },
+    {
+        "Name": "Eyebrow_P0272",
+        "PathID": 3588754134166740717
+    },
+    {
+        "Name": "Eyebrow_P0272_LOD1",
+        "PathID": 2103651363589257274
+    },
+    {
+        "Name": "Eyebrow_P0272_LOD1",
+        "PathID": -2473189041831401745
+    },
+    {
+        "Name": "Eyebrow_P0272_LOD2",
+        "PathID": -3439136222835569507
+    },
+    {
+        "Name": "Eyebrow_P0272_LOD2",
+        "PathID": 6146871178160749651
+    },
+    {
+        "Name": "Eyewear_S0019",
+        "PathID": 2285592671765877465
+    },
+    {
+        "Name": "Eyewear_S0019",
+        "PathID": -1531258577665577753
+    },
+    {
+        "Name": "Eyewear_S0019_High",
+        "PathID": -4046187218361447907
+    },
+    {
+        "Name": "Eyewear_S0019_High",
+        "PathID": -5318100221438291441
+    },
+    {
+        "Name": "Eyewear_S0019_LOD1",
+        "PathID": -3482686499221013976
+    },
+    {
+        "Name": "Eyewear_S0019_LOD1",
+        "PathID": 1024157279178745412
+    },
+    {
+        "Name": "Eyewear_S0019_LOD2",
+        "PathID": 1051567824094241065
+    },
+    {
+        "Name": "Eyewear_S0019_LOD2",
+        "PathID": -1252843934571219097
+    },
+    {
+        "Name": "Eyewear_S0046",
+        "PathID": 6552003695540877996
+    },
+    {
+        "Name": "Eyewear_S0046",
+        "PathID": 6435041147246714359
+    },
+    {
+        "Name": "Eyewear_S0046_High",
+        "PathID": -7900032727022896538
+    },
+    {
+        "Name": "Eyewear_S0046_High",
+        "PathID": -5758384407451626596
+    },
+    {
+        "Name": "Eyewear_S0046_LOD1",
+        "PathID": 6197962459294021833
+    },
+    {
+        "Name": "Eyewear_S0046_LOD1",
+        "PathID": 4186714536875497428
+    },
+    {
+        "Name": "Eyewear_S0046_LOD2",
+        "PathID": 4588357727905994035
+    },
+    {
+        "Name": "Eyewear_S0046_LOD2",
+        "PathID": -5622102256117928896
+    },
+    {
+        "Name": "Face",
+        "PathID": -8369416525819187076
+    },
+    {
+        "Name": "Face",
+        "PathID": 6985141264649064267
+    },
+    {
+        "Name": "Face",
+        "PathID": -8165814235167810432
+    },
+    {
+        "Name": "Face",
+        "PathID": 2311344390168777305
+    },
+    {
+        "Name": "Face",
+        "PathID": 933867774349765509
+    },
+    {
+        "Name": "Face",
+        "PathID": 1021311050846858119
+    },
+    {
+        "Name": "Face",
+        "PathID": 6548782113594239602
+    },
+    {
+        "Name": "Face",
+        "PathID": 6792246075843788795
+    },
+    {
+        "Name": "Face",
+        "PathID": -2281715748557711487
+    },
+    {
+        "Name": "Face",
+        "PathID": 840634635257095082
+    },
+    {
+        "Name": "Face",
+        "PathID": 2833611924961345778
+    },
+    {
+        "Name": "Face",
+        "PathID": 7739199644622988501
+    },
+    {
+        "Name": "Face",
+        "PathID": -334650843884505187
+    },
+    {
+        "Name": "Face",
+        "PathID": -3597421498337167058
+    },
+    {
+        "Name": "Face",
+        "PathID": 153247930621633897
+    },
+    {
+        "Name": "Face",
+        "PathID": 5589134952121728615
+    },
+    {
+        "Name": "Face",
+        "PathID": -645115938347386846
+    },
+    {
+        "Name": "Face",
+        "PathID": 3477632834640351027
+    },
+    {
+        "Name": "Face",
+        "PathID": -247166286888751516
+    },
+    {
+        "Name": "Face",
+        "PathID": 8995282862770161049
+    },
+    {
+        "Name": "Face",
+        "PathID": -5850136068890208914
+    },
+    {
+        "Name": "Face",
+        "PathID": 4465031547995879213
+    },
+    {
+        "Name": "Face",
+        "PathID": -7459366864659040221
+    },
+    {
+        "Name": "Face",
+        "PathID": 7149819266368987752
+    },
+    {
+        "Name": "Face",
+        "PathID": 2945425878958707993
+    },
+    {
+        "Name": "Face",
+        "PathID": 3455874483424694562
+    },
+    {
+        "Name": "Face",
+        "PathID": -847720825032636326
+    },
+    {
+        "Name": "Face",
+        "PathID": -3000029462406907718
+    },
+    {
+        "Name": "Face",
+        "PathID": -6186427758289909428
+    },
+    {
+        "Name": "Face007",
+        "PathID": 6107460242191931347
+    },
+    {
+        "Name": "Face007_LOD2",
+        "PathID": -1020898543603897820
+    },
+    {
+        "Name": "Face007_Standard_LOD1",
+        "PathID": 3306015887753357265
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 5197929521517273400
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -522037714737714805
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -401606421697301482
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 5010715835859835952
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 3164848827875112175
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 5965546388800105362
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -8500765519120191669
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -787557323504244661
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 6993065004535213802
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 7249562814970782859
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 7413316626972509516
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -262340973366357668
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -6359943245539948773
+    },
+    {
+        "Name": "Face_Eye_LOD1",
+        "PathID": -3691617856183816643
+    },
+    {
+        "Name": "Face_Eye_LOD2",
+        "PathID": 4444193565129395478
+    },
+    {
+        "Name": "Face_Eye_LOD2",
+        "PathID": 5174323827654327008
+    },
+    {
+        "Name": "Face_Eye_LOD3",
+        "PathID": -8685709434954312339
+    },
+    {
+        "Name": "Face_Eye_LOD3",
+        "PathID": -1256941865716212023
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 6658097125549778617
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 1600736455950558112
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": -2779534270346212908
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 8327111462253291074
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 1401028416821281908
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 8772590271347550340
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 6196435843547993266
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 4460827274317757022
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": -1528002725869876464
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": -6097896334119332333
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 666197706777741350
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": -2579156657027954223
+    },
+    {
+        "Name": "Face_LOD1",
+        "PathID": 8627292306820896267
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -3469603313359731827
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": 2188878168505445343
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -1252090914771360579
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -6000206155993883134
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -9111652378743371881
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -4996556852919800741
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -3026949291602392516
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -1961141910158644957
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": 1642098317198307657
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": 8860484641404785634
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -206908416218900566
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": 3183169859669528623
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -7881422416427403689
+    },
+    {
+        "Name": "Face_LOD2",
+        "PathID": -3940408125952702044
+    },
+    {
+        "Name": "Face_LOD3",
+        "PathID": 1670225063296632652
+    },
+    {
+        "Name": "Face_LOD3",
+        "PathID": 6952774319877952153
+    },
+    {
+        "Name": "Hair203_Standard",
+        "PathID": -7824015591532912214
+    },
+    {
+        "Name": "Hair203_Standard_LOD1",
+        "PathID": 3517490130342890053
+    },
+    {
+        "Name": "Hair203_Standard_LOD2",
+        "PathID": -7272164727366194485
+    },
+    {
+        "Name": "Hair_S0014_Hair01",
+        "PathID": 5349808904431300796
+    },
+    {
+        "Name": "Hair_S0014_Hair01",
+        "PathID": 8689680634795328850
+    },
+    {
+        "Name": "Hair_S0014_Hair01_High",
+        "PathID": 6585251765158695940
+    },
+    {
+        "Name": "Hair_S0014_Hair01_High",
+        "PathID": 9127448471986810893
+    },
+    {
+        "Name": "Hair_S0014_Hair01_LOD1",
+        "PathID": -3616587897062088307
+    },
+    {
+        "Name": "Hair_S0014_Hair01_LOD1",
+        "PathID": 5913295194798540302
+    },
+    {
+        "Name": "Hair_S0014_Hair01_LOD2",
+        "PathID": 9072520217426884730
+    },
+    {
+        "Name": "Hair_S0014_Hair01_LOD2",
+        "PathID": 5898581244480514000
+    },
+    {
+        "Name": "Hair_S0014_Hair03",
+        "PathID": 868609611832315959
+    },
+    {
+        "Name": "Hair_S0014_Hair03_High",
+        "PathID": 1321493067344535793
+    },
+    {
+        "Name": "Hair_S0014_Hair03_LOD1",
+        "PathID": 2779968120309567155
+    },
+    {
+        "Name": "Hair_S0014_Hair03_LOD2",
+        "PathID": -1057280454865479148
+    },
+    {
+        "Name": "Hair_S0014_HairBase01",
+        "PathID": 6072814727250921782
+    },
+    {
+        "Name": "Hair_S0014_HairBase01",
+        "PathID": 2112252129419106768
+    },
+    {
+        "Name": "Hair_S0014_HairBase01_High",
+        "PathID": -389957547821460581
+    },
+    {
+        "Name": "Hair_S0014_HairBase01_High",
+        "PathID": -5641823705706794648
+    },
+    {
+        "Name": "Hair_S0014_HairBase01_LOD1",
+        "PathID": -2179030500994736289
+    },
+    {
+        "Name": "Hair_S0014_HairBase01_LOD1",
+        "PathID": -8889077113954233849
+    },
+    {
+        "Name": "Hair_S0014_HairBase01_LOD2",
+        "PathID": 4496535776722994142
+    },
+    {
+        "Name": "Hair_S0014_HairBase01_LOD2",
+        "PathID": -378545052072442561
+    },
+    {
+        "Name": "Hair_S0024_Hair01",
+        "PathID": -5161791522641478477
+    },
+    {
+        "Name": "Hair_S0024_Hair01",
+        "PathID": 7073309445831361616
+    },
+    {
+        "Name": "Hair_S0024_Hair01_High",
+        "PathID": 5758299350341649447
+    },
+    {
+        "Name": "Hair_S0024_Hair01_High",
+        "PathID": 6148458194352555881
+    },
+    {
+        "Name": "Hair_S0024_Hair01_LOD1",
+        "PathID": -2069861541210865196
+    },
+    {
+        "Name": "Hair_S0024_Hair01_LOD1",
+        "PathID": -5805249406778235411
+    },
+    {
+        "Name": "Hair_S0024_Hair01_LOD2",
+        "PathID": -2085695250198558228
+    },
+    {
+        "Name": "Hair_S0024_Hair01_LOD2",
+        "PathID": -3596717896023161672
+    },
+    {
+        "Name": "Hair_S0024_Hair03",
+        "PathID": 8817282738979871174
+    },
+    {
+        "Name": "Hair_S0024_Hair03_High",
+        "PathID": 6816907170213090074
+    },
+    {
+        "Name": "Hair_S0024_Hair03_LOD1",
+        "PathID": -8911037788711297267
+    },
+    {
+        "Name": "Hair_S0024_Hair03_LOD2",
+        "PathID": -2998321443778209348
+    },
+    {
+        "Name": "Hair_S0024_HairBase01",
+        "PathID": -2694678850035923013
+    },
+    {
+        "Name": "Hair_S0024_HairBase01",
+        "PathID": -3692597989372804729
+    },
+    {
+        "Name": "Hair_S0024_HairBase01_High",
+        "PathID": 250336098900267669
+    },
+    {
+        "Name": "Hair_S0024_HairBase01_High",
+        "PathID": -8463406164314991209
+    },
+    {
+        "Name": "Hair_S0024_HairBase01_LOD1",
+        "PathID": 3300076269606967886
+    },
+    {
+        "Name": "Hair_S0024_HairBase01_LOD1",
+        "PathID": -1034016058082610591
+    },
+    {
+        "Name": "Hair_S0024_HairBase01_LOD2",
+        "PathID": -4708228898389098901
+    },
+    {
+        "Name": "Hair_S0024_HairBase01_LOD2",
+        "PathID": -103469803863878373
+    },
+    {
+        "Name": "Hair_S0027_Hair01",
+        "PathID": -6915735835287585960
+    },
+    {
+        "Name": "Hair_S0027_Hair01",
+        "PathID": -2021147195985102133
+    },
+    {
+        "Name": "Hair_S0027_Hair01_High",
+        "PathID": 2512244797157667190
+    },
+    {
+        "Name": "Hair_S0027_Hair01_High",
+        "PathID": -2633983352913431877
+    },
+    {
+        "Name": "Hair_S0027_Hair01_LOD1",
+        "PathID": 1347275895118466650
+    },
+    {
+        "Name": "Hair_S0027_Hair01_LOD1",
+        "PathID": -243421184465239857
+    },
+    {
+        "Name": "Hair_S0027_Hair01_LOD2",
+        "PathID": 4828012675365444857
+    },
+    {
+        "Name": "Hair_S0027_Hair01_LOD2",
+        "PathID": 2652875678704474135
+    },
+    {
+        "Name": "Hair_S0027_Hair02",
+        "PathID": -661924920231301293
+    },
+    {
+        "Name": "Hair_S0027_Hair02",
+        "PathID": 1627547578680685054
+    },
+    {
+        "Name": "Hair_S0027_Hair02_High",
+        "PathID": -4885603691872406546
+    },
+    {
+        "Name": "Hair_S0027_Hair02_High",
+        "PathID": 7476215959923989617
+    },
+    {
+        "Name": "Hair_S0027_Hair02_LOD1",
+        "PathID": 2748909586995865999
+    },
+    {
+        "Name": "Hair_S0027_Hair02_LOD1",
+        "PathID": -2090630638254348499
+    },
+    {
+        "Name": "Hair_S0027_Hair02_LOD2",
+        "PathID": -8766637347259505800
+    },
+    {
+        "Name": "Hair_S0027_Hair02_LOD2",
+        "PathID": 2028450016909317574
+    },
+    {
+        "Name": "Hair_S0027_Hair03",
+        "PathID": 7034897535794678911
+    },
+    {
+        "Name": "Hair_S0027_Hair03_High",
+        "PathID": 6726058419271501196
+    },
+    {
+        "Name": "Hair_S0027_Hair03_LOD1",
+        "PathID": 4604262373808513265
+    },
+    {
+        "Name": "Hair_S0027_Hair03_LOD2",
+        "PathID": 3931440329013306888
+    },
+    {
+        "Name": "Hair_S0027_HairBase01",
+        "PathID": 1528050923053305919
+    },
+    {
+        "Name": "Hair_S0027_HairBase01",
+        "PathID": -6312064198618301857
+    },
+    {
+        "Name": "Hair_S0027_HairBase01_High",
+        "PathID": 8673853960657981783
+    },
+    {
+        "Name": "Hair_S0027_HairBase01_High",
+        "PathID": 3387878809813739655
+    },
+    {
+        "Name": "Hair_S0027_HairBase01_LOD1",
+        "PathID": -6814160375660434843
+    },
+    {
+        "Name": "Hair_S0027_HairBase01_LOD1",
+        "PathID": -41464433743262145
+    },
+    {
+        "Name": "Hair_S0027_HairBase01_LOD2",
+        "PathID": -6415500334739787537
+    },
+    {
+        "Name": "Hair_S0027_HairBase01_LOD2",
+        "PathID": 2090336224363641046
+    },
+    {
+        "Name": "Hair_S0030_Hair01",
+        "PathID": -2269802642150112372
+    },
+    {
+        "Name": "Hair_S0030_Hair01",
+        "PathID": 1657996708473848024
+    },
+    {
+        "Name": "Hair_S0030_Hair01_High",
+        "PathID": 5863216858461123310
+    },
+    {
+        "Name": "Hair_S0030_Hair01_High",
+        "PathID": 605542476745978106
+    },
+    {
+        "Name": "Hair_S0030_Hair01_LOD1",
+        "PathID": 6041224524631293571
+    },
+    {
+        "Name": "Hair_S0030_Hair01_LOD1",
+        "PathID": 7824897383113322620
+    },
+    {
+        "Name": "Hair_S0030_Hair01_LOD2",
+        "PathID": -1959546124693767766
+    },
+    {
+        "Name": "Hair_S0030_Hair01_LOD2",
+        "PathID": 1412139298192320868
+    },
+    {
+        "Name": "Hair_S0030_Hair02",
+        "PathID": -7938981208535691060
+    },
+    {
+        "Name": "Hair_S0030_Hair02",
+        "PathID": 2421623012823887964
+    },
+    {
+        "Name": "Hair_S0030_Hair02_High",
+        "PathID": 887700298094107856
+    },
+    {
+        "Name": "Hair_S0030_Hair02_High",
+        "PathID": 7201793329445025999
+    },
+    {
+        "Name": "Hair_S0030_Hair02_LOD1",
+        "PathID": -2619758669873623467
+    },
+    {
+        "Name": "Hair_S0030_Hair02_LOD1",
+        "PathID": 605408266858511745
+    },
+    {
+        "Name": "Hair_S0030_Hair02_LOD2",
+        "PathID": -3659417168982378502
+    },
+    {
+        "Name": "Hair_S0030_Hair02_LOD2",
+        "PathID": 4898229942228052276
+    },
+    {
+        "Name": "Hair_S0030_HairBase01",
+        "PathID": -5391232912939793216
+    },
+    {
+        "Name": "Hair_S0030_HairBase01",
+        "PathID": 3315478158543514281
+    },
+    {
+        "Name": "Hair_S0030_HairBase01_High",
+        "PathID": 3583725943329953772
+    },
+    {
+        "Name": "Hair_S0030_HairBase01_High",
+        "PathID": -4335863206985179429
+    },
+    {
+        "Name": "Hair_S0030_HairBase01_LOD1",
+        "PathID": 2860623168743920430
+    },
+    {
+        "Name": "Hair_S0030_HairBase01_LOD1",
+        "PathID": 4797857232685344464
+    },
+    {
+        "Name": "Hair_S0030_HairBase01_LOD2",
+        "PathID": -2486187024449796222
+    },
+    {
+        "Name": "Hair_S0030_HairBase01_LOD2",
+        "PathID": 5203649856326280840
+    },
+    {
+        "Name": "Hair_S0033_Hair01",
+        "PathID": 6291769773283650645
+    },
+    {
+        "Name": "Hair_S0033_Hair01",
+        "PathID": 4503282780859836142
+    },
+    {
+        "Name": "Hair_S0033_Hair01_High",
+        "PathID": 1230327089194761886
+    },
+    {
+        "Name": "Hair_S0033_Hair01_High",
+        "PathID": -5624756643416815646
+    },
+    {
+        "Name": "Hair_S0033_Hair01_LOD1",
+        "PathID": 8924379801403620774
+    },
+    {
+        "Name": "Hair_S0033_Hair01_LOD1",
+        "PathID": 1911455305816576547
+    },
+    {
+        "Name": "Hair_S0033_Hair01_LOD2",
+        "PathID": 8882445760764716495
+    },
+    {
+        "Name": "Hair_S0033_Hair01_LOD2",
+        "PathID": -7626512666476913803
+    },
+    {
+        "Name": "Hair_S0033_HairBase01",
+        "PathID": -4613184080123793564
+    },
+    {
+        "Name": "Hair_S0033_HairBase01",
+        "PathID": -1645110727640730713
+    },
+    {
+        "Name": "Hair_S0033_HairBase01_High",
+        "PathID": -4689300784268916297
+    },
+    {
+        "Name": "Hair_S0033_HairBase01_High",
+        "PathID": -2284128535623841470
+    },
+    {
+        "Name": "Hair_S0033_HairBase01_LOD1",
+        "PathID": -6744755288449621015
+    },
+    {
+        "Name": "Hair_S0033_HairBase01_LOD1",
+        "PathID": -6222630171264350284
+    },
+    {
+        "Name": "Hair_S0033_HairBase01_LOD2",
+        "PathID": -5636088615606854153
+    },
+    {
+        "Name": "Hair_S0033_HairBase01_LOD2",
+        "PathID": 7899293242875028755
+    },
+    {
+        "Name": "Hair_S0034_Hair01",
+        "PathID": 3321019747861479356
+    },
+    {
+        "Name": "Hair_S0034_Hair01",
+        "PathID": -7345145626915266221
+    },
+    {
+        "Name": "Hair_S0034_Hair01_High",
+        "PathID": -468473152123039071
+    },
+    {
+        "Name": "Hair_S0034_Hair01_High",
+        "PathID": -7618510788101745247
+    },
+    {
+        "Name": "Hair_S0034_Hair01_LOD1",
+        "PathID": -9132947053275621698
+    },
+    {
+        "Name": "Hair_S0034_Hair01_LOD1",
+        "PathID": -36971027737202017
+    },
+    {
+        "Name": "Hair_S0034_Hair01_LOD2",
+        "PathID": -786418469123535743
+    },
+    {
+        "Name": "Hair_S0034_Hair01_LOD2",
+        "PathID": 3840741425010969097
+    },
+    {
+        "Name": "Hair_S0034_HairBase01",
+        "PathID": -8229932721475128336
+    },
+    {
+        "Name": "Hair_S0034_HairBase01",
+        "PathID": 3393219518318333032
+    },
+    {
+        "Name": "Hair_S0034_HairBase01_High",
+        "PathID": 3767726574083627028
+    },
+    {
+        "Name": "Hair_S0034_HairBase01_High",
+        "PathID": 4855506567681843434
+    },
+    {
+        "Name": "Hair_S0034_HairBase01_LOD1",
+        "PathID": -1465993877464439091
+    },
+    {
+        "Name": "Hair_S0034_HairBase01_LOD1",
+        "PathID": 5025724884418794135
+    },
+    {
+        "Name": "Hair_S0034_HairBase01_LOD2",
+        "PathID": -2366152542765470690
+    },
+    {
+        "Name": "Hair_S0034_HairBase01_LOD2",
+        "PathID": -6300498111696172310
+    },
+    {
+        "Name": "Hair_S0046_Hair01",
+        "PathID": -1684681966512280556
+    },
+    {
+        "Name": "Hair_S0046_Hair01",
+        "PathID": 4293162434589944711
+    },
+    {
+        "Name": "Hair_S0046_Hair01_High",
+        "PathID": 7811880880241425742
+    },
+    {
+        "Name": "Hair_S0046_Hair01_High",
+        "PathID": 3627480032689150316
+    },
+    {
+        "Name": "Hair_S0046_Hair01_LOD1",
+        "PathID": 5418432947467483985
+    },
+    {
+        "Name": "Hair_S0046_Hair01_LOD1",
+        "PathID": -6189420447955897471
+    },
+    {
+        "Name": "Hair_S0046_Hair01_LOD2",
+        "PathID": 4783518842704125605
+    },
+    {
+        "Name": "Hair_S0046_Hair01_LOD2",
+        "PathID": 1501033245516502689
+    },
+    {
+        "Name": "Hair_S0046_HairBase01",
+        "PathID": 7585817473300640596
+    },
+    {
+        "Name": "Hair_S0046_HairBase01",
+        "PathID": -8473202554610071156
+    },
+    {
+        "Name": "Hair_S0046_HairBase01_High",
+        "PathID": 3406517069659542035
+    },
+    {
+        "Name": "Hair_S0046_HairBase01_High",
+        "PathID": 1450815808937774155
+    },
+    {
+        "Name": "Hair_S0046_HairBase01_LOD1",
+        "PathID": -668418562271143939
+    },
+    {
+        "Name": "Hair_S0046_HairBase01_LOD1",
+        "PathID": -6205606420027316992
+    },
+    {
+        "Name": "Hair_S0046_HairBase01_LOD2",
+        "PathID": -7457405464903083746
+    },
+    {
+        "Name": "Hair_S0046_HairBase01_LOD2",
+        "PathID": 8440795036713781589
+    },
+    {
+        "Name": "Hair_S0047_Hair01",
+        "PathID": -8933421635141132036
+    },
+    {
+        "Name": "Hair_S0047_Hair01",
+        "PathID": -5610356782551179757
+    },
+    {
+        "Name": "Hair_S0047_Hair01_High",
+        "PathID": 1806637437476234788
+    },
+    {
+        "Name": "Hair_S0047_Hair01_High",
+        "PathID": -120032696020237094
+    },
+    {
+        "Name": "Hair_S0047_Hair01_LOD1",
+        "PathID": -9142561737893399405
+    },
+    {
+        "Name": "Hair_S0047_Hair01_LOD1",
+        "PathID": 4041906518484189074
+    },
+    {
+        "Name": "Hair_S0047_Hair01_LOD2",
+        "PathID": -4945605651792238958
+    },
+    {
+        "Name": "Hair_S0047_Hair01_LOD2",
+        "PathID": 2226900645725875926
+    },
+    {
+        "Name": "Hair_S0047_Hair02",
+        "PathID": -4256534069940438253
+    },
+    {
+        "Name": "Hair_S0047_Hair02_High",
+        "PathID": -2687257846274688295
+    },
+    {
+        "Name": "Hair_S0047_Hair02_LOD1",
+        "PathID": -2308587229919046456
+    },
+    {
+        "Name": "Hair_S0047_Hair02_LOD2",
+        "PathID": -7984302851106707697
+    },
+    {
+        "Name": "Hair_S0047_Hair03",
+        "PathID": 8599464125188350342
+    },
+    {
+        "Name": "Hair_S0047_Hair03_High",
+        "PathID": 2380555095026748306
+    },
+    {
+        "Name": "Hair_S0047_Hair03_LOD1",
+        "PathID": 4224031665064901592
+    },
+    {
+        "Name": "Hair_S0047_Hair03_LOD2",
+        "PathID": 7101625434619326224
+    },
+    {
+        "Name": "Hair_S0047_HairBase01",
+        "PathID": -8221686077153178390
+    },
+    {
+        "Name": "Hair_S0047_HairBase01",
+        "PathID": 8413254421822447408
+    },
+    {
+        "Name": "Hair_S0047_HairBase01_High",
+        "PathID": 6475593808793036373
+    },
+    {
+        "Name": "Hair_S0047_HairBase01_High",
+        "PathID": -9189154234111932407
+    },
+    {
+        "Name": "Hair_S0047_HairBase01_LOD1",
+        "PathID": 2432144442960949802
+    },
+    {
+        "Name": "Hair_S0047_HairBase01_LOD1",
+        "PathID": 5231671173214563565
+    },
+    {
+        "Name": "Hair_S0047_HairBase01_LOD2",
+        "PathID": 8915663387417040188
+    },
+    {
+        "Name": "Hair_S0047_HairBase01_LOD2",
+        "PathID": -6563886633450453493
+    },
+    {
+        "Name": "Hair_S0051_Hair01",
+        "PathID": 2650767270658094831
+    },
+    {
+        "Name": "Hair_S0051_Hair01",
+        "PathID": 8392006437291990936
+    },
+    {
+        "Name": "Hair_S0051_Hair01_High",
+        "PathID": 4084371898673009425
+    },
+    {
+        "Name": "Hair_S0051_Hair01_High",
+        "PathID": -7880081835404536531
+    },
+    {
+        "Name": "Hair_S0051_Hair01_LOD1",
+        "PathID": 8593647410618791777
+    },
+    {
+        "Name": "Hair_S0051_Hair01_LOD1",
+        "PathID": 6315417839626700071
+    },
+    {
+        "Name": "Hair_S0051_Hair01_LOD2",
+        "PathID": -810357522903590922
+    },
+    {
+        "Name": "Hair_S0051_Hair01_LOD2",
+        "PathID": 2501802861305027875
+    },
+    {
+        "Name": "Hair_S0051_Hair02",
+        "PathID": 8947832850940150515
+    },
+    {
+        "Name": "Hair_S0051_Hair02_High",
+        "PathID": -393006384284518106
+    },
+    {
+        "Name": "Hair_S0051_Hair02_LOD1",
+        "PathID": -5421977470813217167
+    },
+    {
+        "Name": "Hair_S0051_Hair02_LOD2",
+        "PathID": 5785507908291699741
+    },
+    {
+        "Name": "Hair_S0051_Hair03",
+        "PathID": 5133293583164680017
+    },
+    {
+        "Name": "Hair_S0051_Hair03_High",
+        "PathID": -5046421233755440782
+    },
+    {
+        "Name": "Hair_S0051_Hair03_LOD1",
+        "PathID": -8871978383980097626
+    },
+    {
+        "Name": "Hair_S0051_Hair03_LOD2",
+        "PathID": -1657326538748154571
+    },
+    {
+        "Name": "Hair_S0051_HairBase01",
+        "PathID": -7564206455679573766
+    },
+    {
+        "Name": "Hair_S0051_HairBase01",
+        "PathID": 4050299411448234269
+    },
+    {
+        "Name": "Hair_S0051_HairBase01_High",
+        "PathID": 2495893704582230420
+    },
+    {
+        "Name": "Hair_S0051_HairBase01_High",
+        "PathID": 7236064732249362336
+    },
+    {
+        "Name": "Hair_S0051_HairBase01_LOD1",
+        "PathID": 4193974739095434023
+    },
+    {
+        "Name": "Hair_S0051_HairBase01_LOD1",
+        "PathID": -538673987790763417
+    },
+    {
+        "Name": "Hair_S0051_HairBase01_LOD2",
+        "PathID": -6429453311446140527
+    },
+    {
+        "Name": "Hair_S0051_HairBase01_LOD2",
+        "PathID": -2971057768428778178
+    },
+    {
+        "Name": "Hair_S0058_Hair01",
+        "PathID": 3799074678230860979
+    },
+    {
+        "Name": "Hair_S0058_Hair01",
+        "PathID": -4982432133280472774
+    },
+    {
+        "Name": "Hair_S0058_Hair01_High",
+        "PathID": 3364808037401424865
+    },
+    {
+        "Name": "Hair_S0058_Hair01_High",
+        "PathID": -7006723350278126392
+    },
+    {
+        "Name": "Hair_S0058_Hair01_LOD1",
+        "PathID": -8071973468039454614
+    },
+    {
+        "Name": "Hair_S0058_Hair01_LOD1",
+        "PathID": 9198103274944529252
+    },
+    {
+        "Name": "Hair_S0058_Hair01_LOD2",
+        "PathID": -535151538462632224
+    },
+    {
+        "Name": "Hair_S0058_Hair01_LOD2",
+        "PathID": -7362004330476979367
+    },
+    {
+        "Name": "Hair_S0058_HairBase01",
+        "PathID": 9176371906218260843
+    },
+    {
+        "Name": "Hair_S0058_HairBase01",
+        "PathID": -9168775331714264884
+    },
+    {
+        "Name": "Hair_S0058_HairBase01_High",
+        "PathID": -1141560646879771417
+    },
+    {
+        "Name": "Hair_S0058_HairBase01_High",
+        "PathID": 5867319701849534362
+    },
+    {
+        "Name": "Hair_S0058_HairBase01_LOD1",
+        "PathID": 4602704150195437321
+    },
+    {
+        "Name": "Hair_S0058_HairBase01_LOD1",
+        "PathID": 5165436039758626717
+    },
+    {
+        "Name": "Hair_S0058_HairBase01_LOD2",
+        "PathID": -8069043711913771285
+    },
+    {
+        "Name": "Hair_S0058_HairBase01_LOD2",
+        "PathID": 3729148667294821505
+    },
+    {
+        "Name": "Hair_S0059_Hair01",
+        "PathID": 2904629906755924572
+    },
+    {
+        "Name": "Hair_S0059_Hair01",
+        "PathID": 1568938936262356984
+    },
+    {
+        "Name": "Hair_S0059_Hair01_High",
+        "PathID": -4383563560413076927
+    },
+    {
+        "Name": "Hair_S0059_Hair01_High",
+        "PathID": 8673098845181936716
+    },
+    {
+        "Name": "Hair_S0059_Hair01_LOD1",
+        "PathID": 526090370990311044
+    },
+    {
+        "Name": "Hair_S0059_Hair01_LOD1",
+        "PathID": -3424591714589444575
+    },
+    {
+        "Name": "Hair_S0059_Hair01_LOD2",
+        "PathID": -5287352279941401010
+    },
+    {
+        "Name": "Hair_S0059_Hair01_LOD2",
+        "PathID": 5425062787215575362
+    },
+    {
+        "Name": "Hair_S0059_Hair03",
+        "PathID": -8729924335017133222
+    },
+    {
+        "Name": "Hair_S0059_Hair03_High",
+        "PathID": 8557676188133900618
+    },
+    {
+        "Name": "Hair_S0059_Hair03_LOD1",
+        "PathID": 2511521245789609529
+    },
+    {
+        "Name": "Hair_S0059_Hair03_LOD2",
+        "PathID": -6623100950726909321
+    },
+    {
+        "Name": "Hair_S0059_HairBase01",
+        "PathID": 7921493299027049462
+    },
+    {
+        "Name": "Hair_S0059_HairBase01_High",
+        "PathID": 7408599625210243698
+    },
+    {
+        "Name": "Hair_S0059_HairBase01_LOD1",
+        "PathID": 9023719546109851402
+    },
+    {
+        "Name": "Hair_S0059_HairBase01_LOD2",
+        "PathID": 1928266133906714940
+    },
+    {
+        "Name": "Hair_S0062_Hair01",
+        "PathID": 4205281279617944307
+    },
+    {
+        "Name": "Hair_S0062_Hair01",
+        "PathID": 2185170107032932531
+    },
+    {
+        "Name": "Hair_S0062_Hair01_High",
+        "PathID": -3868786604892059445
+    },
+    {
+        "Name": "Hair_S0062_Hair01_High",
+        "PathID": 3153827399586790745
+    },
+    {
+        "Name": "Hair_S0062_Hair01_LOD1",
+        "PathID": 8927059851856517123
+    },
+    {
+        "Name": "Hair_S0062_Hair01_LOD1",
+        "PathID": -3445943335261824376
+    },
+    {
+        "Name": "Hair_S0062_Hair01_LOD2",
+        "PathID": -5987285313890276641
+    },
+    {
+        "Name": "Hair_S0062_Hair01_LOD2",
+        "PathID": -1860505779082149092
+    },
+    {
+        "Name": "Hair_S0062_Hair02",
+        "PathID": 6652533745476226480
+    },
+    {
+        "Name": "Hair_S0062_Hair02",
+        "PathID": -5363148488785029100
+    },
+    {
+        "Name": "Hair_S0062_Hair02_High",
+        "PathID": -186079689205279425
+    },
+    {
+        "Name": "Hair_S0062_Hair02_High",
+        "PathID": -2454364002695910093
+    },
+    {
+        "Name": "Hair_S0062_Hair02_LOD1",
+        "PathID": 5346302683761030491
+    },
+    {
+        "Name": "Hair_S0062_Hair02_LOD1",
+        "PathID": -686243813536061186
+    },
+    {
+        "Name": "Hair_S0062_Hair02_LOD2",
+        "PathID": 3890925073712866220
+    },
+    {
+        "Name": "Hair_S0062_Hair02_LOD2",
+        "PathID": 8509305861366879247
+    },
+    {
+        "Name": "Hair_S0062_Hair03",
+        "PathID": -2773150094431185532
+    },
+    {
+        "Name": "Hair_S0062_Hair03_High",
+        "PathID": -6579647936919230455
+    },
+    {
+        "Name": "Hair_S0062_Hair03_LOD1",
+        "PathID": -8344872541668043879
+    },
+    {
+        "Name": "Hair_S0062_Hair03_LOD2",
+        "PathID": -5477591569629875000
+    },
+    {
+        "Name": "Hair_S0062_HairBase01",
+        "PathID": 7107565728765334350
+    },
+    {
+        "Name": "Hair_S0062_HairBase01",
+        "PathID": -5232416082373121916
+    },
+    {
+        "Name": "Hair_S0062_HairBase01_High",
+        "PathID": 1454904107650372823
+    },
+    {
+        "Name": "Hair_S0062_HairBase01_High",
+        "PathID": -8177660093560451548
+    },
+    {
+        "Name": "Hair_S0062_HairBase01_LOD1",
+        "PathID": 7623981798235264174
+    },
+    {
+        "Name": "Hair_S0062_HairBase01_LOD1",
+        "PathID": 555201941205074759
+    },
+    {
+        "Name": "Hair_S0062_HairBase01_LOD2",
+        "PathID": -4326865755934449539
+    },
+    {
+        "Name": "Hair_S0062_HairBase01_LOD2",
+        "PathID": 4855970087337096945
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_01_Col",
+        "PathID": -8017967147325272776
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_01_Grass_Col",
+        "PathID": -2223172301819458059
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_01_Grass_Vo",
+        "PathID": -521193338300882253
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_01_Lod0",
+        "PathID": 8738913943341742319
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_01_Lod1",
+        "PathID": 3309845536767060506
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_01_Lod2",
+        "PathID": -6757555361716896815
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_01_ShadowMesh",
+        "PathID": 4890073072491862806
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_01a_ShadowMesh",
+        "PathID": -4076598518142775610
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_02_Col",
+        "PathID": -5115714981940714933
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_02_Lod0",
+        "PathID": -957064695703903382
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_02_Lod1",
+        "PathID": 1754896811300392446
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_02_Lod2",
+        "PathID": 1336546516483850163
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_02_ShadowMesh",
+        "PathID": -5687238342424582300
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_03_Col",
+        "PathID": -5874478126278648487
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_03_Lod0",
+        "PathID": 1893106600781176532
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_03_Lod1",
+        "PathID": -3959696284665823825
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_03_Lod2",
+        "PathID": 4642475510371945317
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_03_ShadowMesh",
+        "PathID": 9139084264361142664
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_05_Col",
+        "PathID": -7471433912109410661
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_05_Lod0",
+        "PathID": -1173285043924008191
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_05_Lod1",
+        "PathID": -8850943364811720158
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_05_Lod2",
+        "PathID": -3398763457865875739
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_05_ShadowMesh",
+        "PathID": -2175941275040569006
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_06_Col",
+        "PathID": 2611843377992328450
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_06_Lod0",
+        "PathID": -7285139103219558704
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_06_Lod1",
+        "PathID": -987347106931833699
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_06_Lod2",
+        "PathID": -7952714881468592286
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_06_ShadowMesh",
+        "PathID": -8375916329921964741
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_06a_ShadowMesh",
+        "PathID": -2597658507289111999
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_07_Col",
+        "PathID": 2975434504512804771
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_07_Lod0",
+        "PathID": 5541056488683490957
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_07_Lod1",
+        "PathID": 3184995527796746133
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_07_Lod2",
+        "PathID": -5619399089318049543
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jianzhu_07_ShadowMesh",
+        "PathID": -2234936600007184555
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jitan_01_Col",
+        "PathID": -5861877252814996070
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jitan_01_Lod0",
+        "PathID": 502169748558457974
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jitan_01_Lod1",
+        "PathID": -6394611975278080729
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jitan_01_Lod2",
+        "PathID": 3515043920521675941
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Jitan_01_ShadowMesh",
+        "PathID": -3020150885453982562
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_01_Col",
+        "PathID": 7523121680378894418
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_01_Lod0",
+        "PathID": -3071084403484484042
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_01_Lod1",
+        "PathID": 7934027575579765295
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_01_Lod2",
+        "PathID": 6615574175573354514
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_01_St_Col",
+        "PathID": -7811796544690895153
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_02_Col",
+        "PathID": -347360302284848339
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_02_Lod0",
+        "PathID": -3939117418638946317
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_02_Lod1",
+        "PathID": 5597860615955846356
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_02_Lod2",
+        "PathID": 8045392702436731615
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_02_St_Col",
+        "PathID": -7485250371001078503
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_03_Col",
+        "PathID": -5734717933860084270
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_03_St_Col",
+        "PathID": 1350735143726784684
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_03_Vo",
+        "PathID": 5675386861536212214
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_04_Col",
+        "PathID": 311011198446088593
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_04_Vo",
+        "PathID": -7536040603573172098
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_05_Col",
+        "PathID": -6366230821765641149
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_05_Lod0",
+        "PathID": -4635728871481585554
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_05_Lod1",
+        "PathID": 7976516577455989025
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_05_Lod2",
+        "PathID": -2182574122463106813
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_05_St_Col",
+        "PathID": 3787905033024626121
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_06_Col",
+        "PathID": 7138710598181871858
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_06_Lod0",
+        "PathID": -2441674992711617440
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_06_Lod1",
+        "PathID": -289288124604206786
+    },
+    {
+        "Name": "Hallscene_Wsqh_Build_Weilan_06_Lod2",
+        "PathID": -1522001808329633145
+    },
+    {
+        "Name": "Hallscene_Wsqh_Eff_Moon_04_Vo",
+        "PathID": -6427342977705953463
+    },
+    {
+        "Name": "Hallscene_Wsqh_Eff_Skybox_01_Vo",
+        "PathID": 2818001754664702374
+    },
+    {
+        "Name": "Hallscene_Wsqh_Effect_Fireball_01",
+        "PathID": 567746905371208280
+    },
+    {
+        "Name": "Hallscene_Wsqh_Effect_Fireball_02",
+        "PathID": -6646703088393919828
+    },
+    {
+        "Name": "Hallscene_Wsqh_Effect_Moon_01_Vo",
+        "PathID": -5268798860869440276
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_01_Col",
+        "PathID": -6825217198741228451
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_01_Vo",
+        "PathID": -2825209712900627383
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_02_Col",
+        "PathID": 9103528360632575413
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_02_Vo",
+        "PathID": 6718709608759889008
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_03_Col",
+        "PathID": -2087781783826329727
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_03_Vo",
+        "PathID": -4788389184730517391
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_04_Col",
+        "PathID": 5421740329021447170
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_04_Vo",
+        "PathID": 9111910992765263188
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_05_Col",
+        "PathID": -4083243084290444359
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lazhu_05_Vo",
+        "PathID": 7839973654612119928
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Ludeng_01_Col",
+        "PathID": -2786967444740202360
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Ludeng_01_Vo",
+        "PathID": 4890858261628649986
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Ludeng_02_Col",
+        "PathID": -7843746004958990922
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Ludeng_02_Vo",
+        "PathID": 3787270696346983959
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lupai_01_Col",
+        "PathID": 8574529827046498956
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Lupai_01_Vo",
+        "PathID": 6267998408926863109
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Zhutai_01_Col",
+        "PathID": 2943423804903866765
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Zhutai_01_Vo",
+        "PathID": -2475507797850315615
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Zhutai_02_Col",
+        "PathID": -4704943173471153402
+    },
+    {
+        "Name": "Hallscene_Wsqh_Light_Zhutai_02_Vo",
+        "PathID": 5131539167509787455
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_01_Airwall_Col",
+        "PathID": 5025198307120159489
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_01_Col",
+        "PathID": 1661726481820142366
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_01_Lod0",
+        "PathID": 4075467749297794817
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_01_Lod1",
+        "PathID": -4650272235501063097
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_01_Lod2",
+        "PathID": -1688764463447832593
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_01_ShadowMesh",
+        "PathID": 8987567084287297101
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_02_Col",
+        "PathID": -1616294275180583676
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_02_Vo",
+        "PathID": -4862152805119857219
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_03_Col",
+        "PathID": -909755280794491894
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_03_Vo",
+        "PathID": 1362091109662076575
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_04_Col",
+        "PathID": 6023041213420433228
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_04_Grass_Col",
+        "PathID": 1261303410313931818
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_04_Grass_Vo",
+        "PathID": 8526880202224852790
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_04_Vo",
+        "PathID": 3047343713370957254
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_05_Col",
+        "PathID": 2025979778379909901
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_05_Grass_Col",
+        "PathID": 686124277528962010
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_05_Grass_Vo",
+        "PathID": 6887113615907351298
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_05_Vo",
+        "PathID": 1468296361380145520
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_08_Col",
+        "PathID": 4579527311361625022
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_08_Grass_Col",
+        "PathID": -2032912420159388715
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_08_Grass_Vo",
+        "PathID": 3098195735316226424
+    },
+    {
+        "Name": "Hallscene_Wsqh_Plot_Diji_08_Vo",
+        "PathID": 2779112550972331973
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Baijian_01_Col",
+        "PathID": -7093431919120593403
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Baijian_01_Lod0",
+        "PathID": 4327696339891596519
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Baijian_01_Lod1",
+        "PathID": -7195628992940565918
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Baijian_01_Lod2",
+        "PathID": 9151033245817991618
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Baijian_01_ShadowMesh",
+        "PathID": -1390500780708102912
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Baijian_02_Col",
+        "PathID": -7386580191632430562
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Baijian_02_Vo",
+        "PathID": 2649922134960887903
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Chair_Yizi_01_Col",
+        "PathID": -4439600447896982197
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Chair_Yizi_01_Vo",
+        "PathID": 9141663399765260270
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Gaoshipai_01_Col",
+        "PathID": 7983051474824404690
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Gaoshipai_01_Vo",
+        "PathID": -7589723016293141988
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Nangua_01_Col",
+        "PathID": -2514658331756677855
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Nangua_01_Vo",
+        "PathID": 1945383689591039357
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Nangua_02_Col",
+        "PathID": 1017489354817128433
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Nangua_02_Vo",
+        "PathID": -6823999632589759682
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Nangua_03_Col",
+        "PathID": 1506050233025200315
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Nangua_03_Vo",
+        "PathID": 5819208907282642014
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Nangua_04_Col",
+        "PathID": -7084671726128912275
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Nangua_04_Vo",
+        "PathID": 6246446153763920523
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Shuijingqiu_01_Col",
+        "PathID": 3007860023298740305
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Shuijingqiu_01_Lod0",
+        "PathID": 6990600417792360098
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Shuijingqiu_01_Lod1",
+        "PathID": -3104156424967958956
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Shuijingqiu_01_Lod2",
+        "PathID": 5953556045786427290
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiangzi_01_Col",
+        "PathID": -6416076204050889595
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiangzi_01_Vo",
+        "PathID": 8689283968547455630
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiangzi_02_Col",
+        "PathID": 8907218060038601288
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiangzi_02_Vo",
+        "PathID": -4091391050221622385
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiangzi_03_Col",
+        "PathID": -6514277407260784810
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiangzi_03_Lod0",
+        "PathID": 4195454991211076161
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiangzi_03_Lod1",
+        "PathID": -4716050349944311401
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiaoche_02_Col",
+        "PathID": 5338308074652496707
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiaoche_02_Lod0",
+        "PathID": 2339274377840362837
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiaoche_02_Lod1",
+        "PathID": -4960489296074940468
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Xiaoche_02_Lod2",
+        "PathID": 8868945616506124944
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaojipu_01_Col",
+        "PathID": 7656158961878588166
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaojipu_01_Lod0",
+        "PathID": -7013125901089660954
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaojipu_01_Lod1",
+        "PathID": 621092309925404543
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaojipu_01_Lod2",
+        "PathID": 3905445502952018806
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaojipu_01_ShadowMesh",
+        "PathID": 2196429403968089021
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaoshui_01_Col",
+        "PathID": -2558259318397018448
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaoshui_01_ShadowMesh",
+        "PathID": 5025444870138100701
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaoshui_01_Vo",
+        "PathID": 4398673044490938356
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaoshui_02_Col",
+        "PathID": -4888068235145633077
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaoshui_02_ShadowMesh",
+        "PathID": -1459588440608392509
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Yaoshui_02_Vo",
+        "PathID": -4032749755965113216
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Zhuozi_01_Col",
+        "PathID": -3074072064843767939
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Zhuozi_01_Vo",
+        "PathID": -3520506114426521622
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Zhuozi_02_Col",
+        "PathID": -8785614569668827537
+    },
+    {
+        "Name": "Hallscene_Wsqh_Prop_Zhuozi_02_Vo",
+        "PathID": 8442064282322406721
+    },
+    {
+        "Name": "Hallscene_Wsqh_Stone_Far_Yuanshan_L_01_Lod0",
+        "PathID": -6052881212360915412
+    },
+    {
+        "Name": "Hallscene_Wsqh_Stone_Far_Yuanshan_L_01_Lod1",
+        "PathID": -103437235124556035
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_02_Bark_Col",
+        "PathID": 1656523740342041559
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_02_Bark_Lod0",
+        "PathID": -7791931527082233207
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_02_Bark_Lod1",
+        "PathID": -684948448898029180
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_02_Leaf_Dither",
+        "PathID": -3951695214583693578
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_02_Leaf_Lod0",
+        "PathID": -8629193584725399877
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_02_Leaf_Lod1",
+        "PathID": 157372130428861906
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_03_Bark_Col",
+        "PathID": -3307284548200757210
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_03_Bark_Lod0",
+        "PathID": 3159291270423266042
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_03_Bark_Lod1",
+        "PathID": -2438604835700877890
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_03_Leaf_Lod0",
+        "PathID": -3132853160139318862
+    },
+    {
+        "Name": "Hallscene_Wsqh_Tree_Songshu_03_Leaf_Lod1",
+        "PathID": 1528160721101985612
+    },
+    {
+        "Name": "Hallworld_Ani_Wsqh_Prop_HideWall_01_Vo",
+        "PathID": -6478417157620084183
+    },
+    {
+        "Name": "Hallworld_Wsqh_Light_Candle_01_Vo",
+        "PathID": 4853144550909941424
+    },
+    {
+        "Name": "Hallworld_Wsqh_Light_Candlestick_01_Vo",
+        "PathID": 2254519584934428040
+    },
+    {
+        "Name": "Headwear_P0288",
+        "PathID": -3019939828790326956
+    },
+    {
+        "Name": "Headwear_P0288",
+        "PathID": 7489255100984876652
+    },
+    {
+        "Name": "Headwear_P0288_High",
+        "PathID": 3862323837013331142
+    },
+    {
+        "Name": "Headwear_P0288_High",
+        "PathID": 2792083448725242043
+    },
+    {
+        "Name": "Headwear_P0288_LOD1",
+        "PathID": 465978721816161074
+    },
+    {
+        "Name": "Headwear_P0288_LOD1",
+        "PathID": -786156611048661399
+    },
+    {
+        "Name": "Headwear_P0288_LOD2",
+        "PathID": -1370052882598023011
+    },
+    {
+        "Name": "Headwear_P0288_LOD2",
+        "PathID": 2810168232251410380
+    },
+    {
+        "Name": "Headwear_P0289",
+        "PathID": 2759048869701408232
+    },
+    {
+        "Name": "Headwear_P0289",
+        "PathID": 3138078777443139620
+    },
+    {
+        "Name": "Headwear_P0289_High",
+        "PathID": -8628820837621350847
+    },
+    {
+        "Name": "Headwear_P0289_High",
+        "PathID": -644294315249916640
+    },
+    {
+        "Name": "Headwear_P0289_LOD1",
+        "PathID": -3732728562243696912
+    },
+    {
+        "Name": "Headwear_P0289_LOD1",
+        "PathID": -5378929928064729095
+    },
+    {
+        "Name": "Headwear_P0289_LOD2",
+        "PathID": 3663366075829071538
+    },
+    {
+        "Name": "Headwear_P0289_LOD2",
+        "PathID": -5013778174539273567
+    },
+    {
+        "Name": "Headwear_P0298",
+        "PathID": -4451843358982609032
+    },
+    {
+        "Name": "Headwear_P0298",
+        "PathID": 3803539731872933311
+    },
+    {
+        "Name": "Headwear_P0298_High",
+        "PathID": 2278888641922950449
+    },
+    {
+        "Name": "Headwear_P0298_High",
+        "PathID": 8726828975301917519
+    },
+    {
+        "Name": "Headwear_P0298_LOD1",
+        "PathID": -3523865585346730383
+    },
+    {
+        "Name": "Headwear_P0298_LOD1",
+        "PathID": 736555021497591474
+    },
+    {
+        "Name": "Headwear_P0298_LOD2",
+        "PathID": 5764583787904672609
+    },
+    {
+        "Name": "Headwear_P0298_LOD2",
+        "PathID": -999596081933898365
+    },
+    {
+        "Name": "Headwear_S0014",
+        "PathID": 1426399498281203499
+    },
+    {
+        "Name": "Headwear_S0014",
+        "PathID": -3269552436801574860
+    },
+    {
+        "Name": "Headwear_S0014_High",
+        "PathID": -2822756060716504236
+    },
+    {
+        "Name": "Headwear_S0014_High",
+        "PathID": 2662124269658420904
+    },
+    {
+        "Name": "Headwear_S0014_LOD1",
+        "PathID": 8130733134894997382
+    },
+    {
+        "Name": "Headwear_S0014_LOD1",
+        "PathID": -7056569159684886575
+    },
+    {
+        "Name": "Headwear_S0014_LOD2",
+        "PathID": -6759942413262783467
+    },
+    {
+        "Name": "Headwear_S0014_LOD2",
+        "PathID": -4855265890155835198
+    },
+    {
+        "Name": "Headwear_S0019",
+        "PathID": -7386402177202380141
+    },
+    {
+        "Name": "Headwear_S0019",
+        "PathID": 3171718017050229182
+    },
+    {
+        "Name": "Headwear_S0019_High",
+        "PathID": -1745698999401855612
+    },
+    {
+        "Name": "Headwear_S0019_High",
+        "PathID": -2318983717501905805
+    },
+    {
+        "Name": "Headwear_S0019_LOD1",
+        "PathID": -4080863108095335421
+    },
+    {
+        "Name": "Headwear_S0019_LOD1",
+        "PathID": 2319667671037720519
+    },
+    {
+        "Name": "Headwear_S0019_LOD2",
+        "PathID": -1251090450381699513
+    },
+    {
+        "Name": "Headwear_S0019_LOD2",
+        "PathID": -1158291578148406533
+    },
+    {
+        "Name": "Headwear_S0020",
+        "PathID": -8789048641333089353
+    },
+    {
+        "Name": "Headwear_S0020_High",
+        "PathID": 5750856686518169128
+    },
+    {
+        "Name": "Headwear_S0020_LOD1",
+        "PathID": -6229230936368020615
+    },
+    {
+        "Name": "Headwear_S0020_LOD2",
+        "PathID": -7461701390550912936
+    },
+    {
+        "Name": "Headwear_S0024",
+        "PathID": -9163224353332536981
+    },
+    {
+        "Name": "Headwear_S0024",
+        "PathID": -8770878825503451182
+    },
+    {
+        "Name": "Headwear_S0024_High",
+        "PathID": -6671445952841719091
+    },
+    {
+        "Name": "Headwear_S0024_High",
+        "PathID": 4168882867381146343
+    },
+    {
+        "Name": "Headwear_S0024_LOD1",
+        "PathID": -3236248227228616489
+    },
+    {
+        "Name": "Headwear_S0024_LOD1",
+        "PathID": -7462812780911043994
+    },
+    {
+        "Name": "Headwear_S0024_LOD2",
+        "PathID": 3873948292222067741
+    },
+    {
+        "Name": "Headwear_S0024_LOD2",
+        "PathID": -7035747260591046063
+    },
+    {
+        "Name": "Headwear_S0033",
+        "PathID": -3607887635201737987
+    },
+    {
+        "Name": "Headwear_S0033",
+        "PathID": -1118705896070036906
+    },
+    {
+        "Name": "Headwear_S0033_High",
+        "PathID": 7306245765712741110
+    },
+    {
+        "Name": "Headwear_S0033_High",
+        "PathID": 1493552795251609158
+    },
+    {
+        "Name": "Headwear_S0033_LOD1",
+        "PathID": 2807547587314397040
+    },
+    {
+        "Name": "Headwear_S0033_LOD1",
+        "PathID": 6713137267620842144
+    },
+    {
+        "Name": "Headwear_S0033_LOD2",
+        "PathID": -2291449821749470580
+    },
+    {
+        "Name": "Headwear_S0033_LOD2",
+        "PathID": -1538968699385088210
+    },
+    {
+        "Name": "Headwear_S0034",
+        "PathID": 7447311340552338678
+    },
+    {
+        "Name": "Headwear_S0034",
+        "PathID": 2690529355374004051
+    },
+    {
+        "Name": "Headwear_S0034_High",
+        "PathID": 8520535915185560352
+    },
+    {
+        "Name": "Headwear_S0034_High",
+        "PathID": -5484447969691661280
+    },
+    {
+        "Name": "Headwear_S0034_LOD1",
+        "PathID": -6818546416708965172
+    },
+    {
+        "Name": "Headwear_S0034_LOD1",
+        "PathID": 5501139329031569481
+    },
+    {
+        "Name": "Headwear_S0034_LOD2",
+        "PathID": -6461743878010798720
+    },
+    {
+        "Name": "Headwear_S0034_LOD2",
+        "PathID": -6674523491104358112
+    },
+    {
+        "Name": "Headwear_S0035",
+        "PathID": -6875862935190779650
+    },
+    {
+        "Name": "Headwear_S0035",
+        "PathID": 1862854633610679777
+    },
+    {
+        "Name": "Headwear_S0035_High",
+        "PathID": -3256615310075655931
+    },
+    {
+        "Name": "Headwear_S0035_High",
+        "PathID": -7318213824499461668
+    },
+    {
+        "Name": "Headwear_S0035_LOD1",
+        "PathID": 3354837954672848954
+    },
+    {
+        "Name": "Headwear_S0035_LOD1",
+        "PathID": 6114153732125423853
+    },
+    {
+        "Name": "Headwear_S0035_LOD2",
+        "PathID": -8034010906982158045
+    },
+    {
+        "Name": "Headwear_S0035_LOD2",
+        "PathID": -464908705034992060
+    },
+    {
+        "Name": "Headwear_S0046",
+        "PathID": -1993404493307223070
+    },
+    {
+        "Name": "Headwear_S0046",
+        "PathID": 3870015773465037154
+    },
+    {
+        "Name": "Headwear_S0046_High",
+        "PathID": 325420486525370435
+    },
+    {
+        "Name": "Headwear_S0046_High",
+        "PathID": -8249320700296418684
+    },
+    {
+        "Name": "Headwear_S0046_LOD1",
+        "PathID": 5872328037991062417
+    },
+    {
+        "Name": "Headwear_S0046_LOD1",
+        "PathID": 7747467466733647666
+    },
+    {
+        "Name": "Headwear_S0046_LOD2",
+        "PathID": -344158189741028178
+    },
+    {
+        "Name": "Headwear_S0046_LOD2",
+        "PathID": 7089789158575184292
+    },
+    {
+        "Name": "Headwear_S0047",
+        "PathID": 6334086638440287471
+    },
+    {
+        "Name": "Headwear_S0047",
+        "PathID": 8309190190171084414
+    },
+    {
+        "Name": "Headwear_S0047_High",
+        "PathID": -221310248913451210
+    },
+    {
+        "Name": "Headwear_S0047_High",
+        "PathID": 3376282799905627645
+    },
+    {
+        "Name": "Headwear_S0047_LOD1",
+        "PathID": -7210415464475486952
+    },
+    {
+        "Name": "Headwear_S0047_LOD1",
+        "PathID": 7144653560489793798
+    },
+    {
+        "Name": "Headwear_S0047_LOD2",
+        "PathID": -4373802842418150342
+    },
+    {
+        "Name": "Headwear_S0047_LOD2",
+        "PathID": 6238305621615283682
+    },
+    {
+        "Name": "Headwear_S0051",
+        "PathID": -6442860646256681207
+    },
+    {
+        "Name": "Headwear_S0051_High",
+        "PathID": -3990406005002543714
+    },
+    {
+        "Name": "Headwear_S0051_LOD1",
+        "PathID": -1071694844757238210
+    },
+    {
+        "Name": "Headwear_S0051_LOD2",
+        "PathID": -8076520770491904029
+    },
+    {
+        "Name": "Headwear_S0059",
+        "PathID": 5553360381438016990
+    },
+    {
+        "Name": "Headwear_S0059",
+        "PathID": 5940126188450390321
+    },
+    {
+        "Name": "Headwear_S0059_High",
+        "PathID": 7506012434224180317
+    },
+    {
+        "Name": "Headwear_S0059_High",
+        "PathID": 2005357900201984677
+    },
+    {
+        "Name": "Headwear_S0059_LOD1",
+        "PathID": -8932455596206607874
+    },
+    {
+        "Name": "Headwear_S0059_LOD1",
+        "PathID": -2177269800129370981
+    },
+    {
+        "Name": "Headwear_S0059_LOD2",
+        "PathID": 7715703024280904326
+    },
+    {
+        "Name": "Headwear_S0059_LOD2",
+        "PathID": -607696388811819948
+    },
+    {
+        "Name": "Headwear_S0060",
+        "PathID": 4918664426741789741
+    },
+    {
+        "Name": "Headwear_S0060",
+        "PathID": -1597555336103180374
+    },
+    {
+        "Name": "Headwear_S0060_High",
+        "PathID": -5389429003504603941
+    },
+    {
+        "Name": "Headwear_S0060_High",
+        "PathID": -4190518523190120426
+    },
+    {
+        "Name": "Headwear_S0060_LOD1",
+        "PathID": 8401181663577928274
+    },
+    {
+        "Name": "Headwear_S0060_LOD1",
+        "PathID": -2235582727098530552
+    },
+    {
+        "Name": "Headwear_S0060_LOD2",
+        "PathID": 770682686457992489
+    },
+    {
+        "Name": "Headwear_S0060_LOD2",
+        "PathID": 901469108835603923
+    },
+    {
+        "Name": "Headwear_S0062",
+        "PathID": -570064130080948712
+    },
+    {
+        "Name": "Headwear_S0062",
+        "PathID": 2314042152815886380
+    },
+    {
+        "Name": "Headwear_S0062_High",
+        "PathID": -6872562104677824023
+    },
+    {
+        "Name": "Headwear_S0062_High",
+        "PathID": 5340817037340138535
+    },
+    {
+        "Name": "Headwear_S0062_LOD1",
+        "PathID": 1711042691048467669
+    },
+    {
+        "Name": "Headwear_S0062_LOD1",
+        "PathID": -4791414293908068278
+    },
+    {
+        "Name": "Headwear_S0062_LOD2",
+        "PathID": -8828299894531424723
+    },
+    {
+        "Name": "Headwear_S0062_LOD2",
+        "PathID": -2053078241351796172
+    },
+    {
+        "Name": "LegAcc_S0014",
+        "PathID": 7863612043576340077
+    },
+    {
+        "Name": "LegAcc_S0014_High",
+        "PathID": -3801049349857190697
+    },
+    {
+        "Name": "LegAcc_S0014_LOD1",
+        "PathID": -8270056278812839789
+    },
+    {
+        "Name": "LegAcc_S0014_LOD2",
+        "PathID": -2912497841593033197
+    },
+    {
+        "Name": "LegAcc_S0027",
+        "PathID": -4424477836719215595
+    },
+    {
+        "Name": "LegAcc_S0027_High",
+        "PathID": -5853647086572402287
+    },
+    {
+        "Name": "LegAcc_S0027_LOD1",
+        "PathID": -42511087151335013
+    },
+    {
+        "Name": "LegAcc_S0027_LOD2",
+        "PathID": -1119207682830714398
+    },
+    {
+        "Name": "LegAcc_S0030",
+        "PathID": 4375574653016030239
+    },
+    {
+        "Name": "LegAcc_S0030_High",
+        "PathID": 6015365601229814228
+    },
+    {
+        "Name": "LegAcc_S0030_LOD1",
+        "PathID": 8014893004518599418
+    },
+    {
+        "Name": "LegAcc_S0030_LOD2",
+        "PathID": 7763051361643926037
+    },
+    {
+        "Name": "LegAcc_S0030_Nude",
+        "PathID": 8794903025825016821
+    },
+    {
+        "Name": "LegAcc_S0030_Nude_LOD1",
+        "PathID": -7604569887733764858
+    },
+    {
+        "Name": "LegAcc_S0030_Nude_LOD2",
+        "PathID": 7278357094091315611
+    },
+    {
+        "Name": "LegAcc_S0034",
+        "PathID": -3769624363115557127
+    },
+    {
+        "Name": "LegAcc_S0034_High",
+        "PathID": 2052938969388593552
+    },
+    {
+        "Name": "LegAcc_S0034_LOD1",
+        "PathID": 6720410210969288631
+    },
+    {
+        "Name": "LegAcc_S0034_LOD2",
+        "PathID": 8015518453664804156
+    },
+    {
+        "Name": "LegAcc_S0059",
+        "PathID": -1237420990530168821
+    },
+    {
+        "Name": "LegAcc_S0059_High",
+        "PathID": -7984533727998557905
+    },
+    {
+        "Name": "LegAcc_S0059_LOD1",
+        "PathID": -2706420392311865869
+    },
+    {
+        "Name": "LegAcc_S0059_LOD2",
+        "PathID": -6711079662837938308
+    },
+    {
+        "Name": "LegAcc_S0062",
+        "PathID": 5550782144326303627
+    },
+    {
+        "Name": "LegAcc_S0062",
+        "PathID": -2864134393615182746
+    },
+    {
+        "Name": "LegAcc_S0062_High",
+        "PathID": 6540319178108700041
+    },
+    {
+        "Name": "LegAcc_S0062_High",
+        "PathID": -462933581581815139
+    },
+    {
+        "Name": "LegAcc_S0062_LOD1",
+        "PathID": -4056236543275898479
+    },
+    {
+        "Name": "LegAcc_S0062_LOD1",
+        "PathID": -6781486171183173010
+    },
+    {
+        "Name": "LegAcc_S0062_LOD2",
+        "PathID": -4053798630549571451
+    },
+    {
+        "Name": "LegAcc_S0062_LOD2",
+        "PathID": 8024860860705832576
+    },
+    {
+        "Name": "LegAcc_S0062_Nude",
+        "PathID": 8109460265621410005
+    },
+    {
+        "Name": "LegAcc_S0062_Nude_LOD1",
+        "PathID": 6749577366900640618
+    },
+    {
+        "Name": "LegAcc_S0062_Nude_LOD2",
+        "PathID": -7959929192646922461
+    },
+    {
+        "Name": "Mask_S0027",
+        "PathID": -2410162064376505372
+    },
+    {
+        "Name": "Mask_S0027",
+        "PathID": 6598937470308225031
+    },
+    {
+        "Name": "Mask_S0027_High",
+        "PathID": 3456456419173349404
+    },
+    {
+        "Name": "Mask_S0027_High",
+        "PathID": 6042969986317547566
+    },
+    {
+        "Name": "Mask_S0027_LOD1",
+        "PathID": -1483230368293252128
+    },
+    {
+        "Name": "Mask_S0027_LOD1",
+        "PathID": -4665571691045999985
+    },
+    {
+        "Name": "Mask_S0027_LOD2",
+        "PathID": 8643189878976500009
+    },
+    {
+        "Name": "Mask_S0027_LOD2",
+        "PathID": -165845409767236371
+    },
+    {
+        "Name": "Mask_S0030",
+        "PathID": 8930377397075466221
+    },
+    {
+        "Name": "Mask_S0030_High",
+        "PathID": 526110280764133916
+    },
+    {
+        "Name": "Mask_S0030_LOD1",
+        "PathID": 3934462193709812632
+    },
+    {
+        "Name": "Mask_S0030_LOD2",
+        "PathID": -6792349941149506779
+    },
+    {
+        "Name": "Neckwear_S0014",
+        "PathID": -7482742858318198604
+    },
+    {
+        "Name": "Neckwear_S0014",
+        "PathID": -4087994886044084686
+    },
+    {
+        "Name": "Neckwear_S0014_High",
+        "PathID": -6656503558533851481
+    },
+    {
+        "Name": "Neckwear_S0014_High",
+        "PathID": 6198516965967741689
+    },
+    {
+        "Name": "Neckwear_S0014_LOD1",
+        "PathID": -286351945874202056
+    },
+    {
+        "Name": "Neckwear_S0014_LOD1",
+        "PathID": -6034386987992075265
+    },
+    {
+        "Name": "Neckwear_S0014_LOD2",
+        "PathID": 7989276667019681554
+    },
+    {
+        "Name": "Neckwear_S0014_LOD2",
+        "PathID": 679071436248805244
+    },
+    {
+        "Name": "Neckwear_S0020",
+        "PathID": 2968086614050636490
+    },
+    {
+        "Name": "Neckwear_S0020_High",
+        "PathID": -5152031360884637551
+    },
+    {
+        "Name": "Neckwear_S0020_LOD1",
+        "PathID": -4474920082850010176
+    },
+    {
+        "Name": "Neckwear_S0020_LOD2",
+        "PathID": -6310979097873523437
+    },
+    {
+        "Name": "Neckwear_S0024",
+        "PathID": 2737996529248083107
+    },
+    {
+        "Name": "Neckwear_S0024",
+        "PathID": 3119009675490236477
+    },
+    {
+        "Name": "Neckwear_S0024_High",
+        "PathID": -478879740993234313
+    },
+    {
+        "Name": "Neckwear_S0024_High",
+        "PathID": 4017074167046653240
+    },
+    {
+        "Name": "Neckwear_S0024_LOD1",
+        "PathID": -1005164403095276336
+    },
+    {
+        "Name": "Neckwear_S0024_LOD1",
+        "PathID": 3808308531141165717
+    },
+    {
+        "Name": "Neckwear_S0024_LOD2",
+        "PathID": 6381163538913703524
+    },
+    {
+        "Name": "Neckwear_S0024_LOD2",
+        "PathID": -1676812323976707376
+    },
+    {
+        "Name": "Neckwear_S0030",
+        "PathID": 1618574978901386463
+    },
+    {
+        "Name": "Neckwear_S0030",
+        "PathID": 5679280321628823044
+    },
+    {
+        "Name": "Neckwear_S0030_High",
+        "PathID": -2666457083147258543
+    },
+    {
+        "Name": "Neckwear_S0030_High",
+        "PathID": 1435608234510740918
+    },
+    {
+        "Name": "Neckwear_S0030_LOD1",
+        "PathID": -3536443591299569975
+    },
+    {
+        "Name": "Neckwear_S0030_LOD1",
+        "PathID": 8928559626106856326
+    },
+    {
+        "Name": "Neckwear_S0030_LOD2",
+        "PathID": -3155182699517179374
+    },
+    {
+        "Name": "Neckwear_S0030_LOD2",
+        "PathID": -5291287757720868612
+    },
+    {
+        "Name": "Neckwear_S0048",
+        "PathID": -3298733380001103786
+    },
+    {
+        "Name": "Neckwear_S0048_High",
+        "PathID": -5938753803906153246
+    },
+    {
+        "Name": "Neckwear_S0048_LOD1",
+        "PathID": 6985868518112859540
+    },
+    {
+        "Name": "Neckwear_S0048_LOD2",
+        "PathID": -5500192620675085654
+    },
+    {
+        "Name": "Neckwear_S0062",
+        "PathID": -5598730156737857769
+    },
+    {
+        "Name": "Neckwear_S0062",
+        "PathID": -659410718750017872
+    },
+    {
+        "Name": "Neckwear_S0062_High",
+        "PathID": 8702645366496519378
+    },
+    {
+        "Name": "Neckwear_S0062_High",
+        "PathID": 459503657529750162
+    },
+    {
+        "Name": "Neckwear_S0062_LOD1",
+        "PathID": -1884534765947746578
+    },
+    {
+        "Name": "Neckwear_S0062_LOD1",
+        "PathID": 6261021551682847036
+    },
+    {
+        "Name": "Neckwear_S0062_LOD2",
+        "PathID": 7032884130491183579
+    },
+    {
+        "Name": "Neckwear_S0062_LOD2",
+        "PathID": -4970835438854120170
+    },
+    {
+        "Name": "Pupil",
+        "PathID": -5543012405293844809
+    },
+    {
+        "Name": "Pupil",
+        "PathID": -1107491093765388367
+    },
+    {
+        "Name": "Pupil",
+        "PathID": -4887692788339811044
+    },
+    {
+        "Name": "Pupil_LOD1",
+        "PathID": 573684571255459475
+    },
+    {
+        "Name": "Pupil_LOD1",
+        "PathID": -2878622205347582788
+    },
+    {
+        "Name": "Pupil_LOD2",
+        "PathID": 7887401390411030528
+    },
+    {
+        "Name": "Pupil_LOD2",
+        "PathID": 3171192135144185679
+    },
+    {
+        "Name": "Pupil_LOD3",
+        "PathID": -8799730312642461536
+    },
+    {
+        "Name": "Pupil_LOD3",
+        "PathID": 6752841015315951025
+    },
+    {
+        "Name": "Shoe_S0014",
+        "PathID": -937431345796046195
+    },
+    {
+        "Name": "Shoe_S0014",
+        "PathID": -6238508722907790642
+    },
+    {
+        "Name": "Shoe_S0014_High",
+        "PathID": -7698963402846744904
+    },
+    {
+        "Name": "Shoe_S0014_High",
+        "PathID": -8165656513460608549
+    },
+    {
+        "Name": "Shoe_S0014_LOD1",
+        "PathID": -2400932955784665296
+    },
+    {
+        "Name": "Shoe_S0014_LOD1",
+        "PathID": -2358444961381015385
+    },
+    {
+        "Name": "Shoe_S0014_LOD2",
+        "PathID": 3151493251672803112
+    },
+    {
+        "Name": "Shoe_S0014_LOD2",
+        "PathID": -7782905429463980112
+    },
+    {
+        "Name": "Shoe_S0014_Nude",
+        "PathID": -6666084014572980973
+    },
+    {
+        "Name": "Shoe_S0014_Nude",
+        "PathID": -5061626580091312788
+    },
+    {
+        "Name": "Shoe_S0014_Nude_LOD1",
+        "PathID": -4939450248222421565
+    },
+    {
+        "Name": "Shoe_S0014_Nude_LOD1",
+        "PathID": 6077523440816377675
+    },
+    {
+        "Name": "Shoe_S0014_Nude_LOD2",
+        "PathID": -7148840809436041987
+    },
+    {
+        "Name": "Shoe_S0014_Nude_LOD2",
+        "PathID": 2454771186136504098
+    },
+    {
+        "Name": "Shoe_S0019",
+        "PathID": -5316566337764029809
+    },
+    {
+        "Name": "Shoe_S0019",
+        "PathID": 8542436459443759404
+    },
+    {
+        "Name": "Shoe_S0019_High",
+        "PathID": 4916375286933747803
+    },
+    {
+        "Name": "Shoe_S0019_High",
+        "PathID": 8612909275481454167
+    },
+    {
+        "Name": "Shoe_S0019_LOD1",
+        "PathID": 3247874325126915407
+    },
+    {
+        "Name": "Shoe_S0019_LOD1",
+        "PathID": -5726416889101752998
+    },
+    {
+        "Name": "Shoe_S0019_LOD2",
+        "PathID": 5219730939066659668
+    },
+    {
+        "Name": "Shoe_S0019_LOD2",
+        "PathID": -4238204461848147241
+    },
+    {
+        "Name": "Shoe_S0019_Nude",
+        "PathID": 3755134679295649840
+    },
+    {
+        "Name": "Shoe_S0019_Nude_LOD1",
+        "PathID": -3732906735469260153
+    },
+    {
+        "Name": "Shoe_S0019_Nude_LOD2",
+        "PathID": 5027731904105643940
+    },
+    {
+        "Name": "Shoe_S0020",
+        "PathID": -616434703093442207
+    },
+    {
+        "Name": "Shoe_S0020",
+        "PathID": 329871997525126028
+    },
+    {
+        "Name": "Shoe_S0020_High",
+        "PathID": 6563473657435962341
+    },
+    {
+        "Name": "Shoe_S0020_High",
+        "PathID": 8512896199518793727
+    },
+    {
+        "Name": "Shoe_S0020_LOD1",
+        "PathID": -6026619157760829484
+    },
+    {
+        "Name": "Shoe_S0020_LOD1",
+        "PathID": 2480153878008600238
+    },
+    {
+        "Name": "Shoe_S0020_LOD2",
+        "PathID": -920458744165653356
+    },
+    {
+        "Name": "Shoe_S0020_LOD2",
+        "PathID": -4196941861686818914
+    },
+    {
+        "Name": "Shoe_S0020_Nude",
+        "PathID": -510918073624220001
+    },
+    {
+        "Name": "Shoe_S0020_Nude",
+        "PathID": -5325319841237697918
+    },
+    {
+        "Name": "Shoe_S0020_Nude_LOD1",
+        "PathID": 5241172494270631607
+    },
+    {
+        "Name": "Shoe_S0020_Nude_LOD1",
+        "PathID": -5126907883682879627
+    },
+    {
+        "Name": "Shoe_S0020_Nude_LOD2",
+        "PathID": 5141156637380910751
+    },
+    {
+        "Name": "Shoe_S0020_Nude_LOD2",
+        "PathID": -293947122631967591
+    },
+    {
+        "Name": "Shoe_S0021",
+        "PathID": -6477057661342102607
+    },
+    {
+        "Name": "Shoe_S0021",
+        "PathID": -8944574234374272009
+    },
+    {
+        "Name": "Shoe_S0021_High",
+        "PathID": 7520295624240182796
+    },
+    {
+        "Name": "Shoe_S0021_High",
+        "PathID": -1502709348980611537
+    },
+    {
+        "Name": "Shoe_S0021_LOD1",
+        "PathID": 8274833015314823254
+    },
+    {
+        "Name": "Shoe_S0021_LOD1",
+        "PathID": 7372324815109435783
+    },
+    {
+        "Name": "Shoe_S0021_LOD2",
+        "PathID": 5912069349664792795
+    },
+    {
+        "Name": "Shoe_S0021_LOD2",
+        "PathID": -8192184333982441322
+    },
+    {
+        "Name": "Shoe_S0024",
+        "PathID": -333649793747563916
+    },
+    {
+        "Name": "Shoe_S0024",
+        "PathID": -7684099659527148202
+    },
+    {
+        "Name": "Shoe_S0024_High",
+        "PathID": -8634493628332712858
+    },
+    {
+        "Name": "Shoe_S0024_High",
+        "PathID": -5084383948622048067
+    },
+    {
+        "Name": "Shoe_S0024_LOD1",
+        "PathID": 6213557949495070660
+    },
+    {
+        "Name": "Shoe_S0024_LOD1",
+        "PathID": 5191803528820512770
+    },
+    {
+        "Name": "Shoe_S0024_LOD2",
+        "PathID": 2993957960473592527
+    },
+    {
+        "Name": "Shoe_S0024_LOD2",
+        "PathID": -3158379476622790174
+    },
+    {
+        "Name": "Shoe_S0024_Nude",
+        "PathID": -2725998894871822363
+    },
+    {
+        "Name": "Shoe_S0024_Nude_LOD1",
+        "PathID": 802072568015594662
+    },
+    {
+        "Name": "Shoe_S0024_Nude_LOD2",
+        "PathID": 3880744358215607040
+    },
+    {
+        "Name": "Shoe_S0027",
+        "PathID": 4393625673533487813
+    },
+    {
+        "Name": "Shoe_S0027",
+        "PathID": 457617992511114437
+    },
+    {
+        "Name": "Shoe_S0027_High",
+        "PathID": 8359818563676133712
+    },
+    {
+        "Name": "Shoe_S0027_High",
+        "PathID": -8757971266534480250
+    },
+    {
+        "Name": "Shoe_S0027_LOD1",
+        "PathID": -6998894636930798702
+    },
+    {
+        "Name": "Shoe_S0027_LOD1",
+        "PathID": 689946332946802870
+    },
+    {
+        "Name": "Shoe_S0027_LOD2",
+        "PathID": 8955624514410444841
+    },
+    {
+        "Name": "Shoe_S0027_LOD2",
+        "PathID": -4934862941602243859
+    },
+    {
+        "Name": "Shoe_S0027_Nude",
+        "PathID": 5590421208118387729
+    },
+    {
+        "Name": "Shoe_S0027_Nude_LOD1",
+        "PathID": -5580519975759049849
+    },
+    {
+        "Name": "Shoe_S0027_Nude_LOD2",
+        "PathID": -6248605630308261436
+    },
+    {
+        "Name": "Shoe_S0030",
+        "PathID": 5780900235165633417
+    },
+    {
+        "Name": "Shoe_S0030",
+        "PathID": 5955239680306396323
+    },
+    {
+        "Name": "Shoe_S0030_High",
+        "PathID": -5518525904392690464
+    },
+    {
+        "Name": "Shoe_S0030_High",
+        "PathID": -8028497286088016907
+    },
+    {
+        "Name": "Shoe_S0030_LOD1",
+        "PathID": 4127794511973682384
+    },
+    {
+        "Name": "Shoe_S0030_LOD1",
+        "PathID": -1221196195720436398
+    },
+    {
+        "Name": "Shoe_S0030_LOD2",
+        "PathID": 6104985554139944994
+    },
+    {
+        "Name": "Shoe_S0030_LOD2",
+        "PathID": 7280959897388301497
+    },
+    {
+        "Name": "Shoe_S0030_Nude",
+        "PathID": -8254260834543528169
+    },
+    {
+        "Name": "Shoe_S0030_Nude_LOD1",
+        "PathID": -5582444048553465554
+    },
+    {
+        "Name": "Shoe_S0030_Nude_LOD2",
+        "PathID": 938557932054481460
+    },
+    {
+        "Name": "Shoe_S0033",
+        "PathID": 3460271831183859930
+    },
+    {
+        "Name": "Shoe_S0033",
+        "PathID": 7540297465886005050
+    },
+    {
+        "Name": "Shoe_S0033_High",
+        "PathID": -4778393212304558459
+    },
+    {
+        "Name": "Shoe_S0033_High",
+        "PathID": -8264194207880310662
+    },
+    {
+        "Name": "Shoe_S0033_LOD1",
+        "PathID": 1166207299336221439
+    },
+    {
+        "Name": "Shoe_S0033_LOD1",
+        "PathID": -7845154948410408917
+    },
+    {
+        "Name": "Shoe_S0033_LOD2",
+        "PathID": -8221861960083518000
+    },
+    {
+        "Name": "Shoe_S0033_LOD2",
+        "PathID": -1208592271505291372
+    },
+    {
+        "Name": "Shoe_S0034",
+        "PathID": 5767051321000569
+    },
+    {
+        "Name": "Shoe_S0034",
+        "PathID": 7906266519933083856
+    },
+    {
+        "Name": "Shoe_S0034_High",
+        "PathID": 3089679079762079570
+    },
+    {
+        "Name": "Shoe_S0034_High",
+        "PathID": 771737595198437785
+    },
+    {
+        "Name": "Shoe_S0034_LOD1",
+        "PathID": 846031380011316887
+    },
+    {
+        "Name": "Shoe_S0034_LOD1",
+        "PathID": 7589018816338603497
+    },
+    {
+        "Name": "Shoe_S0034_LOD2",
+        "PathID": 1541917814055158680
+    },
+    {
+        "Name": "Shoe_S0034_LOD2",
+        "PathID": -9062291849533517563
+    },
+    {
+        "Name": "Shoe_S0034_Nude",
+        "PathID": -8771004697972763325
+    },
+    {
+        "Name": "Shoe_S0034_Nude",
+        "PathID": -1154920247414057498
+    },
+    {
+        "Name": "Shoe_S0034_Nude_LOD1",
+        "PathID": -4097401133143730788
+    },
+    {
+        "Name": "Shoe_S0034_Nude_LOD1",
+        "PathID": 3790356289363122741
+    },
+    {
+        "Name": "Shoe_S0034_Nude_LOD2",
+        "PathID": -4032583777237051538
+    },
+    {
+        "Name": "Shoe_S0034_Nude_LOD2",
+        "PathID": 5332157067094694117
+    },
+    {
+        "Name": "Shoe_S0046",
+        "PathID": 5061591271023118798
+    },
+    {
+        "Name": "Shoe_S0046",
+        "PathID": -9008036337960998494
+    },
+    {
+        "Name": "Shoe_S0046_High",
+        "PathID": 2749807541307862674
+    },
+    {
+        "Name": "Shoe_S0046_High",
+        "PathID": -6898252487217144947
+    },
+    {
+        "Name": "Shoe_S0046_LOD1",
+        "PathID": -8489217145897070606
+    },
+    {
+        "Name": "Shoe_S0046_LOD1",
+        "PathID": -6764841700936420083
+    },
+    {
+        "Name": "Shoe_S0046_LOD2",
+        "PathID": 807280215159706749
+    },
+    {
+        "Name": "Shoe_S0046_LOD2",
+        "PathID": 4805357929349118866
+    },
+    {
+        "Name": "Shoe_S0046_Nude",
+        "PathID": 1300413302187804739
+    },
+    {
+        "Name": "Shoe_S0046_Nude_LOD1",
+        "PathID": -7682205916153090509
+    },
+    {
+        "Name": "Shoe_S0046_Nude_LOD2",
+        "PathID": -4558665249909804488
+    },
+    {
+        "Name": "Shoe_S0047",
+        "PathID": -7494491217348649429
+    },
+    {
+        "Name": "Shoe_S0047",
+        "PathID": -7596432452011243063
+    },
+    {
+        "Name": "Shoe_S0047_High",
+        "PathID": -4311886550199840308
+    },
+    {
+        "Name": "Shoe_S0047_High",
+        "PathID": 8926334255792243082
+    },
+    {
+        "Name": "Shoe_S0047_LOD1",
+        "PathID": -9087744809325178276
+    },
+    {
+        "Name": "Shoe_S0047_LOD1",
+        "PathID": -6336941118642107552
+    },
+    {
+        "Name": "Shoe_S0047_LOD2",
+        "PathID": 7468588663190340113
+    },
+    {
+        "Name": "Shoe_S0047_LOD2",
+        "PathID": 5347086780828073200
+    },
+    {
+        "Name": "Shoe_S0047_Nude",
+        "PathID": -2273679076274689298
+    },
+    {
+        "Name": "Shoe_S0047_Nude",
+        "PathID": 5796633490337622757
+    },
+    {
+        "Name": "Shoe_S0047_Nude_LOD1",
+        "PathID": 1468691601596714969
+    },
+    {
+        "Name": "Shoe_S0047_Nude_LOD1",
+        "PathID": -5936354687387181281
+    },
+    {
+        "Name": "Shoe_S0047_Nude_LOD2",
+        "PathID": 4787168630906940480
+    },
+    {
+        "Name": "Shoe_S0047_Nude_LOD2",
+        "PathID": 2509968193347832323
+    },
+    {
+        "Name": "Shoe_S0048",
+        "PathID": -369415562276445801
+    },
+    {
+        "Name": "Shoe_S0048",
+        "PathID": -9155469655655075822
+    },
+    {
+        "Name": "Shoe_S0048_High",
+        "PathID": 2661496130119047704
+    },
+    {
+        "Name": "Shoe_S0048_High",
+        "PathID": -2438659793256695084
+    },
+    {
+        "Name": "Shoe_S0048_LOD1",
+        "PathID": -2607275133079011597
+    },
+    {
+        "Name": "Shoe_S0048_LOD1",
+        "PathID": -1253121052819420893
+    },
+    {
+        "Name": "Shoe_S0048_LOD2",
+        "PathID": -1161642736585548534
+    },
+    {
+        "Name": "Shoe_S0048_LOD2",
+        "PathID": -2655438853437609541
+    },
+    {
+        "Name": "Shoe_S0048_Nude",
+        "PathID": -4435339401599159391
+    },
+    {
+        "Name": "Shoe_S0048_Nude_LOD1",
+        "PathID": 3367138051650767783
+    },
+    {
+        "Name": "Shoe_S0048_Nude_LOD2",
+        "PathID": 1276857698953275453
+    },
+    {
+        "Name": "Shoe_S0049",
+        "PathID": -4536566186751794791
+    },
+    {
+        "Name": "Shoe_S0049",
+        "PathID": -7997550252780160860
+    },
+    {
+        "Name": "Shoe_S0049_High",
+        "PathID": -7034846514808869855
+    },
+    {
+        "Name": "Shoe_S0049_High",
+        "PathID": -2458391944414334391
+    },
+    {
+        "Name": "Shoe_S0049_LOD1",
+        "PathID": -7095486501035645871
+    },
+    {
+        "Name": "Shoe_S0049_LOD1",
+        "PathID": -4697536955333404590
+    },
+    {
+        "Name": "Shoe_S0049_LOD2",
+        "PathID": 8247175681718657213
+    },
+    {
+        "Name": "Shoe_S0049_LOD2",
+        "PathID": 4923505276386265174
+    },
+    {
+        "Name": "Shoe_S0051",
+        "PathID": 5807595134827975590
+    },
+    {
+        "Name": "Shoe_S0051",
+        "PathID": 90975837380359518
+    },
+    {
+        "Name": "Shoe_S0051_High",
+        "PathID": -4585509840939360397
+    },
+    {
+        "Name": "Shoe_S0051_High",
+        "PathID": 4393082433047144502
+    },
+    {
+        "Name": "Shoe_S0051_LOD1",
+        "PathID": 2354460697578762896
+    },
+    {
+        "Name": "Shoe_S0051_LOD1",
+        "PathID": -5617516739860637470
+    },
+    {
+        "Name": "Shoe_S0051_LOD2",
+        "PathID": 5032908409694405730
+    },
+    {
+        "Name": "Shoe_S0051_LOD2",
+        "PathID": 4266033465012870853
+    },
+    {
+        "Name": "Shoe_S0051_Nude",
+        "PathID": -6706211864883466153
+    },
+    {
+        "Name": "Shoe_S0051_Nude_LOD1",
+        "PathID": -1636481571492270298
+    },
+    {
+        "Name": "Shoe_S0051_Nude_LOD2",
+        "PathID": -663300814989990441
+    },
+    {
+        "Name": "Shoe_S0058",
+        "PathID": -2253558044145570750
+    },
+    {
+        "Name": "Shoe_S0058",
+        "PathID": -7576467874794268885
+    },
+    {
+        "Name": "Shoe_S0058_High",
+        "PathID": -8789474042431693425
+    },
+    {
+        "Name": "Shoe_S0058_High",
+        "PathID": -518887021502555561
+    },
+    {
+        "Name": "Shoe_S0058_LOD1",
+        "PathID": 8058346906873975201
+    },
+    {
+        "Name": "Shoe_S0058_LOD1",
+        "PathID": 5718381833387858554
+    },
+    {
+        "Name": "Shoe_S0058_LOD2",
+        "PathID": 2887415757190979949
+    },
+    {
+        "Name": "Shoe_S0058_LOD2",
+        "PathID": 7885918934918330047
+    },
+    {
+        "Name": "Shoe_S0058_Nude",
+        "PathID": -5630934097743363238
+    },
+    {
+        "Name": "Shoe_S0058_Nude",
+        "PathID": -8084896526488382531
+    },
+    {
+        "Name": "Shoe_S0058_Nude_LOD1",
+        "PathID": -2636192221035940669
+    },
+    {
+        "Name": "Shoe_S0058_Nude_LOD1",
+        "PathID": -7600028915450463150
+    },
+    {
+        "Name": "Shoe_S0058_Nude_LOD2",
+        "PathID": 6619330203846285894
+    },
+    {
+        "Name": "Shoe_S0058_Nude_LOD2",
+        "PathID": 6605024556976724094
+    },
+    {
+        "Name": "Shoe_S0059",
+        "PathID": -1331456590756508395
+    },
+    {
+        "Name": "Shoe_S0059",
+        "PathID": -1576736427114442189
+    },
+    {
+        "Name": "Shoe_S0059_High",
+        "PathID": -4123352798901214729
+    },
+    {
+        "Name": "Shoe_S0059_High",
+        "PathID": -3361774510978892512
+    },
+    {
+        "Name": "Shoe_S0059_LOD1",
+        "PathID": -3016089087472307334
+    },
+    {
+        "Name": "Shoe_S0059_LOD1",
+        "PathID": 6802452459672840922
+    },
+    {
+        "Name": "Shoe_S0059_LOD2",
+        "PathID": 5450462254486184723
+    },
+    {
+        "Name": "Shoe_S0059_LOD2",
+        "PathID": -7432612645988565401
+    },
+    {
+        "Name": "Shoe_S0060",
+        "PathID": 507988213763924504
+    },
+    {
+        "Name": "Shoe_S0060",
+        "PathID": -4739374239628237935
+    },
+    {
+        "Name": "Shoe_S0060_High",
+        "PathID": 5880560548775464553
+    },
+    {
+        "Name": "Shoe_S0060_High",
+        "PathID": -5470524007691700838
+    },
+    {
+        "Name": "Shoe_S0060_LOD1",
+        "PathID": 7939978239034746354
+    },
+    {
+        "Name": "Shoe_S0060_LOD1",
+        "PathID": -7046678415946286658
+    },
+    {
+        "Name": "Shoe_S0060_LOD2",
+        "PathID": -1708449091595979802
+    },
+    {
+        "Name": "Shoe_S0060_LOD2",
+        "PathID": 8182524383222619561
+    },
+    {
+        "Name": "Shoe_S0060_Nude",
+        "PathID": 247362059423731477
+    },
+    {
+        "Name": "Shoe_S0060_Nude",
+        "PathID": -935497865457694689
+    },
+    {
+        "Name": "Shoe_S0060_Nude_LOD1",
+        "PathID": 631693252764080949
+    },
+    {
+        "Name": "Shoe_S0060_Nude_LOD1",
+        "PathID": -1724939516346194313
+    },
+    {
+        "Name": "Shoe_S0060_Nude_LOD2",
+        "PathID": 2346765218286020580
+    },
+    {
+        "Name": "Shoe_S0060_Nude_LOD2",
+        "PathID": -4833623367317031200
+    },
+    {
+        "Name": "Shoe_S0062",
+        "PathID": -1217162165212615374
+    },
+    {
+        "Name": "Shoe_S0062",
+        "PathID": -4921551234181134159
+    },
+    {
+        "Name": "Shoe_S0062_High",
+        "PathID": 8937149638917584518
+    },
+    {
+        "Name": "Shoe_S0062_High",
+        "PathID": -9215215917648686949
+    },
+    {
+        "Name": "Shoe_S0062_LOD1",
+        "PathID": -2825814695401291349
+    },
+    {
+        "Name": "Shoe_S0062_LOD1",
+        "PathID": -8775652110314107791
+    },
+    {
+        "Name": "Shoe_S0062_LOD2",
+        "PathID": 9201032202594167702
+    },
+    {
+        "Name": "Shoe_S0062_LOD2",
+        "PathID": 8659922370951313514
+    },
+    {
+        "Name": "Shoe_S0062_Nude",
+        "PathID": -4709913470768374252
+    },
+    {
+        "Name": "Shoe_S0062_Nude",
+        "PathID": 6096639977746660538
+    },
+    {
+        "Name": "Shoe_S0062_Nude_LOD1",
+        "PathID": 369835924437851587
+    },
+    {
+        "Name": "Shoe_S0062_Nude_LOD1",
+        "PathID": -8286410475830035264
+    },
+    {
+        "Name": "Shoe_S0062_Nude_LOD2",
+        "PathID": -1901918528785865701
+    },
+    {
+        "Name": "Shoe_S0062_Nude_LOD2",
+        "PathID": 6266858229968401352
+    },
+    {
+        "Name": "SkillObj_Durin_Wing_01",
+        "PathID": -4072637432194946728
+    },
+    {
+        "Name": "SkillObj_Durin_Wing_02",
+        "PathID": -1315810602210102697
+    },
+    {
+        "Name": "SkillObj_Durin_Wing_03",
+        "PathID": -1449566120306196350
+    },
+    {
+        "Name": "Top_S0014",
+        "PathID": 3463391785733137111
+    },
+    {
+        "Name": "Top_S0014",
+        "PathID": -4317003422698314588
+    },
+    {
+        "Name": "Top_S0014_High",
+        "PathID": -3636591528374367881
+    },
+    {
+        "Name": "Top_S0014_High",
+        "PathID": -5381498682486366751
+    },
+    {
+        "Name": "Top_S0014_LOD1",
+        "PathID": -723884603964723596
+    },
+    {
+        "Name": "Top_S0014_LOD1",
+        "PathID": 5601979956874373767
+    },
+    {
+        "Name": "Top_S0014_LOD2",
+        "PathID": -1929494903176323775
+    },
+    {
+        "Name": "Top_S0014_LOD2",
+        "PathID": 2675164671402566406
+    },
+    {
+        "Name": "Top_S0014_Nude",
+        "PathID": -7929349215804143780
+    },
+    {
+        "Name": "Top_S0014_Nude",
+        "PathID": -6433015095449580850
+    },
+    {
+        "Name": "Top_S0014_Nude_LOD1",
+        "PathID": -2255881240306432414
+    },
+    {
+        "Name": "Top_S0014_Nude_LOD1",
+        "PathID": 1893793031318841316
+    },
+    {
+        "Name": "Top_S0014_Nude_LOD2",
+        "PathID": -5895503260674043589
+    },
+    {
+        "Name": "Top_S0014_Nude_LOD2",
+        "PathID": 2773979149938196007
+    },
+    {
+        "Name": "Top_S0019",
+        "PathID": -5247252829926961718
+    },
+    {
+        "Name": "Top_S0019",
+        "PathID": 4026576253946119357
+    },
+    {
+        "Name": "Top_S0019_High",
+        "PathID": 1972950073602266998
+    },
+    {
+        "Name": "Top_S0019_High",
+        "PathID": 8046540776883018181
+    },
+    {
+        "Name": "Top_S0019_LOD1",
+        "PathID": 8006008156236410923
+    },
+    {
+        "Name": "Top_S0019_LOD1",
+        "PathID": -4385060474687568507
+    },
+    {
+        "Name": "Top_S0019_LOD2",
+        "PathID": 3529106435793759010
+    },
+    {
+        "Name": "Top_S0019_LOD2",
+        "PathID": 6794803078286916618
+    },
+    {
+        "Name": "Top_S0019_Nude",
+        "PathID": 2012422174856791574
+    },
+    {
+        "Name": "Top_S0019_Nude",
+        "PathID": -8167203114156528005
+    },
+    {
+        "Name": "Top_S0019_Nude_LOD1",
+        "PathID": 6408100919387224444
+    },
+    {
+        "Name": "Top_S0019_Nude_LOD1",
+        "PathID": -893103266573253802
+    },
+    {
+        "Name": "Top_S0019_Nude_LOD2",
+        "PathID": 7495289817666603859
+    },
+    {
+        "Name": "Top_S0019_Nude_LOD2",
+        "PathID": 1438680086014044391
+    },
+    {
+        "Name": "Top_S0020",
+        "PathID": -4377761366471329608
+    },
+    {
+        "Name": "Top_S0020",
+        "PathID": -8042788400346810917
+    },
+    {
+        "Name": "Top_S0020_High",
+        "PathID": -7548253097253444335
+    },
+    {
+        "Name": "Top_S0020_High",
+        "PathID": 1003308537707699443
+    },
+    {
+        "Name": "Top_S0020_LOD1",
+        "PathID": 4894993746077232197
+    },
+    {
+        "Name": "Top_S0020_LOD1",
+        "PathID": -5295463621833284069
+    },
+    {
+        "Name": "Top_S0020_LOD2",
+        "PathID": -6916473778462644308
+    },
+    {
+        "Name": "Top_S0020_LOD2",
+        "PathID": -4531768896887906190
+    },
+    {
+        "Name": "Top_S0020_Nude",
+        "PathID": 6594419228468077427
+    },
+    {
+        "Name": "Top_S0020_Nude",
+        "PathID": 7274860946669497059
+    },
+    {
+        "Name": "Top_S0020_Nude_LOD1",
+        "PathID": 6517123635705691792
+    },
+    {
+        "Name": "Top_S0020_Nude_LOD1",
+        "PathID": 3217012050787715552
+    },
+    {
+        "Name": "Top_S0020_Nude_LOD2",
+        "PathID": 1366122454848346967
+    },
+    {
+        "Name": "Top_S0020_Nude_LOD2",
+        "PathID": -861975405606434226
+    },
+    {
+        "Name": "Top_S0021",
+        "PathID": 6149419217100769507
+    },
+    {
+        "Name": "Top_S0021",
+        "PathID": -8328832055959097438
+    },
+    {
+        "Name": "Top_S0021_High",
+        "PathID": 2482184293761204051
+    },
+    {
+        "Name": "Top_S0021_High",
+        "PathID": 957077743805294086
+    },
+    {
+        "Name": "Top_S0021_LOD1",
+        "PathID": -4817973819804933474
+    },
+    {
+        "Name": "Top_S0021_LOD1",
+        "PathID": 1114696391192180881
+    },
+    {
+        "Name": "Top_S0021_LOD2",
+        "PathID": -5018391754633497126
+    },
+    {
+        "Name": "Top_S0021_LOD2",
+        "PathID": 1646012259580716954
+    },
+    {
+        "Name": "Top_S0021_Nude",
+        "PathID": 1774793423337793100
+    },
+    {
+        "Name": "Top_S0021_Nude",
+        "PathID": -8634246834918988421
+    },
+    {
+        "Name": "Top_S0021_Nude_LOD1",
+        "PathID": 3640751892771800912
+    },
+    {
+        "Name": "Top_S0021_Nude_LOD1",
+        "PathID": -7998099400270794768
+    },
+    {
+        "Name": "Top_S0021_Nude_LOD2",
+        "PathID": 5578085478334384330
+    },
+    {
+        "Name": "Top_S0021_Nude_LOD2",
+        "PathID": 1698335248012603475
+    },
+    {
+        "Name": "Top_S0024",
+        "PathID": -5793589122811104168
+    },
+    {
+        "Name": "Top_S0024",
+        "PathID": 2868658589540026327
+    },
+    {
+        "Name": "Top_S0024_High",
+        "PathID": -8952409050800945398
+    },
+    {
+        "Name": "Top_S0024_High",
+        "PathID": -5802567087122231909
+    },
+    {
+        "Name": "Top_S0024_LOD1",
+        "PathID": 5811779430540785338
+    },
+    {
+        "Name": "Top_S0024_LOD1",
+        "PathID": 2500760129918871471
+    },
+    {
+        "Name": "Top_S0024_LOD2",
+        "PathID": -3439356261711260039
+    },
+    {
+        "Name": "Top_S0024_LOD2",
+        "PathID": 7283337951778132124
+    },
+    {
+        "Name": "Top_S0024_Nude",
+        "PathID": -4587621228641343041
+    },
+    {
+        "Name": "Top_S0024_Nude",
+        "PathID": -790434590611269536
+    },
+    {
+        "Name": "Top_S0024_Nude_LOD1",
+        "PathID": -4047974862769365979
+    },
+    {
+        "Name": "Top_S0024_Nude_LOD1",
+        "PathID": -4612956335043774989
+    },
+    {
+        "Name": "Top_S0024_Nude_LOD2",
+        "PathID": -3083053127568144162
+    },
+    {
+        "Name": "Top_S0024_Nude_LOD2",
+        "PathID": 8429619695222638773
+    },
+    {
+        "Name": "Top_S0027",
+        "PathID": -6998726583529014389
+    },
+    {
+        "Name": "Top_S0027",
+        "PathID": 3263235209927793529
+    },
+    {
+        "Name": "Top_S0027_High",
+        "PathID": 1733209976562589248
+    },
+    {
+        "Name": "Top_S0027_High",
+        "PathID": 8507320803221264014
+    },
+    {
+        "Name": "Top_S0027_LOD1",
+        "PathID": 4219937676841119538
+    },
+    {
+        "Name": "Top_S0027_LOD1",
+        "PathID": -2280788709133769984
+    },
+    {
+        "Name": "Top_S0027_LOD2",
+        "PathID": -2093750134519748714
+    },
+    {
+        "Name": "Top_S0027_LOD2",
+        "PathID": -3415051452224405174
+    },
+    {
+        "Name": "Top_S0027_Nude",
+        "PathID": 3395586051862977206
+    },
+    {
+        "Name": "Top_S0027_Nude",
+        "PathID": -8789798380816643445
+    },
+    {
+        "Name": "Top_S0027_Nude_LOD1",
+        "PathID": -8275611294465592236
+    },
+    {
+        "Name": "Top_S0027_Nude_LOD1",
+        "PathID": -8618315108321521648
+    },
+    {
+        "Name": "Top_S0027_Nude_LOD2",
+        "PathID": 7269890350786853231
+    },
+    {
+        "Name": "Top_S0027_Nude_LOD2",
+        "PathID": -4337006572608967491
+    },
+    {
+        "Name": "Top_S0030",
+        "PathID": -4993167814608879150
+    },
+    {
+        "Name": "Top_S0030",
+        "PathID": -2945686659119780143
+    },
+    {
+        "Name": "Top_S0030_High",
+        "PathID": -8542149867788836360
+    },
+    {
+        "Name": "Top_S0030_High",
+        "PathID": 7792361096342133865
+    },
+    {
+        "Name": "Top_S0030_LOD1",
+        "PathID": 277248999117223746
+    },
+    {
+        "Name": "Top_S0030_LOD1",
+        "PathID": -8218656876459730427
+    },
+    {
+        "Name": "Top_S0030_LOD2",
+        "PathID": -5776016139777534200
+    },
+    {
+        "Name": "Top_S0030_LOD2",
+        "PathID": 8576409740500731050
+    },
+    {
+        "Name": "Top_S0030_Nude",
+        "PathID": 3566275385158774119
+    },
+    {
+        "Name": "Top_S0030_Nude",
+        "PathID": 3416412336855706969
+    },
+    {
+        "Name": "Top_S0030_Nude_LOD1",
+        "PathID": -4219898651148369452
+    },
+    {
+        "Name": "Top_S0030_Nude_LOD1",
+        "PathID": -251374198233374330
+    },
+    {
+        "Name": "Top_S0030_Nude_LOD2",
+        "PathID": 5384097115529696361
+    },
+    {
+        "Name": "Top_S0030_Nude_LOD2",
+        "PathID": 5352541620548708504
+    },
+    {
+        "Name": "Top_S0033",
+        "PathID": -5089648750104783902
+    },
+    {
+        "Name": "Top_S0033",
+        "PathID": 6148856924727995637
+    },
+    {
+        "Name": "Top_S0033_High",
+        "PathID": 3245548830935444132
+    },
+    {
+        "Name": "Top_S0033_High",
+        "PathID": 7552863975272425171
+    },
+    {
+        "Name": "Top_S0033_LOD1",
+        "PathID": -1513736610955946524
+    },
+    {
+        "Name": "Top_S0033_LOD1",
+        "PathID": 6021160289896025430
+    },
+    {
+        "Name": "Top_S0033_LOD2",
+        "PathID": 226821250551095345
+    },
+    {
+        "Name": "Top_S0033_LOD2",
+        "PathID": 7010594994847766563
+    },
+    {
+        "Name": "Top_S0033_Nude",
+        "PathID": -4399258299850398461
+    },
+    {
+        "Name": "Top_S0033_Nude",
+        "PathID": -7035356653845616980
+    },
+    {
+        "Name": "Top_S0033_Nude_LOD1",
+        "PathID": 2576048718128745244
+    },
+    {
+        "Name": "Top_S0033_Nude_LOD1",
+        "PathID": -8557176281659140698
+    },
+    {
+        "Name": "Top_S0033_Nude_LOD2",
+        "PathID": -4060200473753603549
+    },
+    {
+        "Name": "Top_S0033_Nude_LOD2",
+        "PathID": -5043768610880084807
+    },
+    {
+        "Name": "Top_S0034",
+        "PathID": -3631065433141193997
+    },
+    {
+        "Name": "Top_S0034",
+        "PathID": -6305315445948198055
+    },
+    {
+        "Name": "Top_S0034_High",
+        "PathID": 8798380776980492394
+    },
+    {
+        "Name": "Top_S0034_High",
+        "PathID": -6800761361889442277
+    },
+    {
+        "Name": "Top_S0034_LOD1",
+        "PathID": -7573284625793444589
+    },
+    {
+        "Name": "Top_S0034_LOD1",
+        "PathID": 8624432674884209138
+    },
+    {
+        "Name": "Top_S0034_LOD2",
+        "PathID": 6714790487181947901
+    },
+    {
+        "Name": "Top_S0034_LOD2",
+        "PathID": -5857758791494898046
+    },
+    {
+        "Name": "Top_S0034_Nude",
+        "PathID": -8865193485314240278
+    },
+    {
+        "Name": "Top_S0034_Nude",
+        "PathID": -5285583520731069857
+    },
+    {
+        "Name": "Top_S0034_Nude_LOD1",
+        "PathID": -6700636827959547280
+    },
+    {
+        "Name": "Top_S0034_Nude_LOD1",
+        "PathID": 8763094842195309733
+    },
+    {
+        "Name": "Top_S0034_Nude_LOD2",
+        "PathID": -3817388611284006193
+    },
+    {
+        "Name": "Top_S0034_Nude_LOD2",
+        "PathID": 1084505826064254020
+    },
+    {
+        "Name": "Top_S0035",
+        "PathID": 3248204524880211285
+    },
+    {
+        "Name": "Top_S0035",
+        "PathID": -5100279383122260882
+    },
+    {
+        "Name": "Top_S0035_High",
+        "PathID": -5043450174138454090
+    },
+    {
+        "Name": "Top_S0035_High",
+        "PathID": 6546574286745017738
+    },
+    {
+        "Name": "Top_S0035_LOD1",
+        "PathID": -7643250168677360770
+    },
+    {
+        "Name": "Top_S0035_LOD1",
+        "PathID": 1414921716046002441
+    },
+    {
+        "Name": "Top_S0035_LOD2",
+        "PathID": 4239163453649555411
+    },
+    {
+        "Name": "Top_S0035_LOD2",
+        "PathID": -3876438249678283216
+    },
+    {
+        "Name": "Top_S0046",
+        "PathID": -4648965126257922918
+    },
+    {
+        "Name": "Top_S0046",
+        "PathID": 2446288993525797484
+    },
+    {
+        "Name": "Top_S0046_High",
+        "PathID": -6955094632455716236
+    },
+    {
+        "Name": "Top_S0046_High",
+        "PathID": 7706987577888396704
+    },
+    {
+        "Name": "Top_S0046_LOD1",
+        "PathID": -5154144591740320263
+    },
+    {
+        "Name": "Top_S0046_LOD1",
+        "PathID": 6113912909117409672
+    },
+    {
+        "Name": "Top_S0046_LOD2",
+        "PathID": -2208138645610976574
+    },
+    {
+        "Name": "Top_S0046_LOD2",
+        "PathID": -4501048078588371133
+    },
+    {
+        "Name": "Top_S0046_Nude",
+        "PathID": -2102491256609688010
+    },
+    {
+        "Name": "Top_S0046_Nude",
+        "PathID": 6625390049435868684
+    },
+    {
+        "Name": "Top_S0046_Nude_LOD1",
+        "PathID": 6361993536782311362
+    },
+    {
+        "Name": "Top_S0046_Nude_LOD1",
+        "PathID": 3543460293367293732
+    },
+    {
+        "Name": "Top_S0046_Nude_LOD2",
+        "PathID": 2051653943973003371
+    },
+    {
+        "Name": "Top_S0046_Nude_LOD2",
+        "PathID": -8691261274621313829
+    },
+    {
+        "Name": "Top_S0047",
+        "PathID": -439629654485739411
+    },
+    {
+        "Name": "Top_S0047",
+        "PathID": 861118877374524907
+    },
+    {
+        "Name": "Top_S0047_High",
+        "PathID": -4533639257340655355
+    },
+    {
+        "Name": "Top_S0047_High",
+        "PathID": 5337323127802264994
+    },
+    {
+        "Name": "Top_S0047_LOD1",
+        "PathID": -4822012523686692859
+    },
+    {
+        "Name": "Top_S0047_LOD1",
+        "PathID": -4902939600285961791
+    },
+    {
+        "Name": "Top_S0047_LOD2",
+        "PathID": -7616676567791422760
+    },
+    {
+        "Name": "Top_S0047_LOD2",
+        "PathID": 4602799138911277963
+    },
+    {
+        "Name": "Top_S0047_Nude",
+        "PathID": -1684015575291138782
+    },
+    {
+        "Name": "Top_S0047_Nude",
+        "PathID": -8470533724676422664
+    },
+    {
+        "Name": "Top_S0047_Nude_LOD1",
+        "PathID": -8150745083489016146
+    },
+    {
+        "Name": "Top_S0047_Nude_LOD1",
+        "PathID": 6487208532087483074
+    },
+    {
+        "Name": "Top_S0047_Nude_LOD2",
+        "PathID": 3522893935223640556
+    },
+    {
+        "Name": "Top_S0047_Nude_LOD2",
+        "PathID": 7560427801241777386
+    },
+    {
+        "Name": "Top_S0048",
+        "PathID": -5067864617349014547
+    },
+    {
+        "Name": "Top_S0048",
+        "PathID": -4719775633267136915
+    },
+    {
+        "Name": "Top_S0048_High",
+        "PathID": 8811238053454449057
+    },
+    {
+        "Name": "Top_S0048_High",
+        "PathID": -5294716049291289160
+    },
+    {
+        "Name": "Top_S0048_LOD1",
+        "PathID": 8162645417789723807
+    },
+    {
+        "Name": "Top_S0048_LOD1",
+        "PathID": -8556877876692808306
+    },
+    {
+        "Name": "Top_S0048_LOD2",
+        "PathID": 6899193914454456386
+    },
+    {
+        "Name": "Top_S0048_LOD2",
+        "PathID": 5033871740709967898
+    },
+    {
+        "Name": "Top_S0048_Nude",
+        "PathID": -5644466048067800871
+    },
+    {
+        "Name": "Top_S0048_Nude",
+        "PathID": 249976252463883278
+    },
+    {
+        "Name": "Top_S0048_Nude_LOD1",
+        "PathID": -7580063825797601505
+    },
+    {
+        "Name": "Top_S0048_Nude_LOD1",
+        "PathID": 2643469697182649065
+    },
+    {
+        "Name": "Top_S0048_Nude_LOD2",
+        "PathID": -9118485150753116517
+    },
+    {
+        "Name": "Top_S0048_Nude_LOD2",
+        "PathID": -7330032192211288172
+    },
+    {
+        "Name": "Top_S0049",
+        "PathID": -8538887990078499767
+    },
+    {
+        "Name": "Top_S0049",
+        "PathID": 6960480541704094971
+    },
+    {
+        "Name": "Top_S0049_High",
+        "PathID": 7075860472257341733
+    },
+    {
+        "Name": "Top_S0049_High",
+        "PathID": -3512048458010042689
+    },
+    {
+        "Name": "Top_S0049_LOD1",
+        "PathID": 8105938104809540437
+    },
+    {
+        "Name": "Top_S0049_LOD1",
+        "PathID": 5320870593481159716
+    },
+    {
+        "Name": "Top_S0049_LOD2",
+        "PathID": 8088608827728976954
+    },
+    {
+        "Name": "Top_S0049_LOD2",
+        "PathID": 9119588559559206604
+    },
+    {
+        "Name": "Top_S0049_Nude",
+        "PathID": 1419486311453524624
+    },
+    {
+        "Name": "Top_S0049_Nude",
+        "PathID": 5179235866286224896
+    },
+    {
+        "Name": "Top_S0049_Nude_LOD1",
+        "PathID": -5391625583624356005
+    },
+    {
+        "Name": "Top_S0049_Nude_LOD1",
+        "PathID": 6906497681518404023
+    },
+    {
+        "Name": "Top_S0049_Nude_LOD2",
+        "PathID": 7622891020146721662
+    },
+    {
+        "Name": "Top_S0049_Nude_LOD2",
+        "PathID": -6805769317136910805
+    },
+    {
+        "Name": "Top_S0051",
+        "PathID": -5839877650680642864
+    },
+    {
+        "Name": "Top_S0051",
+        "PathID": -1721580528287886307
+    },
+    {
+        "Name": "Top_S0051_High",
+        "PathID": 1476522500633023527
+    },
+    {
+        "Name": "Top_S0051_High",
+        "PathID": -7219600614445992013
+    },
+    {
+        "Name": "Top_S0051_LOD1",
+        "PathID": 4850154718130170472
+    },
+    {
+        "Name": "Top_S0051_LOD1",
+        "PathID": 8195119224508247047
+    },
+    {
+        "Name": "Top_S0051_LOD2",
+        "PathID": 2476991386210255312
+    },
+    {
+        "Name": "Top_S0051_LOD2",
+        "PathID": -6731358031521210414
+    },
+    {
+        "Name": "Top_S0051_Nude",
+        "PathID": -7952435092361332474
+    },
+    {
+        "Name": "Top_S0051_Nude",
+        "PathID": 8081274028689836917
+    },
+    {
+        "Name": "Top_S0051_Nude_LOD1",
+        "PathID": 4335639106337231474
+    },
+    {
+        "Name": "Top_S0051_Nude_LOD1",
+        "PathID": 3440182538140588896
+    },
+    {
+        "Name": "Top_S0051_Nude_LOD2",
+        "PathID": -4210020930116658904
+    },
+    {
+        "Name": "Top_S0051_Nude_LOD2",
+        "PathID": -4308154586040502211
+    },
+    {
+        "Name": "Top_S0055",
+        "PathID": 4766871643477694809
+    },
+    {
+        "Name": "Top_S0055",
+        "PathID": -7162413889284061487
+    },
+    {
+        "Name": "Top_S0055_High",
+        "PathID": 2703858457440520423
+    },
+    {
+        "Name": "Top_S0055_High",
+        "PathID": -3848213581891836863
+    },
+    {
+        "Name": "Top_S0055_LOD1",
+        "PathID": -2336399012846665528
+    },
+    {
+        "Name": "Top_S0055_LOD1",
+        "PathID": 2234270868730278089
+    },
+    {
+        "Name": "Top_S0055_LOD2",
+        "PathID": 5139510368665116248
+    },
+    {
+        "Name": "Top_S0055_LOD2",
+        "PathID": -6052038953202425745
+    },
+    {
+        "Name": "Top_S0055_Nude",
+        "PathID": 8803175264811145693
+    },
+    {
+        "Name": "Top_S0055_Nude_LOD1",
+        "PathID": -7588966197873474902
+    },
+    {
+        "Name": "Top_S0055_Nude_LOD2",
+        "PathID": -2398409433244303701
+    },
+    {
+        "Name": "Top_S0058",
+        "PathID": 8779468845018264779
+    },
+    {
+        "Name": "Top_S0058",
+        "PathID": -1594345312390267111
+    },
+    {
+        "Name": "Top_S0058_High",
+        "PathID": -2958009400324535902
+    },
+    {
+        "Name": "Top_S0058_High",
+        "PathID": -4596915778825379440
+    },
+    {
+        "Name": "Top_S0058_LOD1",
+        "PathID": 5917803710952222196
+    },
+    {
+        "Name": "Top_S0058_LOD1",
+        "PathID": -6195212220838238119
+    },
+    {
+        "Name": "Top_S0058_LOD2",
+        "PathID": -5929961571341108610
+    },
+    {
+        "Name": "Top_S0058_LOD2",
+        "PathID": -154660368601916620
+    },
+    {
+        "Name": "Top_S0058_Nude",
+        "PathID": -5250061664364653753
+    },
+    {
+        "Name": "Top_S0058_Nude",
+        "PathID": 455469345403852202
+    },
+    {
+        "Name": "Top_S0058_Nude_LOD1",
+        "PathID": -3306136599868759276
+    },
+    {
+        "Name": "Top_S0058_Nude_LOD1",
+        "PathID": 1714842841967984083
+    },
+    {
+        "Name": "Top_S0058_Nude_LOD2",
+        "PathID": -614260407665818646
+    },
+    {
+        "Name": "Top_S0058_Nude_LOD2",
+        "PathID": -6182479971051749449
+    },
+    {
+        "Name": "Top_S0059",
+        "PathID": 4406639078695736186
+    },
+    {
+        "Name": "Top_S0059",
+        "PathID": 7703280112095502231
+    },
+    {
+        "Name": "Top_S0059_High",
+        "PathID": 4336338863380070413
+    },
+    {
+        "Name": "Top_S0059_High",
+        "PathID": 4105614087947853709
+    },
+    {
+        "Name": "Top_S0059_LOD1",
+        "PathID": -1641965909511769489
+    },
+    {
+        "Name": "Top_S0059_LOD1",
+        "PathID": -4778796765432376361
+    },
+    {
+        "Name": "Top_S0059_LOD2",
+        "PathID": -6507252406382892565
+    },
+    {
+        "Name": "Top_S0059_LOD2",
+        "PathID": -5985384416607452886
+    },
+    {
+        "Name": "Top_S0059_Nude",
+        "PathID": -2457326376830208376
+    },
+    {
+        "Name": "Top_S0059_Nude",
+        "PathID": -4895189829916380709
+    },
+    {
+        "Name": "Top_S0059_Nude_LOD1",
+        "PathID": 5880983209632639408
+    },
+    {
+        "Name": "Top_S0059_Nude_LOD1",
+        "PathID": 623408626116120422
+    },
+    {
+        "Name": "Top_S0059_Nude_LOD2",
+        "PathID": -8555011243968451551
+    },
+    {
+        "Name": "Top_S0059_Nude_LOD2",
+        "PathID": -4085764619503521960
+    },
+    {
+        "Name": "Top_S0060",
+        "PathID": -1252621215801307102
+    },
+    {
+        "Name": "Top_S0060",
+        "PathID": 5718597350050259218
+    },
+    {
+        "Name": "Top_S0060_High",
+        "PathID": 322424198452386499
+    },
+    {
+        "Name": "Top_S0060_High",
+        "PathID": 6035469580623663158
+    },
+    {
+        "Name": "Top_S0060_LOD1",
+        "PathID": 2527673316802127771
+    },
+    {
+        "Name": "Top_S0060_LOD1",
+        "PathID": 1363084099251203413
+    },
+    {
+        "Name": "Top_S0060_LOD2",
+        "PathID": -5820447009136923471
+    },
+    {
+        "Name": "Top_S0060_LOD2",
+        "PathID": -6988955062986183535
+    },
+    {
+        "Name": "Top_S0060_Nude",
+        "PathID": -6252228132148076261
+    },
+    {
+        "Name": "Top_S0060_Nude",
+        "PathID": -1832976765340524316
+    },
+    {
+        "Name": "Top_S0060_Nude_LOD1",
+        "PathID": 8355287849391393370
+    },
+    {
+        "Name": "Top_S0060_Nude_LOD1",
+        "PathID": -5876766802282491666
+    },
+    {
+        "Name": "Top_S0060_Nude_LOD2",
+        "PathID": 1643423625593044268
+    },
+    {
+        "Name": "Top_S0060_Nude_LOD2",
+        "PathID": -585120802061330197
+    },
+    {
+        "Name": "Top_S0062",
+        "PathID": 3769999680694718862
+    },
+    {
+        "Name": "Top_S0062",
+        "PathID": -6390664732346228267
+    },
+    {
+        "Name": "Top_S0062_High",
+        "PathID": -2081712274378990
+    },
+    {
+        "Name": "Top_S0062_High",
+        "PathID": -6211023922001346641
+    },
+    {
+        "Name": "Top_S0062_LOD1",
+        "PathID": -4799958087735826556
+    },
+    {
+        "Name": "Top_S0062_LOD1",
+        "PathID": -4784716830995227476
+    },
+    {
+        "Name": "Top_S0062_LOD2",
+        "PathID": -8250577850794633283
+    },
+    {
+        "Name": "Top_S0062_LOD2",
+        "PathID": -5734740970602736594
+    },
+    {
+        "Name": "Top_S0062_Nude",
+        "PathID": -2436077709342371688
+    },
+    {
+        "Name": "Top_S0062_Nude",
+        "PathID": -2629902397873025435
+    },
+    {
+        "Name": "Top_S0062_Nude_LOD1",
+        "PathID": 7420643130554347906
+    },
+    {
+        "Name": "Top_S0062_Nude_LOD1",
+        "PathID": 7349444370679854727
+    },
+    {
+        "Name": "Top_S0062_Nude_LOD2",
+        "PathID": -4398824139455238486
+    },
+    {
+        "Name": "Top_S0062_Nude_LOD2",
+        "PathID": 5971796764052338709
+    },
+    {
+        "Name": "WaistAcc_S0024",
+        "PathID": 1381765120453854279
+    },
+    {
+        "Name": "WaistAcc_S0024",
+        "PathID": -2867786660145292527
+    },
+    {
+        "Name": "WaistAcc_S0024_High",
+        "PathID": 7594344392357165604
+    },
+    {
+        "Name": "WaistAcc_S0024_High",
+        "PathID": -7517956350857028041
+    },
+    {
+        "Name": "WaistAcc_S0024_LOD1",
+        "PathID": 624970181859762527
+    },
+    {
+        "Name": "WaistAcc_S0024_LOD1",
+        "PathID": -5665228150546448561
+    },
+    {
+        "Name": "WaistAcc_S0024_LOD2",
+        "PathID": -8226995167698095687
+    },
+    {
+        "Name": "WaistAcc_S0024_LOD2",
+        "PathID": -3339093351365055812
+    },
+    {
+        "Name": "WaistAcc_S0033",
+        "PathID": 8942028550356721223
+    },
+    {
+        "Name": "WaistAcc_S0033",
+        "PathID": -7671172769298902132
+    },
+    {
+        "Name": "WaistAcc_S0033_High",
+        "PathID": -2168079725926807287
+    },
+    {
+        "Name": "WaistAcc_S0033_High",
+        "PathID": -6914363591988208095
+    },
+    {
+        "Name": "WaistAcc_S0033_LOD1",
+        "PathID": -769382360110267573
+    },
+    {
+        "Name": "WaistAcc_S0033_LOD1",
+        "PathID": 8983958670825656010
+    },
+    {
+        "Name": "WaistAcc_S0033_LOD2",
+        "PathID": 1532862717244280782
+    },
+    {
+        "Name": "WaistAcc_S0033_LOD2",
+        "PathID": -463448832244588833
+    },
+    {
+        "Name": "WaistAcc_S0034",
+        "PathID": -487927306091879434
+    },
+    {
+        "Name": "WaistAcc_S0034",
+        "PathID": 8233578121800095866
+    },
+    {
+        "Name": "WaistAcc_S0034_High",
+        "PathID": -912227514770797790
+    },
+    {
+        "Name": "WaistAcc_S0034_High",
+        "PathID": 3518576232473746247
+    },
+    {
+        "Name": "WaistAcc_S0034_LOD1",
+        "PathID": 7126834685268952376
+    },
+    {
+        "Name": "WaistAcc_S0034_LOD1",
+        "PathID": 788727442618656079
+    },
+    {
+        "Name": "WaistAcc_S0034_LOD2",
+        "PathID": 3498534669091102555
+    },
+    {
+        "Name": "WaistAcc_S0034_LOD2",
+        "PathID": -7356833165520401170
+    },
+    {
+        "Name": "WaistAcc_S0046",
+        "PathID": -3706592695615827421
+    },
+    {
+        "Name": "WaistAcc_S0046",
+        "PathID": 2037725715755243336
+    },
+    {
+        "Name": "WaistAcc_S0046_High",
+        "PathID": 7152833913664159415
+    },
+    {
+        "Name": "WaistAcc_S0046_High",
+        "PathID": 1308807261176990964
+    },
+    {
+        "Name": "WaistAcc_S0046_LOD1",
+        "PathID": 5971211135252160705
+    },
+    {
+        "Name": "WaistAcc_S0046_LOD1",
+        "PathID": 4074549625577300746
+    },
+    {
+        "Name": "WaistAcc_S0046_LOD2",
+        "PathID": 2114320592135032111
+    },
+    {
+        "Name": "WaistAcc_S0046_LOD2",
+        "PathID": 7683349358671231296
+    },
+    {
+        "Name": "Wing01",
+        "PathID": 1752223050155650908
+    },
+    {
+        "Name": "Wing01_LOD1",
+        "PathID": 3158837661447351673
+    },
+    {
+        "Name": "Wing01_LOD2",
+        "PathID": 2143144919869954013
+    },
+    {
+        "Name": "Wing01_LOD3",
+        "PathID": 6831198383319567314
+    }
+]
