@@ -1,0 +1,1506 @@
+[
+    {
+        "Name": "Animal_Boar_Grass_Model",
+        "PathID": 7759174794488906659
+    },
+    {
+        "Name": "Animal_Boar_Grass_Model_LOD1",
+        "PathID": 1933675618955913788
+    },
+    {
+        "Name": "Animal_Boar_Grass_Model_LOD2",
+        "PathID": -9098981717607979739
+    },
+    {
+        "Name": "Animal_Boar_Grass_Model_LOD3",
+        "PathID": -6560364258694375236
+    },
+    {
+        "Name": "Animal_Cat_Cassiodo_Scarf_Model",
+        "PathID": 5568107144414492546
+    },
+    {
+        "Name": "Animal_Cat_Cassiodo_Scarf_Model_LOD1",
+        "PathID": 753073610110519530
+    },
+    {
+        "Name": "Animal_Cat_Cassiodo_Scarf_Model_LOD2",
+        "PathID": -1212196992655460396
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Scar_Model",
+        "PathID": 7318223875901088028
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Scar_Model_LOD1",
+        "PathID": 1508351566546998952
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Scar_Model_LOD2",
+        "PathID": -8797298154022759094
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Scarf_Model",
+        "PathID": -7787387123893993935
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Scarf_Model_LOD1",
+        "PathID": -2165330260673765161
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Scarf_Model_LOD2",
+        "PathID": -8941854288767543134
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Tail_Model",
+        "PathID": 4942739952520595334
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Tail_Model_LOD1",
+        "PathID": 4229229617244419809
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_Tail_Model_LOD2",
+        "PathID": 258112566124396587
+    },
+    {
+        "Name": "Body",
+        "PathID": -7324346734004467544
+    },
+    {
+        "Name": "Body",
+        "PathID": -224956081761628675
+    },
+    {
+        "Name": "Body",
+        "PathID": -2912831250198534342
+    },
+    {
+        "Name": "Body",
+        "PathID": -4192671101374194535
+    },
+    {
+        "Name": "Body",
+        "PathID": 7519452443202868543
+    },
+    {
+        "Name": "Body",
+        "PathID": -6791944119583722368
+    },
+    {
+        "Name": "Body",
+        "PathID": -7407968771360808291
+    },
+    {
+        "Name": "Body",
+        "PathID": 56315599520777109
+    },
+    {
+        "Name": "Body",
+        "PathID": -6074499001150705133
+    },
+    {
+        "Name": "Body",
+        "PathID": -7209721958016994801
+    },
+    {
+        "Name": "Body",
+        "PathID": -833639942428430319
+    },
+    {
+        "Name": "Body",
+        "PathID": 8135217537768377179
+    },
+    {
+        "Name": "Body",
+        "PathID": 5470090216386954053
+    },
+    {
+        "Name": "Body",
+        "PathID": 3235341755809629410
+    },
+    {
+        "Name": "Body",
+        "PathID": -2080192756014425238
+    },
+    {
+        "Name": "Body",
+        "PathID": -2949405422951839804
+    },
+    {
+        "Name": "Body",
+        "PathID": 880402914026393730
+    },
+    {
+        "Name": "Body",
+        "PathID": -5362356875444963644
+    },
+    {
+        "Name": "Body",
+        "PathID": -2144982073380756387
+    },
+    {
+        "Name": "Body",
+        "PathID": 316166913732851988
+    },
+    {
+        "Name": "Body",
+        "PathID": -6745674358559381746
+    },
+    {
+        "Name": "Body",
+        "PathID": -2174460380242124017
+    },
+    {
+        "Name": "Body",
+        "PathID": -1150304033351024252
+    },
+    {
+        "Name": "Body",
+        "PathID": -4880973812940336582
+    },
+    {
+        "Name": "Body",
+        "PathID": -2247654660070405020
+    },
+    {
+        "Name": "Body",
+        "PathID": 751627907414166307
+    },
+    {
+        "Name": "Body",
+        "PathID": -380915794392081981
+    },
+    {
+        "Name": "Body",
+        "PathID": 932429701158307197
+    },
+    {
+        "Name": "Body",
+        "PathID": 5224864436352465553
+    },
+    {
+        "Name": "Body",
+        "PathID": -349127614841974224
+    },
+    {
+        "Name": "Body",
+        "PathID": 8382392196292234704
+    },
+    {
+        "Name": "Body",
+        "PathID": 3387761798824229083
+    },
+    {
+        "Name": "Body",
+        "PathID": 4274519674258357579
+    },
+    {
+        "Name": "Body",
+        "PathID": -2813243680452370309
+    },
+    {
+        "Name": "Body",
+        "PathID": -7179500378002656425
+    },
+    {
+        "Name": "Body",
+        "PathID": -5100248026282664474
+    },
+    {
+        "Name": "Body",
+        "PathID": -3068889458888917505
+    },
+    {
+        "Name": "Body003_Standard",
+        "PathID": 7017766694550438177
+    },
+    {
+        "Name": "Body003_Standard_LOD1",
+        "PathID": 4570361277491211936
+    },
+    {
+        "Name": "Body003_Standard_LOD2",
+        "PathID": 8853712331626393263
+    },
+    {
+        "Name": "Body_Albatross_01",
+        "PathID": 543291018757706319
+    },
+    {
+        "Name": "Body_Albatross_01_LOD1",
+        "PathID": -2201710145321515851
+    },
+    {
+        "Name": "Body_Albatross_01_LOD2",
+        "PathID": 783111244791094104
+    },
+    {
+        "Name": "Body_Eggplant_01",
+        "PathID": -7021416092867827452
+    },
+    {
+        "Name": "Body_Eggplant_01_LOD1",
+        "PathID": -9184870328172903576
+    },
+    {
+        "Name": "Body_Eggplant_01_LOD2",
+        "PathID": -6700909933620609701
+    },
+    {
+        "Name": "Body_Fantail_01",
+        "PathID": -4927245057309253756
+    },
+    {
+        "Name": "Body_Fantail_01_LOD1",
+        "PathID": -6924113749683537475
+    },
+    {
+        "Name": "Body_Fantail_01_LOD2",
+        "PathID": -5452613806095470650
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -2314760698364925403
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 4868419311830299601
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -8791418045034423933
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -8480131297342886291
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -8468093263085255774
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 6593407654745334772
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -396523084300757171
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -4572667900313409536
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -7408647556383849558
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 5933618882718478332
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -910182278923502993
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -8102560820425141590
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 6101588284891997323
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -3216459434581312349
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 2784741108646284464
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -7703432566205122594
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 9005987484227218441
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 3715525705656816066
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 8861441999724002496
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 8690696636314679357
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -1733258201609619651
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -3609705282437040132
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -2729039977034443927
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 297960222725735567
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 2340512279820212473
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -3695765872266642025
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 2416927141628962594
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 4764145195023779993
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -7202913943004569952
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 8553252395385098754
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": 1863655933968791017
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -6741817478459059612
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -3195535785385769485
+    },
+    {
+        "Name": "Body_LOD1",
+        "PathID": -3897598841595898846
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -1888924457536725297
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -172422993972536689
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 4016572644291301506
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -5665690839080606425
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -4095577308479735485
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -8319026168286230404
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 5462179499883911566
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 8248117166800655128
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 8948567711566187741
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 6656428895108876917
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -714607915274749011
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 3449400959946041557
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 7547793123392925191
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -3585113593733030824
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -4304243772275185235
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -5663816736115745181
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -887705837414623417
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -6658936673628106131
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 7452988866247362314
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 3048372557774428183
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -3233691572655211456
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -2761148428511296002
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 8057706700928672460
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -408531413504734162
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -8037523112374418682
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -9148213279318308839
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 7628597347026825653
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -5907025049755425089
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 8243624863664379476
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 891800522769186501
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": -7796660708450066912
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 1317652280330862715
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 815735333482196377
+    },
+    {
+        "Name": "Body_LOD2",
+        "PathID": 3048734014243748619
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 3049480458780295636
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": -4093889839671909287
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": -4729611106049321033
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": -790478429993573072
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": -3968996609458836514
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 747236116600180216
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 5223232045283897432
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 5156214268818415093
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 713104682053804506
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": -1096433090101978495
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": -9102538855034208050
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 8195853073390910623
+    },
+    {
+        "Name": "Body_LOD3",
+        "PathID": 1541852713789080809
+    },
+    {
+        "Name": "Body_Larvivora_01",
+        "PathID": 5474567315668917850
+    },
+    {
+        "Name": "Body_Larvivora_01_LOD1",
+        "PathID": -7154523567361481583
+    },
+    {
+        "Name": "Body_Larvivora_01_LOD2",
+        "PathID": -2970087388966630635
+    },
+    {
+        "Name": "Body_Seagull_01",
+        "PathID": 571287987655793378
+    },
+    {
+        "Name": "Body_Seagull_01_LOD1",
+        "PathID": -765996827473699754
+    },
+    {
+        "Name": "Body_Seagull_01_LOD2",
+        "PathID": -3093762158308548267
+    },
+    {
+        "Name": "Body_Swan_01",
+        "PathID": 809744082310730016
+    },
+    {
+        "Name": "Body_Swan_01_LOD1",
+        "PathID": 3266387332256423236
+    },
+    {
+        "Name": "Body_Swan_01_LOD2",
+        "PathID": 4768318457941433996
+    },
+    {
+        "Name": "Body_Uka_01",
+        "PathID": 4815742989954697038
+    },
+    {
+        "Name": "Body_Uka_01_LOD1",
+        "PathID": -9036066253830825533
+    },
+    {
+        "Name": "Body_Uka_01_LOD2",
+        "PathID": -7387029313817057896
+    },
+    {
+        "Name": "Brow",
+        "PathID": 2008388356989953329
+    },
+    {
+        "Name": "Brow",
+        "PathID": -7436594363916009938
+    },
+    {
+        "Name": "Brow",
+        "PathID": 9162482672403257652
+    },
+    {
+        "Name": "Brow",
+        "PathID": -818326365977350797
+    },
+    {
+        "Name": "Brow",
+        "PathID": 4734742248102950532
+    },
+    {
+        "Name": "Brow",
+        "PathID": 6029646493788360146
+    },
+    {
+        "Name": "Brow",
+        "PathID": -7630222416212368249
+    },
+    {
+        "Name": "Brow",
+        "PathID": -6523374973749547864
+    },
+    {
+        "Name": "Brow",
+        "PathID": 7326268203961294844
+    },
+    {
+        "Name": "Brow",
+        "PathID": -4907445031221196628
+    },
+    {
+        "Name": "Brow",
+        "PathID": 1096184369030262948
+    },
+    {
+        "Name": "Brow",
+        "PathID": -2592201419584922599
+    },
+    {
+        "Name": "Brow",
+        "PathID": 5112386281105769761
+    },
+    {
+        "Name": "Brow",
+        "PathID": 1635596118302699134
+    },
+    {
+        "Name": "Brow",
+        "PathID": -2736981449090498774
+    },
+    {
+        "Name": "Brow",
+        "PathID": -4336745529870958452
+    },
+    {
+        "Name": "Brow",
+        "PathID": -747780239564189282
+    },
+    {
+        "Name": "Brow",
+        "PathID": 6074197342683502023
+    },
+    {
+        "Name": "Brow",
+        "PathID": -8584111757885171960
+    },
+    {
+        "Name": "Brow",
+        "PathID": 4731340273386030944
+    },
+    {
+        "Name": "Brow",
+        "PathID": -2071630232786951938
+    },
+    {
+        "Name": "Brow",
+        "PathID": -6811805889023778026
+    },
+    {
+        "Name": "Brow",
+        "PathID": -9167748304725802196
+    },
+    {
+        "Name": "Brow",
+        "PathID": -4325770619216733083
+    },
+    {
+        "Name": "Brow",
+        "PathID": 3978077639551529453
+    },
+    {
+        "Name": "Brow",
+        "PathID": -4678142062710721661
+    },
+    {
+        "Name": "Brow",
+        "PathID": -589084047568916102
+    },
+    {
+        "Name": "Brow",
+        "PathID": 8419135267574554354
+    },
+    {
+        "Name": "Brow",
+        "PathID": -6374344162964133181
+    },
+    {
+        "Name": "Brow",
+        "PathID": -4994129999516298601
+    },
+    {
+        "Name": "Brow",
+        "PathID": 6935829410252407914
+    },
+    {
+        "Name": "Brow",
+        "PathID": 2838380540038812939
+    },
+    {
+        "Name": "Brow",
+        "PathID": -7290266985398690132
+    },
+    {
+        "Name": "Brow",
+        "PathID": -7817754502370482136
+    },
+    {
+        "Name": "Brow",
+        "PathID": 8072158112111714519
+    },
+    {
+        "Name": "Brow",
+        "PathID": -6664458069775964109
+    },
+    {
+        "Name": "Core",
+        "PathID": -2216758072434096471
+    },
+    {
+        "Name": "Core",
+        "PathID": -2405578950544340570
+    },
+    {
+        "Name": "Core",
+        "PathID": -9157879365931966147
+    },
+    {
+        "Name": "Core",
+        "PathID": 7383647104664226554
+    },
+    {
+        "Name": "Core",
+        "PathID": 7278001379434762087
+    },
+    {
+        "Name": "Core_LOD1",
+        "PathID": 5487912222685226264
+    },
+    {
+        "Name": "Core_LOD1",
+        "PathID": -3443806866879130496
+    },
+    {
+        "Name": "Core_LOD1",
+        "PathID": -949160712651173892
+    },
+    {
+        "Name": "Core_LOD1",
+        "PathID": -3147914532064879988
+    },
+    {
+        "Name": "Core_LOD1",
+        "PathID": 9122690168556999861
+    },
+    {
+        "Name": "Core_LOD2",
+        "PathID": 3735724152783567193
+    },
+    {
+        "Name": "Core_LOD2",
+        "PathID": -2186500446448378144
+    },
+    {
+        "Name": "Core_LOD2",
+        "PathID": -9092789919466688068
+    },
+    {
+        "Name": "Core_LOD2",
+        "PathID": 6051044889486612718
+    },
+    {
+        "Name": "Core_LOD2",
+        "PathID": 1786374364250130920
+    },
+    {
+        "Name": "Core_LOD3",
+        "PathID": 2358413244356830701
+    },
+    {
+        "Name": "Core_LOD3",
+        "PathID": -7982357277958193558
+    },
+    {
+        "Name": "Core_LOD3",
+        "PathID": -1970027954993342135
+    },
+    {
+        "Name": "Core_LOD3",
+        "PathID": -8686181696639577030
+    },
+    {
+        "Name": "Core_LOD3",
+        "PathID": -76539154191275226
+    },
+    {
+        "Name": "Eff_Back",
+        "PathID": -1413889260203991049
+    },
+    {
+        "Name": "Eff_Body",
+        "PathID": -7746895973305237555
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_Questship_01",
+        "PathID": 3707155597651200903
+    },
+    {
+        "Name": "Eff_SkirtSmoke",
+        "PathID": 917436699303066190
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -5848158840245911101
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -9088265000816576282
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -6105601480151388717
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -4558930970483286201
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 1570198193520643694
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -260893422371912418
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -7276712759778499855
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 442698724506245064
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -6910066553547141514
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 4132917714305710029
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 4337427512299664345
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 8873854136621864454
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -1612301247823256181
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 151026357916407709
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 5955436549849803476
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -6180408631452985278
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -5666502590084883403
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -3043802468493269974
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 7677201092803134588
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -586170461467105403
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -7270867672003692245
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 3994155725292104268
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 6091514076392610391
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 8797123422685275975
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -15293578009594287
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 4014629691475680605
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -8491790712869546014
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 4415071129768845327
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": -7449853657164181529
+    },
+    {
+        "Name": "EffectMesh",
+        "PathID": 1728854773099542761
+    },
+    {
+        "Name": "EffectMesh2",
+        "PathID": 5354567602606964335
+    },
+    {
+        "Name": "EffectMesh_Albatross_01",
+        "PathID": 7441812648406575352
+    },
+    {
+        "Name": "EffectMesh_Eggplant_01",
+        "PathID": -4234234181874161312
+    },
+    {
+        "Name": "EffectMesh_Fantail_01",
+        "PathID": 2891218447563136333
+    },
+    {
+        "Name": "EffectMesh_Larvivora_01",
+        "PathID": -3621996305527564646
+    },
+    {
+        "Name": "EffectMesh_Seagull_01",
+        "PathID": -992015059695359351
+    },
+    {
+        "Name": "EffectMesh_Swan_01",
+        "PathID": 6401887606689958094
+    },
+    {
+        "Name": "EffectMesh_Uka_01",
+        "PathID": 8709463546354670881
+    },
+    {
+        "Name": "Effectmesh",
+        "PathID": -5519416688422835217
+    },
+    {
+        "Name": "Effectmesh",
+        "PathID": 8703875715882347527
+    },
+    {
+        "Name": "Eye",
+        "PathID": 6492381005084196985
+    },
+    {
+        "Name": "EyeStar",
+        "PathID": -206669945446003013
+    },
+    {
+        "Name": "Eye_LOD1",
+        "PathID": 2880718409897011878
+    },
+    {
+        "Name": "Eye_LOD2",
+        "PathID": 4567038250302680082
+    },
+    {
+        "Name": "Face",
+        "PathID": -820273473826529562
+    },
+    {
+        "Name": "Face",
+        "PathID": -4695452823879108764
+    },
+    {
+        "Name": "Face",
+        "PathID": -2417096801837450812
+    },
+    {
+        "Name": "Face",
+        "PathID": -4311192219054924578
+    },
+    {
+        "Name": "Face",
+        "PathID": 7705131038694202580
+    },
+    {
+        "Name": "Face",
+        "PathID": 3078503997026584691
+    },
+    {
+        "Name": "Face",
+        "PathID": 3215085869865595504
+    },
+    {
+        "Name": "Face",
+        "PathID": -3825600911554940251
+    },
+    {
+        "Name": "Face",
+        "PathID": -4934877084087979433
+    },
+    {
+        "Name": "Face",
+        "PathID": 4677372678882574255
+    },
+    {
+        "Name": "Face",
+        "PathID": 5120509367775783895
+    },
+    {
+        "Name": "Face",
+        "PathID": 5918790436744153173
+    },
+    {
+        "Name": "Face",
+        "PathID": -6629372022595350810
+    },
+    {
+        "Name": "Face",
+        "PathID": 3505986376146695411
+    },
+    {
+        "Name": "Face",
+        "PathID": -9147833791918645106
+    },
+    {
+        "Name": "Face",
+        "PathID": -8429456881220442578
+    },
+    {
+        "Name": "Face",
+        "PathID": -6590748156547134058
+    },
+    {
+        "Name": "Face",
+        "PathID": 8266614310264514244
+    },
+    {
+        "Name": "Face",
+        "PathID": -2577955895235330285
+    },
+    {
+        "Name": "Face",
+        "PathID": -7774388102144193740
+    },
+    {
+        "Name": "Face",
+        "PathID": 742199319594050880
+    },
+    {
+        "Name": "Face",
+        "PathID": -5758750545273679361
+    },
+    {
+        "Name": "Face",
+        "PathID": -1748308925142805936
+    },
+    {
+        "Name": "Face",
+        "PathID": -6649955840346281099
+    },
+    {
+        "Name": "Face",
+        "PathID": -7368610022622224502
+    },
+    {
+        "Name": "Face",
+        "PathID": 6578726595988251325
+    },
+    {
+        "Name": "Face",
+        "PathID": -8526546190669063804
+    },
+    {
+        "Name": "Face",
+        "PathID": 5942839116828141245
+    },
+    {
+        "Name": "Face",
+        "PathID": -5049699555568369995
+    },
+    {
+        "Name": "Face",
+        "PathID": -4196006040744314211
+    },
+    {
+        "Name": "Face",
+        "PathID": 655663230814500693
+    },
+    {
+        "Name": "Face",
+        "PathID": 3491516381191050976
+    },
+    {
+        "Name": "Face",
+        "PathID": -5976137612486129915
+    },
+    {
+        "Name": "Face",
+        "PathID": -1142308264162300383
+    },
+    {
+        "Name": "Face",
+        "PathID": 5208050546724140393
+    },
+    {
+        "Name": "Face",
+        "PathID": 3653998668531514923
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 5361440453199429619
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -8618196666444904841
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 6775072131905626166
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 9042374835328366830
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -1554588515925668176
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 5411801408413427015
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 2311588203303594941
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 2101610995771806773
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 4940107909028219968
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 1082146333995488007
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -5316111066119979170
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -4086419704626866247
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 5815224301838498034
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -6961826842700211596
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 7799320767848681206
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 5824155704915267016
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -4509873551346117032
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -7255831095113083562
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -9136119228144798394
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -9055832018804338044
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 5905259673071211531
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -8844718285075067558
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -3770596007367528634
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 8806417302136825499
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 3903273549654987637
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -1929635139929156263
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -426547187601864747
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -3206511899645511836
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -5840299960661370447
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -2256763547432836891
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 999585952843255980
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -8752915896451458603
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 4604930651898151030
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": -6443716398267990271
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 2665824425206428354
+    },
+    {
+        "Name": "Face_Eye",
+        "PathID": 6866308244568521082
+    },
+    {
+        "Name": "Level_Fd_Build_Gjy_Tablecloth_A_02A_Col",
+        "PathID": -5243491092611787317
+    },
+    {
+        "Name": "Level_Nt_Prop_Far_Book_A_03A_Lod0",
+        "PathID": -1656186679634235902
+    },
+    {
+        "Name": "Level_Nt_Prop_Far_Book_A_03A_Lod1",
+        "PathID": 7858349175896587235
+    },
+    {
+        "Name": "Level_THS_Unique_Filling_02_Vo",
+        "PathID": 8019240520909860055
+    },
+    {
+        "Name": "MonEquip_Invoker_Catalyst_Fire_Model",
+        "PathID": -6370835221455039759
+    },
+    {
+        "Name": "MonEquip_Invoker_Grimoire_Electric_Model",
+        "PathID": 1611811358260419389
+    },
+    {
+        "Name": "Monster_LaSignora_Lash_Model",
+        "PathID": -5115333439687809737
+    },
+    {
+        "Name": "Mouth",
+        "PathID": 384380695732449142
+    },
+    {
+        "Name": "Mouth_LOD1",
+        "PathID": 6372751360615443680
+    },
+    {
+        "Name": "Mouth_LOD2",
+        "PathID": -4837489072780130885
+    },
+    {
+        "Name": "Plane008",
+        "PathID": 7180374315886989296
+    },
+    {
+        "Name": "Property_Ani_Prop_NXRuinsAirWall_01_Col",
+        "PathID": -5677230374470787901
+    },
+    {
+        "Name": "Property_Ani_Prop_NXRuinsAirWall_01_Effect",
+        "PathID": -5247772111022128262
+    },
+    {
+        "Name": "Property_Ani_Prop_PVPPlatformFloor_01_ShadowMesh",
+        "PathID": 1513209838964376842
+    },
+    {
+        "Name": "Property_Ani_Prop_PVPPlatformFloor_03_Col",
+        "PathID": -137166626415092251
+    },
+    {
+        "Name": "Property_Ani_Prop_PVPPlatformFloor_04_Col",
+        "PathID": -287253645269328152
+    },
+    {
+        "Name": "Property_Ani_Prop_PinBallTable_01_Col",
+        "PathID": 7689966892050152237
+    },
+    {
+        "Name": "Property_Ani_Prop_PinBallTable_01_Lod0",
+        "PathID": -366892513841020321
+    },
+    {
+        "Name": "Property_Ani_Prop_PinBallTable_01_Lod1",
+        "PathID": 5659034488189823423
+    },
+    {
+        "Name": "Property_Ani_Prop_PinBallTable_01_Lod2",
+        "PathID": -5254270627622917610
+    },
+    {
+        "Name": "Property_Ani_Prop_QuestRuinsAirWall_01_Col",
+        "PathID": 7027311223578187030
+    },
+    {
+        "Name": "Property_Ani_Prop_QuestRuinsAirWall_01_Effect",
+        "PathID": 4166590214645137502
+    },
+    {
+        "Name": "Property_Ani_Prop_QuestRuinsAirWall_02_Col",
+        "PathID": -450331327174682429
+    },
+    {
+        "Name": "Property_Ani_Prop_QuestRuinsAirWall_02_Effect",
+        "PathID": 6440693478751075224
+    },
+    {
+        "Name": "Property_Ani_Prop_QuestRuinsAirWall_03_Col",
+        "PathID": -4174663836460960411
+    },
+    {
+        "Name": "Property_Ani_Prop_QuestRuinsAirWall_03_Effect",
+        "PathID": 2998859574000950377
+    },
+    {
+        "Name": "Property_Ani_Prop_RaceRouteAirWall_02_Col",
+        "PathID": 1760670988543126126
+    },
+    {
+        "Name": "Property_Ani_Prop_RaceRouteAirWall_02_Effect",
+        "PathID": -3934152918451518737
+    },
+    {
+        "Name": "Property_Ani_Prop_SYRuinsAirWall_01_Col",
+        "PathID": 6825289217513794247
+    },
+    {
+        "Name": "Property_Ani_Prop_SYRuinsAirWall_01_Effect",
+        "PathID": -6677704704997652520
+    },
+    {
+        "Name": "Property_Ani_Prop_TrainingRouteAirWall_02_Col",
+        "PathID": 3524673376834529315
+    },
+    {
+        "Name": "Property_Ani_Prop_TrainingRouteAirWall_02_Effect",
+        "PathID": -1197784558081026070
+    },
+    {
+        "Name": "Ring",
+        "PathID": 5553866821929012301
+    },
+    {
+        "Name": "Ring_LOD1",
+        "PathID": -4307316011400625397
+    },
+    {
+        "Name": "Ring_LOD2",
+        "PathID": -6480972813797473834
+    },
+    {
+        "Name": "Ring_LOD3",
+        "PathID": 5327580031147213559
+    },
+    {
+        "Name": "Wing",
+        "PathID": -9153096624183556705
+    },
+    {
+        "Name": "Wing_Effect",
+        "PathID": -3776590223290346159
+    },
+    {
+        "Name": "Wing_LOD1",
+        "PathID": -5785695650641076124
+    },
+    {
+        "Name": "Wing_LOD2",
+        "PathID": -3791367394592650547
+    },
+    {
+        "Name": "Wing_LOD3",
+        "PathID": -7288990686157819815
+    },
+    {
+        "Name": "body",
+        "PathID": -7943633744609785820
+    }
+]

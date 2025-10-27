@@ -1,0 +1,402 @@
+[
+    {
+        "Name": "Ani",
+        "PathID": -3170851242982691581
+    },
+    {
+        "Name": "Ani",
+        "PathID": -8631654656276177765
+    },
+    {
+        "Name": "Ani",
+        "PathID": -2958537394985307826
+    },
+    {
+        "Name": "Ani",
+        "PathID": 653094600730426737
+    },
+    {
+        "Name": "Ani",
+        "PathID": -3443656353205035710
+    },
+    {
+        "Name": "Ani",
+        "PathID": 3826239427247705938
+    },
+    {
+        "Name": "Animal_Boltbug_CrystalCore_01_Model",
+        "PathID": 6072019110345371095
+    },
+    {
+        "Name": "Avatar_Boy_Sword_Durin",
+        "PathID": 1665136603674271367
+    },
+    {
+        "Name": "Avatar_Boy_Sword_DurinCostumeWic",
+        "PathID": 5435793214533709252
+    },
+    {
+        "Name": "Avatar_Boy_Sword_DurinCostumeWic_Kanban_Edit",
+        "PathID": -5464220333549480932
+    },
+    {
+        "Name": "Avatar_Boy_Sword_Durin_Kanban_Edit",
+        "PathID": -3237754183079127352
+    },
+    {
+        "Name": "BG_Spine",
+        "PathID": 79951582928296992
+    },
+    {
+        "Name": "BG_Spine",
+        "PathID": 2561600632129124785
+    },
+    {
+        "Name": "BG_Spine",
+        "PathID": 6664034867512775193
+    },
+    {
+        "Name": "CM vcam1",
+        "PathID": 3064515929030672330
+    },
+    {
+        "Name": "CM vcam16",
+        "PathID": 7192317692095844211
+    },
+    {
+        "Name": "CM vcam17",
+        "PathID": 6500999540322896544
+    },
+    {
+        "Name": "CM vcam19",
+        "PathID": -1482562077260660479
+    },
+    {
+        "Name": "CM vcam20",
+        "PathID": -7441927344844817382
+    },
+    {
+        "Name": "CM vcam22",
+        "PathID": -3227122166340258123
+    },
+    {
+        "Name": "CM vcam23",
+        "PathID": -6183137494261157723
+    },
+    {
+        "Name": "CM vcam25",
+        "PathID": -3355631377593109457
+    },
+    {
+        "Name": "CM vcam25",
+        "PathID": -6702806944704569102
+    },
+    {
+        "Name": "CM vcam25",
+        "PathID": 501613729299539558
+    },
+    {
+        "Name": "CM vcam25",
+        "PathID": -7566126688786681602
+    },
+    {
+        "Name": "CM vcam26",
+        "PathID": -6542005026210204290
+    },
+    {
+        "Name": "CM vcam26",
+        "PathID": 5653861460466382317
+    },
+    {
+        "Name": "CM vcam26",
+        "PathID": 8882071419880742620
+    },
+    {
+        "Name": "CM vcam26",
+        "PathID": 7610261294419033855
+    },
+    {
+        "Name": "CM vcam38",
+        "PathID": -5322585669477980666
+    },
+    {
+        "Name": "CM vcam9",
+        "PathID": -1364388874530737953
+    },
+    {
+        "Name": "Ca_Quest_AmborSQ_ShowEndPoint1",
+        "PathID": -2747967609625039389
+    },
+    {
+        "Name": "Ca_Quest_AmborSQ_ShowEndPoint2",
+        "PathID": 205454208140670865
+    },
+    {
+        "Name": "Ca_Quest_AmborSQ_ShowEndPoint4",
+        "PathID": -5625179853245044596
+    },
+    {
+        "Name": "Ca_Quest_MQ304_ShowFeather",
+        "PathID": 1693358511474485268
+    },
+    {
+        "Name": "Ca_Quest_MQ304_ShowFeather",
+        "PathID": -6015039639062366631
+    },
+    {
+        "Name": "Ca_Quest_MQ305_ShowWendy",
+        "PathID": -5373870952727554420
+    },
+    {
+        "Name": "Ca_Quest_MQ354_ShowSlime",
+        "PathID": -6453008610594749468
+    },
+    {
+        "Name": "Ca_Quest_ShowTreasureBox1",
+        "PathID": 7054790638273618121
+    },
+    {
+        "Name": "Cs_QinSQ_LookAtIsland",
+        "PathID": 2475694726980221233
+    },
+    {
+        "Name": "Deco_Spine",
+        "PathID": -6591198204290727280
+    },
+    {
+        "Name": "Deco_Spine",
+        "PathID": -8009759711168731969
+    },
+    {
+        "Name": "Deco_Spine",
+        "PathID": 5172876089529193058
+    },
+    {
+        "Name": "Eff_Quest_MNquestPourTea_Trail",
+        "PathID": 1979375896800719031
+    },
+    {
+        "Name": "Eff_UI_Activity_SnowRace_Spine_ChermA",
+        "PathID": -8276425333429213103
+    },
+    {
+        "Name": "Eff_UI_SnowRaceCombat_Spine_Zhong_Chara",
+        "PathID": 5843890250832636693
+    },
+    {
+        "Name": "Eff_UI_SnowRaceCombat_Spine_Zhong_Eff_SkeletonData",
+        "PathID": -1020467715714902370
+    },
+    {
+        "Name": "Eff_UI_SnowRaceExchangeDialog_Spine_01",
+        "PathID": -5158681441244480250
+    },
+    {
+        "Name": "Eff_UI_SnowRaceExchangeDialog_Spine_02",
+        "PathID": -3032172562101683132
+    },
+    {
+        "Name": "Eff_UI_SnowRaceInvitationDialog_Spine",
+        "PathID": 4945861400913089122
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_BG_Mask_Spine",
+        "PathID": -5424548141792903470
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_BtnParkour_Spine_M_B",
+        "PathID": -3622740110407824389
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_BtnThrow_Spine_01_1",
+        "PathID": 1928893211424883311
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine01_1",
+        "PathID": -2011930955890542109
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine01_1H",
+        "PathID": 3635108154335585960
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine01_1H",
+        "PathID": -8514965288129732199
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine01_3",
+        "PathID": -7123158483685930206
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine01_3",
+        "PathID": 6425016419060034319
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine02_1_H",
+        "PathID": -274826681462456877
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine02_1_N",
+        "PathID": 7210902775850104279
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine02_2_H",
+        "PathID": 5636225090343838472
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine02_2_N",
+        "PathID": 5203935254153864927
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine02_3_H",
+        "PathID": 7610867477945598389
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine02_3_N",
+        "PathID": 39852809694630522
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine04_1",
+        "PathID": -4986210670188080622
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine04_2",
+        "PathID": -6542621040927597999
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine04_3",
+        "PathID": -5655626162454912945
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine04_4",
+        "PathID": 8076545128871277813
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine04_5",
+        "PathID": 7818882689909088341
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine04_6",
+        "PathID": -7302069864294718303
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine05_1",
+        "PathID": 2123561379473448044
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine05_2",
+        "PathID": 3203706579407973383
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine05_3",
+        "PathID": -472683683775318032
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine05_4",
+        "PathID": 7698768391192526946
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_HnS_Spine_03_5_Mask",
+        "PathID": -5252898959154067786
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_HnS_Spine_06_3_Mask",
+        "PathID": 2318961388798568050
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_HnS_Spine_07_2",
+        "PathID": 326137047062350919
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Kuang03_Spine",
+        "PathID": -4952272594864682364
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Kuang04_Line01_Spine",
+        "PathID": -7661104506633053760
+    },
+    {
+        "Name": "Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+        "PathID": 266776775339266796
+    },
+    {
+        "Name": "Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+        "PathID": -3057210205065757261
+    },
+    {
+        "Name": "NPC_Female_Standard_Model",
+        "PathID": 4678732802889415894
+    },
+    {
+        "Name": "NPC_Female_Standard_Model",
+        "PathID": -8053115264330218993
+    },
+    {
+        "Name": "NPC_Male_Standard_Model",
+        "PathID": 6766658409043442902
+    },
+    {
+        "Name": "NPC_Male_Standard_Model",
+        "PathID": -3595060301225159414
+    },
+    {
+        "Name": "NPC_Male_Standard_Model",
+        "PathID": 5965424369860902264
+    },
+    {
+        "Name": "NPC_Male_Standard_Model",
+        "PathID": 5492903911106499316
+    },
+    {
+        "Name": "Node",
+        "PathID": 3614648797064523760
+    },
+    {
+        "Name": "P_Spine",
+        "PathID": -3654663423982751220
+    },
+    {
+        "Name": "Property_Ani_Prop_ClockworkToy_01",
+        "PathID": -12187835210718048
+    },
+    {
+        "Name": "Property_Ani_Prop_ClockworkToy_03",
+        "PathID": -1137586672789476150
+    },
+    {
+        "Name": "Property_Ani_Prop_DinoCruiser_01_Vo",
+        "PathID": 6670926188238045498
+    },
+    {
+        "Name": "Property_Ani_Prop_OrigamiFrog_01",
+        "PathID": -1229504404622696798
+    },
+    {
+        "Name": "Property_Ani_Prop_OrigamiFrog_02",
+        "PathID": -5086722010905080861
+    },
+    {
+        "Name": "Property_Ani_Prop_OrigamiHamster_01_Vo",
+        "PathID": -8076221720892625907
+    },
+    {
+        "Name": "Property_Ani_Prop_OrigamiSquirrel_01",
+        "PathID": -4695949566759012284
+    },
+    {
+        "Name": "Property_Ani_Prop_PVPPlatformFloor_01",
+        "PathID": 3276188964249296854
+    },
+    {
+        "Name": "Property_Ani_Prop_UGCCoin_01",
+        "PathID": -2398989952343682036
+    },
+    {
+        "Name": "Root_Cam",
+        "PathID": -6927553441279036930
+    },
+    {
+        "Name": "SkillObj_Dori_Sprite_Model",
+        "PathID": 6854672728517335175
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "Name": "Beyd_Eff_UI_Trail_01",
+        "PathID": -1894315926770507313
+    },
+    {
+        "Name": "Beyd_Eff_UI_Trail_02",
+        "PathID": -726675879433358550
+    },
+    {
+        "Name": "Beyd_Eff_UI_Trail_03",
+        "PathID": -8759748413243954520
+    },
+    {
+        "Name": "Beyd_Eff_UI_Trail_04",
+        "PathID": -4868322408177660253
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCGachaShowPanel_Drxg_Aura01",
+        "PathID": -382523435226708885
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCGachaShowPanel_Drxg_Debris_01",
+        "PathID": -48192949314980280
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCGachaShowPanel_Drxg_Debris_02",
+        "PathID": 6626693623800795049
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCGachaShowPanel_Drxg_DissolveSparkle_01",
+        "PathID": -1838155312590435215
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCGachaShowPanel_Drxg_Dot01",
+        "PathID": 3249451913915648616
+    },
+    {
+        "Name": "Beyd_Eff_UI_UGCGachaShowPanel_Drxg_Feather_01",
+        "PathID": 6502757750326272344
+    },
+    {
+        "Name": "Eff_Aura_010_UM_T_33",
+        "PathID": 8898573070865255265
+    },
+    {
+        "Name": "Eff_Character_ColumbinaGhost",
+        "PathID": 7176206348870425036
+    },
+    {
+        "Name": "Eff_Debris_025_DO_04",
+        "PathID": -9129010882483375498
+    },
+    {
+        "Name": "Eff_Debris_025_DO_05",
+        "PathID": 2026614371805503803
+    },
+    {
+        "Name": "Eff_Distortion_014_NM_T_18",
+        "PathID": -2738053778732872635
+    },
+    {
+        "Name": "Eff_Glow_972_O_T_A_ZB_12",
+        "PathID": 7060403902590339836
+    },
+    {
+        "Name": "Eff_Glow_972_O_T_A_ZB_13",
+        "PathID": -5010402196858102844
+    },
+    {
+        "Name": "Eff_Other_483_O_T_26",
+        "PathID": -5390500954481317678
+    },
+    {
+        "Name": "Eff_Other_527_O_T_01",
+        "PathID": 8823608098506072051
+    },
+    {
+        "Name": "Eff_Quest_MNquestPourTea_Trail",
+        "PathID": 8094500415969471499
+    },
+    {
+        "Name": "Eff_Ring_220_O_T_SP_01",
+        "PathID": -528905564287659589
+    },
+    {
+        "Name": "Eff_Ring_265_O_T_00",
+        "PathID": -7824741303517373310
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_ShadowRuins_Ghost_01",
+        "PathID": -9123720231309612238
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_ShadowRuins_Ghost_02",
+        "PathID": 5638572486897404128
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_ShadowRuins_Ghost_03",
+        "PathID": -804539381662095966
+    },
+    {
+        "Name": "Eff_SceneObj_Stages_ShadowRuins_Ghost_04",
+        "PathID": 3327704171939660044
+    },
+    {
+        "Name": "Eff_Stages_POI_SpaceShip_Ghost_02",
+        "PathID": 8776126824764396572
+    },
+    {
+        "Name": "Eff_Stages_POI_SpaceShip_Ghost_03",
+        "PathID": 2462000097471639108
+    },
+    {
+        "Name": "Eff_Stages_POI_SpaceShip_Ghost_04",
+        "PathID": -7778839731616330664
+    },
+    {
+        "Name": "Eff_Trail_184_O_T_34",
+        "PathID": 8984751474263273940
+    },
+    {
+        "Name": "Eff_Trail_291_U_SP_ZB_00",
+        "PathID": 3636718052440324057
+    },
+    {
+        "Name": "Eff_Trail_292_U_SP_ZB_00",
+        "PathID": 3592689810370252111
+    },
+    {
+        "Name": "Eff_Trail_320_UM_T_SP_66",
+        "PathID": 791403714667657106
+    },
+    {
+        "Name": "Eff_Trail_870_U_T_10",
+        "PathID": -2166743566812337487
+    },
+    {
+        "Name": "Eff_UI_RelationPropDialog_Stage02_Aura55",
+        "PathID": 7771387325076019267
+    },
+    {
+        "Name": "Eff_UI_RelationPropDialog_Stage02_Aura56",
+        "PathID": 5486013275439194031
+    },
+    {
+        "Name": "Eff_UI_RelationPropDialog_Stage02_Aura57",
+        "PathID": -8912537056574222277
+    },
+    {
+        "Name": "Eff_UI_RelationProp_RightBigBg_Distort_06",
+        "PathID": -5014809481310078255
+    },
+    {
+        "Name": "Eff_UI_SnowRaceCombatGameDialog_ProgressMask",
+        "PathID": 7354578775645245401
+    },
+    {
+        "Name": "Eff_UI_SnowRaceExchangeDialog_Spine_Material",
+        "PathID": 7325301176951915068
+    },
+    {
+        "Name": "Eff_UI_SnowRaceInvitationDialog_Spine_Material",
+        "PathID": -1855131630800659769
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_BG_DotUVmove01",
+        "PathID": -3474837024680743175
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_BG_Line01",
+        "PathID": 7272876418093054145
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine_01_Material",
+        "PathID": 5251208796454279843
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine_02_Material",
+        "PathID": 746691483393942921
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Dot_UV01",
+        "PathID": 2006409400273457891
+    },
+    {
+        "Name": "Eff_UI_SnowRacePlotDialog_Snow",
+        "PathID": 3978461488198343745
+    },
+    {
+        "Name": "NPC_Female_Face001_01_Ghost01_Mat",
+        "PathID": -9017468478747121899
+    },
+    {
+        "Name": "NPC_Female_Face002_01_Ghost01_Mat",
+        "PathID": 1462587075371920880
+    },
+    {
+        "Name": "NPC_Female_Hair001_Ghost01_Mat",
+        "PathID": 4591452522766591421
+    },
+    {
+        "Name": "NPC_Female_Hair004_Ghost01_Mat",
+        "PathID": 6797183593304095635
+    },
+    {
+        "Name": "NPC_Female_Hair007_Ghost01_Mat",
+        "PathID": 9165571340278580734
+    },
+    {
+        "Name": "NPC_Female_Hair012_Ghost01_Mat",
+        "PathID": -208573373353648509
+    },
+    {
+        "Name": "NPC_Female_Hair016_Ghost01_Mat",
+        "PathID": -4809126143573177222
+    },
+    {
+        "Name": "NPC_Female_MoonNight_01_Body015_Ghost01_Mat",
+        "PathID": 7598871674765172125
+    },
+    {
+        "Name": "NPC_Male_Face001_02_Ghost01_Mat",
+        "PathID": 7552516298686693331
+    },
+    {
+        "Name": "NPC_Male_Face002_01_Ghost01_Mat",
+        "PathID": -8910954008201482969
+    },
+    {
+        "Name": "NPC_Male_Face003_01_Ghost01_Mat",
+        "PathID": -3849146833228078863
+    },
+    {
+        "Name": "NPC_Male_Face004_01_Ghost01_Mat",
+        "PathID": 3862924372317393415
+    },
+    {
+        "Name": "NPC_Male_Face005_01_Ghost01_Mat",
+        "PathID": -7716213240746471518
+    },
+    {
+        "Name": "NPC_Male_Hair003_Ghost01_Mat",
+        "PathID": -4924236415751575475
+    },
+    {
+        "Name": "NPC_Male_Hair005_Ghost01_Mat",
+        "PathID": -3181503848977676901
+    },
+    {
+        "Name": "NPC_Male_Hair006_Ghost01_Mat",
+        "PathID": -2230876318629648359
+    },
+    {
+        "Name": "NPC_Male_Hair012_Ghost01_Mat",
+        "PathID": -6879997638451946303
+    },
+    {
+        "Name": "NPC_Male_Hair026_Ghost01_Mat",
+        "PathID": 299915349453798034
+    },
+    {
+        "Name": "NPC_Male_Hair027_Ghost01_Mat",
+        "PathID": -7200620034086953423
+    },
+    {
+        "Name": "NPC_Male_Halfdan_Body010_Ghost01_Mat",
+        "PathID": -4904679606096015954
+    },
+    {
+        "Name": "NPC_Male_NodKrai_HighKuuvahkiProt_02_Body016_Ghost01_Mat",
+        "PathID": -4386083598311324082
+    },
+    {
+        "Name": "NPC_Male_NodKrai_UpperClass_02_Body016_Ghost01_Mat",
+        "PathID": 8805886255229149329
+    },
+    {
+        "Name": "Property_Ani_Prop_BirdPinball_02",
+        "PathID": 7569575570335310089
+    },
+    {
+        "Name": "Property_Ani_Prop_PinBallboard_02",
+        "PathID": 3497799498852894527
+    },
+    {
+        "Name": "Property_Ani_Prop_PinBallboard_02_01",
+        "PathID": -8140676639303778806
+    },
+    {
+        "Name": "Property_Ani_Prop_PinBallboard_02_03",
+        "PathID": 158561733740990514
+    },
+    {
+        "Name": "Property_Ani_Prop_PinBallboard_02_08",
+        "PathID": 7692070094134342968
+    },
+    {
+        "Name": "Property_Ani_Prop_SnowyMountainPitchPotStand_04",
+        "PathID": 7494092723762403652
+    }
+]

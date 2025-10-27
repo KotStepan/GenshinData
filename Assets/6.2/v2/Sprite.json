@@ -1,0 +1,118 @@
+[
+    {
+        "Name": "UI_Activity_SnowRaceCombat_03",
+        "PathID": -7479579035688502203
+    },
+    {
+        "Name": "UI_Activity_SnowRace_Parkour_01",
+        "PathID": 9125111070798402993
+    },
+    {
+        "Name": "UI_Activity_SnowRace_Parkour_02",
+        "PathID": 5594706264168770464
+    },
+    {
+        "Name": "UI_Activity_SnowRace_Parkour_03",
+        "PathID": 6928971037387479729
+    },
+    {
+        "Name": "UI_Buff_DurinElementalArtBuff_Black",
+        "PathID": -8529679237433880639
+    },
+    {
+        "Name": "UI_Buff_DurinElementalArtBuff_White",
+        "PathID": -7210022644690287611
+    },
+    {
+        "Name": "UI_CutScene_AQ602711A",
+        "PathID": -9043846662542811366
+    },
+    {
+        "Name": "UI_Frm_SnowRace_Bg_Mask01",
+        "PathID": 123361818623272042
+    },
+    {
+        "Name": "UI_Gcg_CardFace_Assist_Location_GeshiTa_Platinum",
+        "PathID": 648048872238360279
+    },
+    {
+        "Name": "UI_Gcg_History_Assist_Location_GeshiTa_S",
+        "PathID": -7671125218325456380
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_Absorption",
+        "PathID": -5040681154561962853
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_Coin",
+        "PathID": 4307325582724495294
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_Fance",
+        "PathID": 8284340861274448264
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_Shield",
+        "PathID": 9032277858778632057
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_TurboGate",
+        "PathID": -4154740833200020634
+    },
+    {
+        "Name": "UI_Img_SnowRaceDialog_EquipBg_01",
+        "PathID": 4731630061735537828
+    },
+    {
+        "Name": "UI_Img_SnowRaceDialog_EquipBg_02_Distort",
+        "PathID": -5162300558537806568
+    },
+    {
+        "Name": "UI_Img_SnowRaceHnS_Remap",
+        "PathID": -5993749963831948047
+    },
+    {
+        "Name": "UI_Img_SnowRaceMainPage_EntryThrow_03",
+        "PathID": -5903801659196915503
+    },
+    {
+        "Name": "UI_Img_SnowRaceMainPage_EntryThrow_09",
+        "PathID": -3994909520627639763
+    },
+    {
+        "Name": "UI_Img_SnowRaceParkour_Progres_Deco",
+        "PathID": 8114288463545745825
+    },
+    {
+        "Name": "UI_Img_SnowRace_MainPageTab",
+        "PathID": -2904593368480134360
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_Absorption",
+        "PathID": 4094521786802290690
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_Coin",
+        "PathID": -4072155755540167288
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_Fance",
+        "PathID": -2627037451177633772
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_Shield",
+        "PathID": 3042529491964146150
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_TurboGate",
+        "PathID": -7058595641099977321
+    },
+    {
+        "Name": "UI_ItemIcon_220126",
+        "PathID": 3088462561942963809
+    },
+    {
+        "Name": "UI_QuestAlbumPic_AQ602719_MoonNightBox",
+        "PathID": -9136199027222397355
+    }
+]

@@ -1,0 +1,1154 @@
+[
+    {
+        "Name": "Animal_Beaver_01_Tex_Diffuse",
+        "PathID": -7851473951231156402
+    },
+    {
+        "Name": "Animal_Bird_Medium_Swan_01_01_Tex_Diffuse",
+        "PathID": -5183138215952049669
+    },
+    {
+        "Name": "Animal_Bird_Medium_Swan_01_02_Tex_Diffuse",
+        "PathID": 6291046051908024893
+    },
+    {
+        "Name": "Animal_Bird_Medium_Uka_01_Tex_Diffuse",
+        "PathID": 3849773017711482070
+    },
+    {
+        "Name": "Animal_Bird_Small_Albatross_01_01_Tex_Diffuse",
+        "PathID": 2245062729071622846
+    },
+    {
+        "Name": "Animal_Bird_Small_Eggplant_01_01_Tex_Diffuse",
+        "PathID": 8134974457554375581
+    },
+    {
+        "Name": "Animal_Bird_Small_Eggplant_01_02_Tex_Diffuse",
+        "PathID": -867056314126483454
+    },
+    {
+        "Name": "Animal_Bird_Small_Fantail_01_01_Tex_Diffuse",
+        "PathID": 7316200282708648301
+    },
+    {
+        "Name": "Animal_Bird_Small_Fantail_01_02_Tex_Diffuse",
+        "PathID": 6282926289874220722
+    },
+    {
+        "Name": "Animal_Bird_Small_Larvivora_01_01_Tex_Diffuse",
+        "PathID": 9166761985238504659
+    },
+    {
+        "Name": "Animal_Bird_Small_Larvivora_01_02_Tex_Diffuse",
+        "PathID": 2646970049763031469
+    },
+    {
+        "Name": "Animal_Bird_Small_Seagull_01_01_Tex_Deffuse",
+        "PathID": -8762221843145610541
+    },
+    {
+        "Name": "Animal_Boar_02_Tex_Diffuse",
+        "PathID": 3936502718746791735
+    },
+    {
+        "Name": "Animal_Boar_02_Tex_Lightmap",
+        "PathID": -923546496952669790
+    },
+    {
+        "Name": "Animal_Boar_03_01_Tex_Diffuse",
+        "PathID": -2366839257664646752
+    },
+    {
+        "Name": "Animal_Boar_03_02_Tex_Diffuse",
+        "PathID": -7496406518328035756
+    },
+    {
+        "Name": "Animal_Boltbug_Lightbug_01_01_Tex_Diffuse",
+        "PathID": -8012611476738431321
+    },
+    {
+        "Name": "Animal_Boltbug_Lightbug_01_02_Tex_Diffuse",
+        "PathID": 1568950298871054350
+    },
+    {
+        "Name": "Animal_Boltbug_MachinaIustitia_01_Tex_Diffuse",
+        "PathID": 6852963339165596810
+    },
+    {
+        "Name": "Animal_Boltbug_MachinaIustitia_01_Tex_Lightmap",
+        "PathID": 3835500303434719348
+    },
+    {
+        "Name": "Animal_Boltbug_Scarab_01_01_Tex_Diffuse",
+        "PathID": 4395072478256865461
+    },
+    {
+        "Name": "Animal_Cat_01_01_Tex_Diffuse",
+        "PathID": -5764562802837428070
+    },
+    {
+        "Name": "Animal_Crab_01_04_Tex_Diffuse",
+        "PathID": 8469903922028070989
+    },
+    {
+        "Name": "Animal_Crab_01_05_Tex_Diffuse",
+        "PathID": -702786368347716144
+    },
+    {
+        "Name": "Animal_Crane_01_02_Tex_Diffuse",
+        "PathID": 4673858730135704995
+    },
+    {
+        "Name": "Animal_Crane_03_01_Tex_Diffuse",
+        "PathID": -5749728934049726151
+    },
+    {
+        "Name": "Animal_Dog_DropEar_01_01_Tex_Diffuse",
+        "PathID": -2341342628294150878
+    },
+    {
+        "Name": "Animal_Dog_DropEar_01_02_Tex_Diffuse",
+        "PathID": 1102282448450268234
+    },
+    {
+        "Name": "Animal_Dog_DropEar_01_03_Tex_Diffuse",
+        "PathID": 5465308212007248996
+    },
+    {
+        "Name": "Animal_Dog_PrickEar_01_02_Tex_Diffuse",
+        "PathID": -6879593635088245345
+    },
+    {
+        "Name": "Animal_Dog_PrickEar_01_03_Tex_Diffuse",
+        "PathID": -6408596411169763612
+    },
+    {
+        "Name": "Animal_Dog_Vulpes_01_01_Tex_Diffuse",
+        "PathID": -8590104225571134035
+    },
+    {
+        "Name": "Animal_Eel_01_01_Tex_Diffuse",
+        "PathID": -4118798060028485440
+    },
+    {
+        "Name": "Animal_Eel_01_02_Tex_Diffuse",
+        "PathID": 1771954774415477650
+    },
+    {
+        "Name": "Animal_Eel_01_03_Tex_Diffuse",
+        "PathID": -5776619214417889638
+    },
+    {
+        "Name": "Animal_Eel_01_04_Tex_Diffuse",
+        "PathID": -5603630765624371507
+    },
+    {
+        "Name": "Animal_Falcon_01_01_Tex_Diffuse",
+        "PathID": 3868497006407270990
+    },
+    {
+        "Name": "Animal_Falcon_01_02_Tex_Diffuse",
+        "PathID": 1849050480957597824
+    },
+    {
+        "Name": "Animal_Falcon_01_03_Tex_Diffuse",
+        "PathID": 1953685172400989565
+    },
+    {
+        "Name": "Animal_Falcon_01_04_Tex_Diffuse",
+        "PathID": 1669618693090397781
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Apsva_01_01_Tex_Diffuse",
+        "PathID": -8766463611530407038
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Apsva_01_02_Tex_Diffuse",
+        "PathID": 8412363158234989762
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Apsva_01_03_Tex_Diffuse",
+        "PathID": -2743940717221044853
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Aspidorhynchus_01_01_Tex_Diffuse",
+        "PathID": -4310558429407543527
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Aspidorhynchus_01_02_Tex_Diffuse",
+        "PathID": 4114894536875582188
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Aspidorhynchus_01_05_Tex_Diffuse",
+        "PathID": -8001274484981472742
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Batdiodan_01_01_Tex_Diffuse",
+        "PathID": -8028920949597063216
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Batdiodan_01_02_Tex_Diffuse",
+        "PathID": 8374808551949663932
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Batdiodan_01_03_Tex_Diffuse",
+        "PathID": -3090187917169082835
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Batdiodan_01_04_Tex_Diffuse",
+        "PathID": 4210780192426389735
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Coeur_01_01_Tex_Diffuse",
+        "PathID": -1531666519335216301
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Coeur_01_02_Tex_Diffuse",
+        "PathID": -7499626824873062524
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Coeur_01_03_Tex_Diffuse",
+        "PathID": 1340386764141013427
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Doryaspis_01_01_Tex_Diffuse",
+        "PathID": 1073561143464989133
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Doryaspis_01_02_Tex_Diffuse",
+        "PathID": 5000535105634648042
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Doryaspis_01_04_Tex_Diffuse",
+        "PathID": -3635618812504396298
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Doryaspis_01_05_Tex_Diffuse",
+        "PathID": -8336315215764767089
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Doryaspis_01_06_Tex_Diffuse",
+        "PathID": -6654007071758667182
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Heliobatis_01_02_Tex_Diffuse",
+        "PathID": 8658988589542836432
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_Heliobatis_01_03_Tex_Diffuse",
+        "PathID": -6734698406794657315
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_MachinaIustitia_01_01_Tex_Diffuse",
+        "PathID": -7012291154825621332
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_MachinaIustitia_01_02_Tex_Diffuse",
+        "PathID": -1516136779636429344
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_MachinaIustitia_01_03_Tex_Diffuse",
+        "PathID": 5919606020971051351
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_MachinaIustitia_01_04_Tex_Diffuse",
+        "PathID": 8484496121101428566
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_MachinaIustitia_01_04_Tex_Lightmap",
+        "PathID": -4703804918092691213
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_MachinaIustitia_01_05_Tex_Diffuse",
+        "PathID": -3840111913249782383
+    },
+    {
+        "Name": "Animal_Fishable_Maritime_MachinaIustitia_01_05_Tex_Lightmap",
+        "PathID": 6387000925032951008
+    },
+    {
+        "Name": "Animal_Fishable_Ray_Stellamarisidae_01_01_Tex_Diffuse",
+        "PathID": -7651069810174863397
+    },
+    {
+        "Name": "Animal_Fishable_Ray_Stellamarisidae_01_02_Tex_Diffuse",
+        "PathID": 9196111529761698368
+    },
+    {
+        "Name": "Animal_Fishable_Ray_Stellamarisidae_01_03_Tex_Diffuse",
+        "PathID": 4482735840980319105
+    },
+    {
+        "Name": "Animal_FontainePoddle_Gentleman_01_Body_Tex_Diffuse",
+        "PathID": 8035427828090031157
+    },
+    {
+        "Name": "Animal_FontainePoddle_Gentleman_01_Body_Tex_Lightmap",
+        "PathID": -942273658969985932
+    },
+    {
+        "Name": "Animal_Fox_01_01_Tex_Diffuse",
+        "PathID": 1735042105897911459
+    },
+    {
+        "Name": "Animal_Fox_01_03_Tex_Diffuse",
+        "PathID": 7011456519632958272
+    },
+    {
+        "Name": "Animal_Frog_01_02_Tex_Diffuse",
+        "PathID": 1144606890683809234
+    },
+    {
+        "Name": "Animal_Frog_01_04_Tex_Diffuse",
+        "PathID": -6799212954816810313
+    },
+    {
+        "Name": "Animal_Goat_01_Tex_Diffuse",
+        "PathID": 3461111414422050455
+    },
+    {
+        "Name": "Animal_HpmCat_01_01_Tex_Diffuse",
+        "PathID": -1944194927627437254
+    },
+    {
+        "Name": "Animal_HpmCat_01_02_Tex_Diffuse",
+        "PathID": -2825859021502961891
+    },
+    {
+        "Name": "Animal_HpmCat_01_03_Tex_Diffuse",
+        "PathID": -8899732322760043874
+    },
+    {
+        "Name": "Animal_HpmCat_01_04_Tex_Diffuse",
+        "PathID": -381297474171214423
+    },
+    {
+        "Name": "Animal_HpmCat_01_05_Tex_Diffuse",
+        "PathID": -3953468180370811159
+    },
+    {
+        "Name": "Animal_HpmCat_01_06_Tex_Diffuse",
+        "PathID": -4538238478668477367
+    },
+    {
+        "Name": "Animal_HpmCat_BulleKnight_01_Tex_Diffuse",
+        "PathID": -6849996673728672260
+    },
+    {
+        "Name": "Animal_HpmCat_Item_01_Tex_Diffuse",
+        "PathID": 6509434592492647593
+    },
+    {
+        "Name": "Animal_HpmCat_Item_01_Tex_Lightmap",
+        "PathID": -4005269023452096317
+    },
+    {
+        "Name": "Animal_Inu_Shihandai_01_01_Hat_Tex_Diffuse",
+        "PathID": 3351332657980544878
+    },
+    {
+        "Name": "Animal_Inu_Shihandai_01_01_Hat_Tex_Lightmap",
+        "PathID": -1266878175562246681
+    },
+    {
+        "Name": "Animal_Inu_Shihandai_01_01_Tex_Diffuse",
+        "PathID": 2373030334084789784
+    },
+    {
+        "Name": "Animal_Inu_Shihandai_01_01_Tex_Lightmap",
+        "PathID": -4452647345757067819
+    },
+    {
+        "Name": "Animal_Lizard_01_04_Tex_Diffuse",
+        "PathID": 8395470950690779214
+    },
+    {
+        "Name": "Animal_Lizard_01_05_Tex_Diffuse",
+        "PathID": -8208583634077061373
+    },
+    {
+        "Name": "Animal_Lizard_02_01_Tex_Diffuse",
+        "PathID": 3378197724852293734
+    },
+    {
+        "Name": "Animal_Lizard_02_02_Tex_Diffuse",
+        "PathID": -6386056505087708996
+    },
+    {
+        "Name": "Animal_Lizard_02_03_Tex_Diffuse",
+        "PathID": -8824462454235856396
+    },
+    {
+        "Name": "Animal_Marten_02_01_Tex_Diffuse",
+        "PathID": 5807051586423774662
+    },
+    {
+        "Name": "Animal_Marten_02_02_Tex_Diffuse",
+        "PathID": -2602300958929128178
+    },
+    {
+        "Name": "Animal_Marten_02_03_Tex_Diffuse",
+        "PathID": 4374659880289782576
+    },
+    {
+        "Name": "Animal_Marten_02_04_Tex_Diffuse",
+        "PathID": 952617112545543226
+    },
+    {
+        "Name": "Animal_Marten_02_05_Tex_Diffuse",
+        "PathID": -738008931950064482
+    },
+    {
+        "Name": "Animal_Pigeon_02_01_Tex_Diffuse",
+        "PathID": -4057135955198461601
+    },
+    {
+        "Name": "Animal_Pigeon_03_Tex_Diffuse",
+        "PathID": 6402305285992895248
+    },
+    {
+        "Name": "Animal_Wisp_01_Electric_Tex_Diffuse",
+        "PathID": -8767417646845630561
+    },
+    {
+        "Name": "Animal_Wisp_01_Grass_Tex_Diffuse",
+        "PathID": 7264751102535149763
+    },
+    {
+        "Name": "Animal_Wisp_01_Ice_Tex_Diffuse",
+        "PathID": -3241631636070568461
+    },
+    {
+        "Name": "Animal_Wisp_01_Rock_Tex_Diffuse",
+        "PathID": -1819027239580543229
+    },
+    {
+        "Name": "Animal_Wisp_01_Water_Tex_Diffuse",
+        "PathID": -2044108413687473262
+    },
+    {
+        "Name": "Animal_Wisp_02_Tex_Diffuse",
+        "PathID": -3400980071834603997
+    },
+    {
+        "Name": "Area_Fd_Tree_PQS_BLS_01_Leaf_Enviro_Stars",
+        "PathID": 7288189212858435771
+    },
+    {
+        "Name": "Avatar_Girl_Catalyst_ColumbinaRP01_Tex_Body_Eff_Ramp",
+        "PathID": 7133779245308233218
+    },
+    {
+        "Name": "Avatar_Girl_Catalyst_ColumbinaRP01_Tex_Body_Shadow_Ramp",
+        "PathID": 5830728232104252159
+    },
+    {
+        "Name": "Beyd_Eff_UI_Line02",
+        "PathID": 2126571051786915785
+    },
+    {
+        "Name": "Beyd_Eff_UI_Snow_01",
+        "PathID": 5484507747669347732
+    },
+    {
+        "Name": "Eff_Avatar_Furina_05",
+        "PathID": 3641546153940806877
+    },
+    {
+        "Name": "Eff_Avatar_Nahida_Symbol_Normal",
+        "PathID": 8836601395488216050
+    },
+    {
+        "Name": "Eff_CardCurves",
+        "PathID": 2210379072666196421
+    },
+    {
+        "Name": "Eff_Cs_RainTrail_01",
+        "PathID": 2404162458439858761
+    },
+    {
+        "Name": "Eff_Cs_RainyPoint_03",
+        "PathID": -333251457685237953
+    },
+    {
+        "Name": "Eff_Gcg_ColorRamp_01",
+        "PathID": 5359847078552534944
+    },
+    {
+        "Name": "Eff_Noise_25",
+        "PathID": -4638226498483267230
+    },
+    {
+        "Name": "Eff_Stages_POI_Fd_JSDT_Dreamywaves_01_Ramp",
+        "PathID": -1250298494530039684
+    },
+    {
+        "Name": "Eff_Symbol_106",
+        "PathID": 7029976907118792761
+    },
+    {
+        "Name": "Eff_Trail_39_H_Clamp",
+        "PathID": 6821680909977096134
+    },
+    {
+        "Name": "Eff_UI_SnowRaceCombatGameDialog_ProgressMask",
+        "PathID": 8594548159122839921
+    },
+    {
+        "Name": "Eff_UI_SnowRaceExchangeDialog_Spine",
+        "PathID": 2228121829715126390
+    },
+    {
+        "Name": "Eff_UI_SnowRaceInvitationDialog_Spine",
+        "PathID": 2926470097024976233
+    },
+    {
+        "Name": "Eff_UI_SnowRaceMainPage_Btn_Spine_2",
+        "PathID": 4860228845064772366
+    },
+    {
+        "Name": "Eff_UI_SnowRacePlotDialog_Snow",
+        "PathID": 6722330559192786191
+    },
+    {
+        "Name": "IrisTex",
+        "PathID": -1921814072819773225
+    },
+    {
+        "Name": "Level_NK_Hyperborea_01_3_TM384_TerrainMeshSplatmap",
+        "PathID": 1441858953111087575
+    },
+    {
+        "Name": "Level_NK_Hyperborea_01_3_TM384_TerrainMeshTint",
+        "PathID": -5758115055555289234
+    },
+    {
+        "Name": "Level_Xm_Plot_Floor_A_01_Detail_Mask",
+        "PathID": -5620818708218028086
+    },
+    {
+        "Name": "MonEquip_Invoker_Catalyst_Fire_Tex_Diffuse",
+        "PathID": 5667912330989041214
+    },
+    {
+        "Name": "MonEquip_Invoker_Catalyst_Fire_Tex_Lightmap",
+        "PathID": 8853917402814005204
+    },
+    {
+        "Name": "MonEquip_Invoker_Grimoire_Electric_Tex_Diffuse",
+        "PathID": -1780109748820641264
+    },
+    {
+        "Name": "MonEquip_Invoker_Grimoire_Electric_Tex_Lightmap",
+        "PathID": 3311307028216511154
+    },
+    {
+        "Name": "MonsterObj_Ani_Quest_Electrohercules_01_Diffuse",
+        "PathID": 1790947382769269640
+    },
+    {
+        "Name": "Monster_Chrysopelea_Wildlife_01_Tex_Diffuse",
+        "PathID": -6215407938820906551
+    },
+    {
+        "Name": "Monster_Chrysopelea_Wildlife_01_Tex_Lightmap",
+        "PathID": 5849390908010317668
+    },
+    {
+        "Name": "Monster_Defender_02_Konungmathr_Body01_Tex_Diffuse",
+        "PathID": 1005056843638677704
+    },
+    {
+        "Name": "Monster_Defender_02_Konungmathr_Body01_Tex_Lightmap",
+        "PathID": 7616481788553485663
+    },
+    {
+        "Name": "Monster_Defender_02_Konungmathr_Body02_Tex_Lightmap",
+        "PathID": -2236559339186610991
+    },
+    {
+        "Name": "Monster_Effigy_02_Water_Tex_Diffuse",
+        "PathID": 241869778422735230
+    },
+    {
+        "Name": "Monster_Effigy_04_Fire_Tex_Diffuse",
+        "PathID": 8520416799351685257
+    },
+    {
+        "Name": "Monster_Effigy_04_Fire_Tex_Normal",
+        "PathID": 4087540864761210613
+    },
+    {
+        "Name": "Monster_Eldritch_Tentacle_Mask_Tex_Eff",
+        "PathID": 6013227468552750626
+    },
+    {
+        "Name": "Monster_Hound_01_Riftstalker_Tex_Diffuse",
+        "PathID": 390371205248061657
+    },
+    {
+        "Name": "Monster_Hound_01_Riftstalker_Tex_Lightmap",
+        "PathID": -4872369886964327746
+    },
+    {
+        "Name": "Monster_Hound_Kanis_01_Tex_Diffuse",
+        "PathID": -7263277245002924467
+    },
+    {
+        "Name": "Monster_Hound_Kanis_01_Tex_Lightmap",
+        "PathID": -7983621214085980752
+    },
+    {
+        "Name": "Monster_Hound_Planelurker_Body_Tex_Diffuse",
+        "PathID": 4562487660529202280
+    },
+    {
+        "Name": "Monster_Hound_Planelurker_Body_Tex_Lightmap",
+        "PathID": 5984014676618341213
+    },
+    {
+        "Name": "Monster_Hound_Planelurker_Hair_Tex_Diffuse",
+        "PathID": 2340564555670944617
+    },
+    {
+        "Name": "Monster_Hound_Planelurker_Hair_Tex_Lightmap",
+        "PathID": -2394966019869542950
+    },
+    {
+        "Name": "Monster_Invoker_Archdeacon_01_Eff_Tex_Diffuse",
+        "PathID": -4963069742354312131
+    },
+    {
+        "Name": "Monster_Invoker_Archdeacon_01_Eff_Tex_Lightmap",
+        "PathID": 8609233120247277799
+    },
+    {
+        "Name": "Monster_Invoker_Archdeacon_01_Tex_Diffuse",
+        "PathID": -8013138932946133880
+    },
+    {
+        "Name": "Monster_Invoker_Archdeacon_01_Tex_Lightmap",
+        "PathID": -5319107335112532659
+    },
+    {
+        "Name": "Monster_Invoker_Archdeacon_01_Tex_Normalmap",
+        "PathID": -1297624590291601745
+    },
+    {
+        "Name": "Monster_Invoker_Deacon_01_Electric_Mask_Tex_Eff",
+        "PathID": -275579890462851581
+    },
+    {
+        "Name": "Monster_Invoker_Deacon_01_Electric_Tex_Diffuse",
+        "PathID": 8044851768452162320
+    },
+    {
+        "Name": "Monster_Invoker_Deacon_01_Electric_Tex_Lightmap",
+        "PathID": 8933908309015942997
+    },
+    {
+        "Name": "Monster_Invoker_Deacon_02_Fire_Tex_Diffuse",
+        "PathID": -2053373969670736404
+    },
+    {
+        "Name": "Monster_Invoker_Deacon_02_Fire_Tex_Lightmap",
+        "PathID": -6861739465526151588
+    },
+    {
+        "Name": "Monster_Invoker_Herald_01_Ice_Tex_Diffuse",
+        "PathID": -4264449363438893154
+    },
+    {
+        "Name": "Monster_Invoker_Herald_01_Ice_Tex_Lightmap",
+        "PathID": -6018906012124561479
+    },
+    {
+        "Name": "Monster_Invoker_Herald_01_Water_Mask_Tex_Eff",
+        "PathID": -5218767104727437403
+    },
+    {
+        "Name": "Monster_Invoker_Herald_01_Water_Tex_Diffuse",
+        "PathID": 8018639843291433405
+    },
+    {
+        "Name": "Monster_Invoker_Herald_01_Water_Tex_Lightmap",
+        "PathID": 6758659786765676194
+    },
+    {
+        "Name": "Monster_LaSignora_01_Body_Tex_Diffuse",
+        "PathID": -8191952059642508655
+    },
+    {
+        "Name": "Monster_LaSignora_01_Body_Tex_Lightmap",
+        "PathID": -7297876702665995332
+    },
+    {
+        "Name": "Monster_LaSignora_01_Face_Tex_Diffuse",
+        "PathID": -3909172597406150276
+    },
+    {
+        "Name": "Monster_LaSignora_01_Hair_Tex_Diffuse",
+        "PathID": -8245700361065316939
+    },
+    {
+        "Name": "Monster_LaSignora_01_Hair_Tex_Lightmap",
+        "PathID": -8715855011664529528
+    },
+    {
+        "Name": "Monster_LaSignora_Harbinger_Body_Tex_Diffuse",
+        "PathID": 4302599483201786072
+    },
+    {
+        "Name": "Monster_LaSignora_Harbinger_Body_Tex_Lightmap",
+        "PathID": -463395832769464846
+    },
+    {
+        "Name": "Monster_LaSignora_Harbinger_Lash_Tex_Diffuse",
+        "PathID": -8978018959733814043
+    },
+    {
+        "Name": "Monster_LaSignora_Harbinger_Lash_Tex_Lightmap",
+        "PathID": 6895474164475331056
+    },
+    {
+        "Name": "Monster_LaSignora_Harbinger_Skirt_Tex_Diffuse",
+        "PathID": 7044827500136571367
+    },
+    {
+        "Name": "Monster_LaSignora_Harbinger_Skirt_Tex_Lightmap",
+        "PathID": 4092502370813907552
+    },
+    {
+        "Name": "Monster_LaSignora_Harbinger_Wing_Tex_Diffuse",
+        "PathID": 7004086043762551393
+    },
+    {
+        "Name": "Monster_LaSignora_Harbinger_Wing_Tex_Lightmap",
+        "PathID": 3878681402566770755
+    },
+    {
+        "Name": "Monster_LaSignora_Tex_Body_Shadow_Ramp",
+        "PathID": -3178851398526599332
+    },
+    {
+        "Name": "Monster_LaSignora_Tex_Hair_Shadow_Ramp",
+        "PathID": 5519229564981002882
+    },
+    {
+        "Name": "Monster_MachinaIustitia_Assimilator_01_Tex_Diffuse",
+        "PathID": -4673061959828056177
+    },
+    {
+        "Name": "Monster_MachinaIustitia_Assimilator_01_Tex_Lightmap",
+        "PathID": -6620277443038230802
+    },
+    {
+        "Name": "Monster_MachinaIustitia_Assimilator_01_Tex_Normalmap",
+        "PathID": -8053212716470436637
+    },
+    {
+        "Name": "Monster_MachinaIustitia_Coil_01_Tex_Diffuse",
+        "PathID": -530062680551505479
+    },
+    {
+        "Name": "Monster_Regisvine_01_Fire_Flower_Tex_Eff",
+        "PathID": 5723895057199220044
+    },
+    {
+        "Name": "NPC_Male_Liyue_Sergeant01_Body003_Tex_Diffuse",
+        "PathID": -3007840536081816357
+    },
+    {
+        "Name": "NPC_Male_Liyue_Sergeant01_Body003_Tex_Lightmap",
+        "PathID": -8954883384420014747
+    },
+    {
+        "Name": "NPC_Male_Liyue_Sergeant02_Body003_Tex_Diffuse",
+        "PathID": -3835833288610954191
+    },
+    {
+        "Name": "NPC_Male_Liyue_Sergeant02_Body003_Tex_Lightmap",
+        "PathID": 7914054562290753926
+    },
+    {
+        "Name": "Property_Ani_Prop_Electrohercules_01_Diffuse",
+        "PathID": 5678588565469684093
+    },
+    {
+        "Name": "Property_Ani_Prop_Electrohercules_05_Diffuse",
+        "PathID": 3768948713667503744
+    },
+    {
+        "Name": "Property_Ani_Prop_Electrohercules_05_Mask",
+        "PathID": -8541513598106705280
+    },
+    {
+        "Name": "Property_Ani_Prop_Electrohercules_09_Diffuse",
+        "PathID": 1148274145287335197
+    },
+    {
+        "Name": "Property_Ani_Prop_SnowyMountainPitchPotStand_01_01_Diffuse",
+        "PathID": -1295906532431378959
+    },
+    {
+        "Name": "Property_Ani_Prop_SnowyMountainPitchPotStand_01_01_Normal",
+        "PathID": -8567906487374737161
+    },
+    {
+        "Name": "Property_Ani_Prop_SnowyMountainPitchPotStand_01_01_SMBE",
+        "PathID": -2808587545577117605
+    },
+    {
+        "Name": "ScleraTex",
+        "PathID": -326998792405729433
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_atlas_map_mark_icons-1024x1024-fmt25",
+        "PathID": -8139365553130336158
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_atlas_map_mark_icons-512x512-fmt25",
+        "PathID": 8679135918606726176
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_birdpinball-1024x1024-fmt25",
+        "PathID": -8348241212633594100
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_birdpinball-1024x1024-fmt25",
+        "PathID": -1227407905389008227
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_birdpinball-1024x1024-fmt25",
+        "PathID": -196282290306403071
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_birdpinball-1024x1024-fmt25",
+        "PathID": 8476656678929082298
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_bomberv3-1024x1024-fmt25",
+        "PathID": -3378855349667861866
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_bomberv3-1024x1024-fmt25",
+        "PathID": -1919115457389373639
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_bomberv3-1024x1024-fmt25",
+        "PathID": -1192160237371448883
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_bomberv3-1024x1024-fmt25",
+        "PathID": -11461894915829820
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_tablepinball-1024x1024-fmt25",
+        "PathID": 1742202404139107353
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_tablepinball-1024x1024-fmt25",
+        "PathID": 6659687770564680802
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_activity_tablepinball-256x512-fmt25",
+        "PathID": 172983950597540587
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_hexenzirkel-1024x1024-fmt25",
+        "PathID": -7243071599435165701
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_hexenzirkel-1024x1024-fmt25",
+        "PathID": -2122032746274846548
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_hexenzirkel-1024x1024-fmt25",
+        "PathID": 3958251001636352270
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_hexenzirkel-1024x1024-fmt25",
+        "PathID": 5270687398223847742
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_hexenzirkel-1024x1024-fmt25",
+        "PathID": 6751606398335313318
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_inlevel_ui-1024x1024-fmt25",
+        "PathID": 8595506651962930705
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_inlevel_ui-512x512-fmt25",
+        "PathID": 3673466738906998375
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_magicinkenergybar-512x512-fmt25",
+        "PathID": -8875941622547894707
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_magicstorybookpage-1024x512-fmt25",
+        "PathID": -7971404338842229559
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_natlandragonparty_ui-1024x1024-fmt25",
+        "PathID": -6706485933347163045
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_natlandragonparty_ui-1024x1024-fmt25",
+        "PathID": 2778653051598278967
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_natlandragonparty_ui-1024x1024-fmt25",
+        "PathID": 4969323526851299182
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_questalchemysimpage-1024x1024-fmt25",
+        "PathID": 7246898725219342432
+    },
+    {
+        "Name": "SpriteAtlasTexture-ui_sprite_ugc_frm-512x512-fmt25",
+        "PathID": 6014921325200298694
+    },
+    {
+        "Name": "Stages_Grass_Noise_Perlin01",
+        "PathID": -5369342730768823326
+    },
+    {
+        "Name": "Stages_Vegetation_T4_Noise_02_NoStream",
+        "PathID": 538650302385345559
+    },
+    {
+        "Name": "UI_Activity_SnowRaceCombat_03",
+        "PathID": -1153899549537632269
+    },
+    {
+        "Name": "UI_Activity_SnowRace_Parkour_01",
+        "PathID": -5315779664101460816
+    },
+    {
+        "Name": "UI_Activity_SnowRace_Parkour_02",
+        "PathID": -6234277602165114216
+    },
+    {
+        "Name": "UI_Activity_SnowRace_Parkour_03",
+        "PathID": 2909258047871613062
+    },
+    {
+        "Name": "UI_Buff_DurinElementalArtBuff_Black",
+        "PathID": -7048365208472684392
+    },
+    {
+        "Name": "UI_Buff_DurinElementalArtBuff_White",
+        "PathID": -4783237969471677075
+    },
+    {
+        "Name": "UI_CutScene_AQ602711A",
+        "PathID": -5350269759986149635
+    },
+    {
+        "Name": "UI_Frm_SnowRace_Bg_Mask01",
+        "PathID": 3862949794494711741
+    },
+    {
+        "Name": "UI_Gcg_CardFace_Assist_Location_GeshiTa_Platinum",
+        "PathID": 436099616898104920
+    },
+    {
+        "Name": "UI_Gcg_History_Assist_Location_GeshiTa_S",
+        "PathID": -5700086062575897492
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_Absorption",
+        "PathID": -2005793512745367432
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_Coin",
+        "PathID": 7028202813464402777
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_Fance",
+        "PathID": 7206825722289557087
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_Shield",
+        "PathID": -5907370519248155915
+    },
+    {
+        "Name": "UI_Icon_SnowRace_Parkour_TurboGate",
+        "PathID": 1590400417776469881
+    },
+    {
+        "Name": "UI_Img_SnowRaceDialog_EquipBg_01",
+        "PathID": 7704094761120973078
+    },
+    {
+        "Name": "UI_Img_SnowRaceDialog_EquipBg_01",
+        "PathID": 7704094761120973078
+    },
+    {
+        "Name": "UI_Img_SnowRaceDialog_EquipBg_02_Distort",
+        "PathID": -1002423930110195265
+    },
+    {
+        "Name": "UI_Img_SnowRaceDialog_EquipBg_02_Distort",
+        "PathID": -1002423930110195265
+    },
+    {
+        "Name": "UI_Img_SnowRaceHnS_Remap",
+        "PathID": 997592530738845563
+    },
+    {
+        "Name": "UI_Img_SnowRaceMainPage_EntryThrow_03",
+        "PathID": -5854068165030422573
+    },
+    {
+        "Name": "UI_Img_SnowRaceMainPage_EntryThrow_09",
+        "PathID": -1545902534224243335
+    },
+    {
+        "Name": "UI_Img_SnowRaceMainPage_EntryThrow_09",
+        "PathID": -1545902534224243335
+    },
+    {
+        "Name": "UI_Img_SnowRaceParkour_Progres_Deco",
+        "PathID": 2192560190250027365
+    },
+    {
+        "Name": "UI_Img_SnowRace_MainPageTab",
+        "PathID": -2677312376880126706
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_Absorption",
+        "PathID": -9113399359089328018
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_Coin",
+        "PathID": 3114018712758674848
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_Fance",
+        "PathID": 9135106586851212019
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_Shield",
+        "PathID": -7281948291566298604
+    },
+    {
+        "Name": "UI_Img_SnowRace_Parkour_TurboGate",
+        "PathID": 1502189040131782863
+    },
+    {
+        "Name": "UI_ItemIcon_220126",
+        "PathID": 2895406582440946221
+    },
+    {
+        "Name": "UI_MapBack_4_5",
+        "PathID": 1598972457031322998
+    },
+    {
+        "Name": "UI_MapBack_4_6",
+        "PathID": 6390655028081777863
+    },
+    {
+        "Name": "UI_MapBack_5_1",
+        "PathID": 8568163045357491327
+    },
+    {
+        "Name": "UI_MapBack_5_2",
+        "PathID": 6111234558819713895
+    },
+    {
+        "Name": "UI_MapBack_5_3",
+        "PathID": -1565617260330967875
+    },
+    {
+        "Name": "UI_MapBack_5_4",
+        "PathID": -875196705325296345
+    },
+    {
+        "Name": "UI_MapBack_5_5",
+        "PathID": 2836526421275622256
+    },
+    {
+        "Name": "UI_MapBack_5_6",
+        "PathID": -1644105478345919802
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_-1_-1",
+        "PathID": -4383795882629885592
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_-1_0",
+        "PathID": 5824618716766004990
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_-1_1",
+        "PathID": -7422717298328719583
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_0_-1",
+        "PathID": -2837738538967586237
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_0_0",
+        "PathID": -8674857147687215940
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_0_1",
+        "PathID": 7179939962456264067
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_1_-1",
+        "PathID": -6345571616208069205
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_1_0",
+        "PathID": 3526621725991874610
+    },
+    {
+        "Name": "UI_MapBack_TheChasm_1_1",
+        "PathID": 8647977427939225720
+    },
+    {
+        "Name": "UI_MarkPoint_AdventureGoalFighting",
+        "PathID": -7693509687570630320
+    },
+    {
+        "Name": "UI_MarkPoint_AdventurePathwayPlanning",
+        "PathID": -8946636528907269774
+    },
+    {
+        "Name": "UI_MarkPoint_ColorChangingParkour",
+        "PathID": 2161980768026450777
+    },
+    {
+        "Name": "UI_MarkPoint_HumanDragonPuzzle",
+        "PathID": 1063293590339097267
+    },
+    {
+        "Name": "UI_MarkPoint_MusicParty",
+        "PathID": 504568089367216638
+    },
+    {
+        "Name": "UI_MarkQuest_Activity_HumanDragonPuzzle_Dragon",
+        "PathID": -8744014686949579955
+    },
+    {
+        "Name": "UI_MarkQuest_Activity_HumanDragonPuzzle_Human",
+        "PathID": -5232938503210185875
+    },
+    {
+        "Name": "UI_MarkQuest_AdventurePathwayPlanning_Absorb",
+        "PathID": 6374465443982914971
+    },
+    {
+        "Name": "UI_MarkQuest_AdventurePathwayPlanning_Throw",
+        "PathID": -5969783082516543536
+    },
+    {
+        "Name": "UI_QuestAlbumPic_AQ602719_MoonNightBox",
+        "PathID": -5278670533691068905
+    }
+]
